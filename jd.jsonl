@@ -1,0 +1,1394 @@
+{"id": 404, "data": "Ph.D. in Engineering, Mathematics, Computational Science, or a related field, or the equivalent combination of education and related experience.", "label": [[35, 56, "SKILL"]]}
+{"id": 405, "data": "Knowledge of shape/topology optimization techniques and algorithms.", "label": [[19, 40, "SKILL"]]}
+{"id": 406, "data": "Experience developing simulation tools using continuum approaches (e.g., finite elements) for physical systems.", "label": []}
+{"id": 407, "data": "Experience programming skill in C/C++/FORTRAN and scripting languages including Python/Matlab.", "label": [[34, 35, "SKILL"], [36, 35, "SKILL"],[38, 45, "SKILL"], [80, 86, "SKILL"], [87, 93, "SKILL"]]}
+{"id": 408, "data": "Comprehensive experience with explicit design sensitivity analysis via direct (forward) and adjoint (backward) methods.", "label": []}
+{"id": 409, "data": "Knowledge of massively-parallel computing and one or more associated parallel programming interfaces, such as MPI, OpenMP, or CUDA.", "label": [[110, 113, "SKILL"], [115, 121, "SKILL"], [126, 130, "SKILL"]]}
+{"id": 410, "data": "Proficient verbal and written communication skills needed to effectively collaborate in a team environment, present and explain technical information, document work, prepare and present successful proposals and high-quality research papers.", "label": []}
+{"id": 411, "data": "Additional qualifications at the SES.3 level", "label": []}
+{"id": 412, "data": "Advanced knowledge of shape/topology optimization techniques and algorithms.", "label": [[28, 49, "SKILL"]]}
+{"id": 413, "data": "Significant experience developing simulations tools using continuum approaches (e.g., finite elements) for physical systems and advanced programming skill in C/C++/FORTRAN and scripting languages including Python/Matlab.", "label": [[158, 159, "SKILL"], [160, 163, "SKILL"], [164, 171, "SKILL"], [206, 212, "SKILL"], [213, 219, "SKILL"]]}
+{"id": 414, "data": "Significant experience with explicit design sensitivity analysis via direct (forward) and adjoint (backward) methods and experience with massively-parallel computing and one or more associated parallel programming interfaces, such as MPI, OpenMP, or CUDA.", "label": [[234, 237, "SKILL"], [239, 245, "SKILL"], [250, 254, "SKILL"]]}
+{"id": 415, "data": "Advanced verbal and written communication skills needed to effectively collaborate in a team environment, present and explain technical information, document work, prepare and present successful proposals and high-quality research papers.", "label": []}
+{"id": 416, "data": "Qualifications We Desire", "label": []}
+{"id": 417, "data": "Exposure to machine learning and other data science techniques", "label": [[12, 28, "SKILL"], [39, 51, "SKILL"]]}
+{"id": 418, "data": "Collaborate with stakeholders, software developers, data scientists, and the team to architect a DevOps infrastructure that meets requirements for 24x7 uptime, and efficient, frequent software delivery.", "label": [[97, 103, "SKILL"]]}
+{"id": 419, "data": "Leverage Ansible for managing infrastructure, including the development of well-formed Ansible code to configure Linux cluster environments that implement complex operational and security requirements.", "label": [[113, 118, "SKILL"], [87, 94, "SKILL"]]}
+{"id": 420, "data": "Assist with managing Docker/Kubernetes virtualization infrastructure in Linux, to support complex operational, development, and security requirements.", "label": [[21, 27, "SKILL"], [28, 38, "SKILL"], [72, 77, "SKILL"]]}
+{"id": 421, "data": "Investigate and deploy infrastructure monitoring, alerting and logging tools for the DevOps infrastructure.", "label": [[85, 91, "SKILL"]]}
+{"id": 422, "data": "Document and version control the IT infrastructure, using Git and Confluence; track/report work status in tickets using JIRA.", "label": [[120, 124, "SKILL"], [58, 61, "SKILL"], [33, 50, "SKILL"], [66, 76, "SKILL"]]}
+{"id": 423, "data": "Support and improve GitLab CI/CD system used for automating deployments of infrastructure servers, Kubernetes cluster(s) and applications.", "label": [[27, 39, "SKILL"], [20, 26, "SKILL"], [99, 109, "SKILL"]]}
+{"id": 424, "data": "Perform other duties as assigned.", "label": []}
+{"id": 425, "data": "Additional job responsibilities, at the SES.2 level", "label": []}
+{"id": 426, "data": "Implement automation tools to help with deploying, troubleshooting and maintaining cluster environments.", "label": [[10, 26, "SKILL"]]}
+{"id": 427, "data": "Design, implement and manage build and release pipelines.", "label": []}
+{"id": 428, "data": "Extend Kubernetes to help simplify researcher’s usage and operations.", "label": [[7, 17, "SKILL"]]}
+{"id": 429, "data": "Qualifications", "label": []}
+{"id": 430, "data": "Ability to maintain a U.S. DOE Q-level security clearance which requires U.S. citizenship.", "label": []}
+{"id": 431, "data": "Bachelor’s degree in Computer Science, Computer Engineering, Computer Information Systems, or related field, or the equivalent combination of education and related experience.", "label": []}
+{"id": 432, "data": "Skilled in all aspects of the software project life cycle: feasibility, requirements, design, implementation, integration, test and deployment.", "label": []}
+{"id": 433, "data": "Experience with container technologies, such as Docker, Podman and/or Kubernetes.", "label": [[48, 54, "SKILL"], [56, 62, "SKILL"], [70, 80, "SKILL"]]}
+{"id": 602, "data": "Experience working on large-scale distributed systems", "label": []}
+{"id": 434, "data": "Sufficient verbal and written communication skills necessary to effectively collaborate in a team environment and present and explain technical information.", "label": []}
+{"id": 435, "data": "Sufficient interpersonal skills necessary to interact with all levels of personnel and ability to work independently in a multi-disciplinary team environment.", "label": []}
+{"id": 436, "data": "Additional qualifications at the SES.2 level", "label": []}
+{"id": 437, "data": "Experience with automating builds, tests, workflows, tasks or other processes.", "label": []}
+{"id": 438, "data": "Broad experience providing innovative approaches and applying new technologies to broadly defined tasks and projects.", "label": []}
+{"id": 439, "data": "Ability to set priorities and independently resolve complex problems in a fast-paced environment.", "label": []}
+{"id": 440, "data": "Qualifications We Desire", "label": []}
+{"id": 441, "data": "Experience with configuration management systems such as Ansible, Puppet, Chef or Salt.", "label": [[57, 64, "SKILL"], [66, 72, "SKILL"], [74, 78, "SKILL"], [82, 86, "SKILL"]]}
+{"id": 442, "data": "Experience with virtual environments (Vagrant, VMware or Ovirt) and/or containerized environments (Docker, Podman or Kubernetes).", "label": [[38, 45, "SKILL"], [47, 53, "SKILL"], [57, 62, "SKILL"], [99, 105, "SKILL"], [107, 113, "SKILL"], [117, 127, "SKILL"]]}
+{"id": 443, "data": "Experience designing and implementing release and workflow pipelines using CI/CD systems such as Jenkins or GitLab.", "label": [[97, 104, "SKILL"], [108, 114, "SKILL"], [75, 88, "SKILL"]]}
+{"id": 444, "data": "Develop industry standard software packages in Python, C, and C++ within Linux, UNIX, and/or Windows environments.", "label": [[47, 53, "SKILL"], [55, 56, "SKILL"], [62, 65, "SKILL"], [73, 78, "SKILL"], [80, 84, "SKILL"]]}
+{"id": 445, "data": "Develop firmware for the 3D sensing systems and sub-systems, implement real-time software packages for data processing, communication, and control, design, and standardize application interface protocols for the existing and future 3D sensing systems.", "label": []}
+{"id": 446, "data": "Contribute to data analytics tools for 3D sensing, such as building visualization tools, database management, optimization of (and potentially contribution to) physics-based simulations in software, implementation of machine learning algorithms, etc.", "label": []}
+{"id": 447, "data": "Be responsible for the continuous integration and automation of the software development for the group.", "label": [[50, 60, "SKILL"]]}
+{"id": 448, "data": "Perform other duties as assigned.", "label": []}
+{"id": 449, "data": "Additional job responsibilities, at the SES.3 level", "label": []}
+{"id": 450, "data": "Provide real-time software development for computer vision in C++.", "label": [[62, 65, "SKILL"]]}
+{"id": 451, "data": "Develop software for robotics operating system (ROS).", "label": [[21, 46, "SKILL"]]}
+{"id": 452, "data": "Responsible for the architecture and continuous software integration and development (CI/CD) for a small team of engineers and scientists.", "label": [[86, 91, "SKILL"]]}
+{"id": 453, "data": "Qualifications", "label": []}
+{"id": 454, "data": "Ability to obtain and maintain a U.S. DOE Q-level security clearance which requires U.S. Citizenship.", "label": []}
+{"id": 455, "data": "Bachelor’s degree in computer science, computer engineering, or a related field, or equivalent combination of education and related experience.", "label": []}
+{"id": 456, "data": "Comprehensive knowledge and experience in the aspects of software project life cycle: feasibility, requirements, design, implementation, integration, test, and deployment.", "label": []}
+{"id": 457, "data": "Understanding of digital and analog electronic equipment.", "label": []}
+{"id": 458, "data": "Ability to effectively manage concurrent technical tasks with competing priorities and meet deadlines that are important to project success.", "label": []}
+{"id": 459, "data": "Effective verbal and written communication skills necessary to collaborate effectively in a team environment.", "label": []}
+{"id": 460, "data": "Effective interpersonal skills necessary to interact with all levels of personnel with the ability to work independently in a multi-disciplinary team environment.", "label": []}
+{"id": 461, "data": "Experience with Gitlab and/or Jenkins.", "label": []}
+{"id": 462, "data": "Additional qualifications at the SES.3 level", "label": []}
+{"id": 463, "data": "Master's degree in computer science, computer engineering, or a related field, or equivalent combination of education and related experience.", "label": []}
+{"id": 464, "data": "Experience delivering production quality software.", "label": []}
+{"id": 465, "data": "Effective problem-solving skills to mitigate difficult problems and situations.", "label": []}
+{"id": 674, "data": "Qualifications:", "label": []}
+{"id": 466, "data": "Effective verbal and written communication and collaboration skills to prepare, present, and document technical information.", "label": []}
+{"id": 467, "data": "Provide technical guidance and project leadership for WCI PWG projects and teams with a focus on defining, developing, and executing complex hydrodynamic experiments, which involve hardware design, fabrication, assembly, testing, qualification, and fielding.", "label": [[211, 219, "SKILL"]]}
+{"id": 468, "data": "Collaborate with teams of scientists, engineers, designers, technicians, coordinators, and procurement personnel to develop experimental plans and achieve project goals.", "label": []}
+{"id": 469, "data": "Apply advanced systems engineering and project management principles to complex technical projects with a graded approach to balance available resources and project risks.", "label": []}
+{"id": 470, "data": "Develop and manage schedules and budgets in support of current and proposed projects, and participate in working groups and design reviews, both internal and external, in support of experiment operations, engineering capability development, safety assessments and individual project lifecycles.", "label": []}
+{"id": 471, "data": "Implement standards and controls for quality assurance and configuration management in support of manufacturing processes, engineered systems, documentation, and other deliverables.", "label": []}
+{"id": 472, "data": "Assess work processes and implement changes to increase efficiencies within the PWG organization and in facilities where assembly and experimental work is performed.", "label": [[121, 129, "SKILL"]]}
+{"id": 473, "data": "Train, mentor and oversee project controls staff and engineering team members in the implementation of test development plans, risk assessments and project management practices in accordance with WCI and Engineering policies.", "label": []}
+{"id": 474, "data": "Carry out assignments in accordance with ES&H, Security, and LLNL business practice requirements and policies.", "label": []}
+{"id": 475, "data": "Perform other duties as assigned.", "label": []}
+{"id": 476, "data": "Additional job responsibilities, at the SES.4 level", "label": []}
+{"id": 477, "data": "Establish a vision and strategy for implementation of project management principles across all elements of the PWG.", "label": []}
+{"id": 478, "data": "Lead project planning and fielding for experiments at test facilities throughout the Laboratory complex and coordinate the efforts of multi-disciplinary, multi-organization teams in successful project execution.", "label": []}
+{"id": 479, "data": "Prepare and present PWG status reports to WCI and Engineering Program management and external partners as required, and utilize internal resources and build on existing programs to develop new, innovative capabilities, strengthen collaborations with partner organizations, and increase the impact of LLNL.", "label": []}
+{"id": 480, "data": "Qualifications", "label": []}
+{"id": 481, "data": "Ability to obtain and maintain a U.S. DOE Q-level security clearance which requires U.S. Citizenship.", "label": []}
+{"id": 482, "data": "Bachelor’s degree in Mechanical Engineering or related area, or the equivalent combination of education and previous relevant experience.", "label": []}
+{"id": 483, "data": "Advanced knowledge of the processes involved in hardware design, fabrication, testing, qualification, and deployment.", "label": []}
+{"id": 484, "data": "Significant experience in project management of complex, technical projects (especially R&D) including organizing, managing, and tracking scope, schedule, and budget.", "label": []}
+{"id": 485, "data": "Significant experience assessing project risk and developing controls for managing project risk.", "label": []}
+{"id": 486, "data": "Significant experience developing and implementing creative solutions to a diverse range of complex problems and leading corrective actions where necessary.", "label": []}
+{"id": 487, "data": "Ability to effectively mentor, develop, lead and manage a multi-disciplinary project team of engineers, scientists, designers, technicians, and coordinators.", "label": []}
+{"id": 488, "data": "Significant experience working and interacting with all levels of management.", "label": []}
+{"id": 489, "data": "Advanced verbal and written communication skills necessary to effectively collaborate in a team environment and present and explain technical information and provide advice to management.", "label": []}
+{"id": 490, "data": "Additional qualifications at the SES.4 level", "label": []}
+{"id": 491, "data": "Substantial experience leading, tracking, and budgeting projects, managing and resolving resource conflicts, managing projects that span across multiple organization and effectively achieving goals with a diverse, multi-organizational team through demonstrated leadership and influence.", "label": []}
+{"id": 492, "data": "Substantial experience implementing an Integrated Safety Management program or an equivalent industry protocol and leading or participating in formal engineering design review processes.", "label": []}
+{"id": 493, "data": "Expert communication skills, both verbal and written, facilitation, and collaboration skills necessary to interact effectively in a diverse research team environment, deliver effective presentations, and advise senior management and/or external partners.", "label": []}
+{"id": 494, "data": "Qualifications We Desire", "label": []}
+{"id": 495, "data": "Master’s degree in Engineering, certification as a Project Management Professional and/or extensive equivalent project management experience.", "label": []}
+{"id": 496, "data": "Experience interfacing with external customers or industrial partners, especially the Department of Energy (DOE).As a Software Engineer at Varnish Software, you will:", "label": []}
+{"id": 497, "data": "Be part of a team in New York.", "label": []}
+{"id": 498, "data": "Be part of a R&D team that is responsible for product development and research.", "label": []}
+{"id": 499, "data": "Develop new features and functionality, providing strong know-how and creative ideas for solving problems.", "label": []}
+{"id": 500, "data": "We believe that you have:", "label": []}
+{"id": 501, "data": "Experience in a memory management and typed language (Preferably C/C++)", "label": []}
+{"id": 502, "data": "Experience in web development (HTTP / Browser / JS)", "label": [[31, 35, "SKILL"], [38, 45, "SKILL"], [48, 50, "SKILL"]]}
+{"id": 503, "data": "Experience using version control systems like git", "label": [[46, 49, "SKILL"]]}
+{"id": 504, "data": "A Linux background", "label": [[2, 7, "SKILL"]]}
+{"id": 505, "data": "It would be great if you also have:", "label": []}
+{"id": 506, "data": "A basic understanding of the HTTP protocol, DNS and TCP/IP.", "label": [[29, 33, "SKILL"], [44, 47, "SKILL"], [52, 58, "SKILL"]]}
+{"id": 507, "data": "Experience in Unit Testing", "label": [[14, 26, "SKILL"]]}
+{"id": 508, "data": "Knowledge of algorithms and data structures", "label": [[13, 23, "SKILL"], [28, 43, "SKILL"]]}
+{"id": 509, "data": "Worked with CDN, video streaming or web performance related projects.", "label": []}
+{"id": 510, "data": "And we believe that you are:", "label": []}
+{"id": 511, "data": "Adaptable and a pragmatic problem solver.", "label": []}
+{"id": 512, "data": "Driven by learning new things.", "label": []}
+{"id": 513, "data": "Comfortable with collaboration and open communication.", "label": []}
+{"id": 514, "data": "Good at following instructions and pays attention to details.Required Qualifications", "label": []}
+{"id": 515, "data": "5+ years of software engineering experience", "label": [[12, 32, "SKILL"], [0, 8, "YEAR"]]}
+{"id": 516, "data": "5+ years of Agile experience", "label": [[12, 28, "SKILL"], [0, 8, "YEAR"]]}
+{"id": 517, "data": "4 + years of experience with Agile tools", "label": [[29, 40, "SKILL"], [0, 9, "YEAR"]]}
+{"id": 518, "data": "5 + years of technical design experience", "label": [[13, 40, "SKILL"], [0, 9, "YEAR"]]}
+{"id": 519, "data": "4+ years of experience leading the requirement design process with both technical and business partners", "label": [[0, 8, "YEAR"]]}
+{"id": 520, "data": "4+ years of PL/SQL experience", "label": [[12, 14, "SKILL"], [15, 18, "SKILL"], [0, 8, "YEAR"]]}
+{"id": 521, "data": "5+ years of experience with technical requirements, design, testing, and implementation of tools and technologies", "label": [[0, 8, "YEAR"]]}
+{"id": 522, "data": "Desired Qualifications", "label": []}
+{"id": 523, "data": "An industry-standard technology certification", "label": []}
+{"id": 524, "data": "Strong verbal, written, and interpersonal communication skills", "label": []}
+{"id": 525, "data": "Scrum Master certification", "label": [[0, 5, "SKILL"]]}
+{"id": 526, "data": "Experience with Agile Scrum (Daily Standup, Sprint Planning and Sprint Retrospective meetings) and Kanban", "label": [[16, 21, "SKILL"], [22, 27, "SKILL"], [99, 105, "SKILL"]]}
+{"id": 527, "data": "Agile Scrum (CSM), SAFE certifications or other advanced Agile certificationsRequired Experience", "label": [[0, 5, "SKILL"], [6, 11, "SKILL"], [57, 62, "SKILL"]]}
+{"id": 528, "data": "A bias and empathy towards helping people. Many teams will rely upon you for help to build their systems.", "label": []}
+{"id": 529, "data": "Comfortable in building, and deploying scalable cloud-based solution architectures on Amazon Web Services and Google Cloud Platform.", "label": [[86, 105, "SKILL"], [110, 131, "SKILL"]]}
+{"id": 530, "data": "Familiar with container orchestration technologies (Kubernetes, Docker) container orchestration technologies, and provisioning immutable infrastructure using Terraform.", "label": [[52, 62, "SKILL"], [64, 70, "SKILL"], [158, 167, "SKILL"]]}
+{"id": 531, "data": "An understanding of CI/CD concepts.", "label": [[20, 25, "SKILL"]]}
+{"id": 532, "data": "An appetite for automating things such as deployments, testing, monitoring releases. We love repeatable processes and know that humans are prone to error.", "label": []}
+{"id": 533, "data": "Nice to Have Experience", "label": []}
+{"id": 534, "data": "Experience in designing CI/CD pipelines", "label": [[24, 29, "SKILL"]]}
+{"id": 535, "data": "Programming in Go and template languages such as YAML and Jsonnet", "label": []}
+{"id": 1313, "data": "Description", "label": []}
+{"id": 536, "data": "Observability tooling such as DataDog, Prometheus", "label": [[30, 37, "SKILL"], [39, 49, "SKILL"]]}
+{"id": 537, "data": "Some of the tech we use", "label": []}
+{"id": 538, "data": "GCP, AWS, Docker, Kubernetes (EKS/GKE), Drone, Jenkins, Terraform, Vault, Go, GitHubWorking extensively with our Automation Testing tool, Workflow Management System and Trading Engines essential to this project.", "label": [[0, 3, "SKILL"], [5, 8, "SKILL"], [10, 16, "SKILL"], [18, 29, "SKILL"], [40, 45, "SKILL"], [47, 54, "SKILL"], [56, 65, "SKILL"], [67, 72, "SKILL"], [74, 76, "SKILL"], [113, 123, "SKILL"]]}
+{"id": 539, "data": "Utilizing knowledge of the legacy system to carry out upgrades, anticipating system limitations and designing solutions accordingly.", "label": []}
+{"id": 540, "data": "Analyzing business requirements, designing the software system, developing special software, testing software.", "label": []}
+{"id": 541, "data": "Work extensively with Unix for development, testing and production support", "label": [[22, 26, "SKILL"]]}
+{"id": 542, "data": "Developing, enhancing, modifying, and maintaining applications in the Global Markets environment", "label": []}
+{"id": 543, "data": "TO BE USED ONLY IN ORGANIZATIONS DELIVERING SOFTWARE SOLUTIONS: Responsible for designing and developing complex requirements to accomplish business goals. Ensures that software is developed to meet functional, non-functional, and compliance requirements. Ensures solutions are well designed with maintainability/ease of integration and testing built-in from the outset. Possess strong proficiency in development and testing practices common to the industry, and have extensive experience of using design and architectural patterns. At this level, specializations start to form in either Architecture, Test Engineering or DevOp. Contributes to story refinement/defining requirements. Participates and guides team in estimating work necessary to realize a story/requirement through the delivery lifecycle. Performs spike/proof of concept as necessary to mitigate risk or implement new ideas. Codes solutions and unit tests to deliver a requirement/story per the defined acceptance criteria and compliance requirements. Utilizes multiple architectural components (across data, application, business) in design and development of client requirements. Assists team with resolving technical complexities involved in realizing story work. Designs/develops/modifies architecture components, application interfaces, and solution enablers while ensuring principal architecture integrity is maintained. Designs/develops/maintains automated test suites (integration, regression, performance). Sets up and develops a continuous integration/continuous delivery pipeline. Automates manual release activities. Mentors other Software Engineers and coaches team on CI-CD practices and automating tool stack. Individual contributor.What you need to succeed:", "label": [[1648, 1653, "SKILL"], [1668, 1689, "SKILL"], [622, 627, "SKILL"]]}
+{"id": 544, "data": "5+ years of relevant work experience", "label": [[0, 8, "YEAR"]]}
+{"id": 545, "data": "A keen eye for design details and a strong sense of good UX.", "label": [[57, 59, "SKILL"]]}
+{"id": 546, "data": "Desire to build design systems and influence how they impact the product design and engineering process.", "label": []}
+{"id": 547, "data": "An interest in learning about data-driven web development and how to use that to make more delightful products.", "label": [[30, 57, "SKILL"]]}
+{"id": 548, "data": "Experience building clean websites that work across different devices and browsers.", "label": []}
+{"id": 549, "data": "Experience working with designers and developers to take a project from concept to life.", "label": []}
+{"id": 550, "data": "Passion for building meaningful, beautiful products that empower the creative world.Qualifications", "label": []}
+{"id": 551, "data": "BS Degree in Computer Science or Engineering", "label": []}
+{"id": 552, "data": "1 - 3 years of firmware development experience", "label": [[0, 11, "YEAR"]]}
+{"id": 553, "data": "C/C++ experience", "label": [[0, 1, "SKILL"], [2, 5, "SKILL"]]}
+{"id": 554, "data": "Test-Driven Development experience", "label": []}
+{"id": 555, "data": "Embedded communication protocols experience: I2C, SPI, UART", "label": [[45, 48, "SKILL"], [50, 53, "SKILL"], [55, 59, "SKILL"]]}
+{"id": 556, "data": "Source code version control experience (Git)", "label": [[40, 43, "SKILL"]]}
+{"id": 557, "data": "What sets you apart", "label": []}
+{"id": 558, "data": "Modern C++ experience is a plus (version 11+)", "label": [[7, 10, "SKILL"]]}
+{"id": 559, "data": "Bluetooth Low Energy development experience", "label": [[0, 9, "SKILL"]]}
+{"id": 560, "data": "Near Field Communication (NFC) development experience", "label": [[0, 24, "SKILL"], [26, 29, "SKILL"]]}
+{"id": 561, "data": "Video capture/livestream experienceThe Essentials", "label": []}
+{"id": 562, "data": "2+ years of established track record implementing large-scale, high-quality software applications", "label": [[0, 8, "YEAR"]]}
+{"id": 563, "data": "Strong communication skills and an ability to interact with all levels of technical and non-technical personnel", "label": []}
+{"id": 603, "data": "Experience working on internal infrastructure toolsThe Essentials", "label": []}
+{"id": 564, "data": "Expertise in implementing scalable, distributed, and highly available systems on AWS using ECS, Lambda, SNS/SQS Extensive experience implementing REST APIs in a microservice architecture", "label": [[91, 94, "SKILL"], [81, 84, "SKILL"], [96, 102, "SKILL"], [104, 107, "SKILL"], [108, 111, "SKILL"], [146, 155, "SKILL"]]}
+{"id": 565, "data": "Experience implementing message driven applications using AMQP or JMS", "label": [[66, 69, "SKILL"], [58, 62, "SKILL"]]}
+{"id": 566, "data": "Extensive hands-on experience developing Java 8 based Spring Boot applications", "label": [[41, 47, "SKILL"]]}
+{"id": 567, "data": "Additional languages Java EE, Node.js, Python, GOLang, C#, Rust or equivalent a plus", "label": [[21, 28, "SKILL"], [30, 37, "SKILL"], [39, 45, "SKILL"], [47, 53, "SKILL"], [55, 57, "SKILL"], [59, 63, "SKILL"]]}
+{"id": 568, "data": "Experience with client-side JavaScript frameworks (React, Angular, Vue, Backbone, Ember, etc...)", "label": [[28, 38, "SKILL"], [51, 56, "SKILL"], [58, 65, "SKILL"], [67, 70, "SKILL"], [72, 80, "SKILL"], [82, 87, "SKILL"]]}
+{"id": 569, "data": "Knowledge of NoSQL databases such as MongoDB, Couch, DynamoDB", "label": [[37, 44, "SKILL"], [13, 18, "SKILL"], [46, 51, "SKILL"], [53, 61, "SKILL"]]}
+{"id": 570, "data": "Media background with encoding engines a plus", "label": []}
+{"id": 571, "data": "Experience deploying and supporting containerized applications on AWS", "label": [[66, 69, "SKILL"]]}
+{"id": 572, "data": "Knowledge of behavior-driven design and/or test-driven design and design patterns", "label": []}
+{"id": 573, "data": "Hands-on experience with CI/CD systems and tools Jenkins and GIT. Kibana or AppDynamics experience a plus", "label": [[49, 56, "SKILL"]]}
+{"id": 574, "data": "Proven problem solving and critical thinking skills", "label": []}
+{"id": 575, "data": "Solid foundation in troubleshooting application and data issues in a distributed environment", "label": []}
+{"id": 576, "data": "Ability to fit into an agile development environment and create a positive influence", "label": [[23, 28, "SKILL"]]}
+{"id": 577, "data": "Bachelor’s degree in computer science, engineering, or equivalent technical experienceExperience:", "label": []}
+{"id": 578, "data": "1-3 years of professional Web development experience", "label": [[0, 9, "YEAR"]]}
+{"id": 579, "data": "Specific Knowledge, Skills and Abilities:", "label": []}
+{"id": 580, "data": "1+ years of Javascript development, preferably with recent experience using ES6", "label": [[12, 22, "SKILL"], [76, 79, "SKILL"], [0, 8, "YEAR"]]}
+{"id": 581, "data": "1+ years of experience with CSS3/SASS and HTML5.", "label": [[28, 32, "SKILL"], [33, 37, "SKILL"], [42, 47, "SKILL"], [0, 8, "YEAR"]]}
+{"id": 582, "data": "Knowledge of mobile-first, responsive Web site development", "label": []}
+{"id": 583, "data": "Experience with NodeJS and the Express framework", "label": [[16, 22, "SKILL"], [31, 38, "SKILL"]]}
+{"id": 584, "data": "Experience with a templating language like Handlebars or Pug", "label": [[43, 53, "SKILL"], [57, 60, "SKILL"]]}
+{"id": 585, "data": "Comfort with modern js developer tools like npm and Webpack", "label": [[44, 47, "SKILL"], [52, 59, "SKILL"], [20, 22, "SKILL"]]}
+{"id": 586, "data": "Familiarity with continuous integration and automation via tools like CircleCI and Jenkins", "label": [[83, 90, "SKILL"], [70, 78, "SKILL"]]}
+{"id": 587, "data": "Experience interacting with REST APIs", "label": [[28, 32, "SKILL"]]}
+{"id": 588, "data": "Practical knowledge of a language other than Javawcript (PHP, Ruby, Python, etc.)", "label": [[45, 55, "SKILL"], [57, 61, "SKILL"], [62, 66, "SKILL"], [68, 74, "SKILL"]]}
+{"id": 589, "data": "Practical knowledge of Git, Github and version control", "label": [[23, 26, "SKILL"], [28, 34, "SKILL"]]}
+{"id": 590, "data": "Theoretical knowledge of Amazon Web Services", "label": [[25, 44, "SKILL"]]}
+{"id": 591, "data": "Experience working within an agile methodology, using JIRA or similar management tools", "label": [[29, 34, "SKILL"], [54, 58, "SKILL"]]}
+{"id": 592, "data": "Ability to translate user stories into technical tasks", "label": []}
+{"id": 593, "data": "Ability to estimate effort effectively", "label": []}
+{"id": 594, "data": "Strong communication, analytical and problem-solving skillsBasic Qualifications", "label": []}
+{"id": 595, "data": "BS/MS in Computer Science or related field required", "label": []}
+{"id": 596, "data": "2+ years backend development experience.", "label": [[0, 8, "YEAR"]]}
+{"id": 597, "data": "Experience implementing complex projects with multiple dependencies", "label": []}
+{"id": 598, "data": "Experience with Java, Go, or other backend technologies", "label": [[16, 20, "SKILL"], [22, 24, "SKILL"]]}
+{"id": 599, "data": "Preferred Qualifications", "label": []}
+{"id": 600, "data": "BS or MS in Computer Science or a related technical field, or equivalent experience", "label": []}
+{"id": 601, "data": "Detailed problem-solving approach and knowledge of algorithms, data structures, and complexity analysis", "label": []}
+{"id": 604, "data": "3+ years of experience professionally delivering online technology and backend services", "label": [[0, 8, "YEAR"]]}
+{"id": 605, "data": "Must be comfortable working in a Linux/Unix environment", "label": [[33, 38, "SKILL"], [39, 43, "SKILL"]]}
+{"id": 606, "data": "Able to read and write software in Python or some other general purpose programming language", "label": [[35, 41, "SKILL"]]}
+{"id": 607, "data": "Strong experience with databases (NoSQL experience is a plus, since we primarily use MongoDB, RedisDB, and ElasticSearch)", "label": [[34, 39, "SKILL"], [85, 92, "SKILL"], [94, 101, "SKILL"], [107, 120, "SKILL"]]}
+{"id": 608, "data": "Experience using and creating APIs", "label": []}
+{"id": 609, "data": "Must have excellent communication skills", "label": []}
+{"id": 610, "data": "Ability to excel in a fast paced, startup-like environmentYou will:", "label": []}
+{"id": 611, "data": "Build distributed, high-throughput, real-time data infrastructure", "label": []}
+{"id": 612, "data": "Build inprogramming language such as  Go, and use Redis, gRPC, Envoy and other open-source components", "label": []}
+{"id": 613, "data": "Dig into low-level technical details when needed (e.g. kernel, profiling)", "label": []}
+{"id": 614, "data": "Own meaningful parts of our service and participate in oncall", "label": []}
+{"id": 615, "data": "Work with internal teams using our cache and be part of a growing team", "label": []}
+{"id": 616, "data": "Requirements:", "label": []}
+{"id": 617, "data": "You have a BS/MS/PhD in a scientific field or equivalent experience", "label": []}
+{"id": 618, "data": "You have significant backend programming experience in one or more languages", "label": []}
+{"id": 619, "data": "You care about low-latency performance and clean code", "label": []}
+{"id": 620, "data": "You value correctness and efficiency; you leave no stone unturned when diagnosing production issues", "label": []}
+{"id": 621, "data": "Bonus points:", "label": []}
+{"id": 622, "data": "You have worked with Kubernetes and Linux Containers in production at high scale", "label": [[21, 31, "SKILL"], [36, 41, "SKILL"]]}
+{"id": 623, "data": "You’ve built data systems using technology such as Redis, Cassandra, Kafka", "label": [[51, 56, "SKILL"], [58, 67, "SKILL"], [69, 74, "SKILL"]]}
+{"id": 624, "data": "You have created tooling for, or submitted contributions to, an open-source datastoreBasic Qualifications:", "label": []}
+{"id": 625, "data": "Bachelor’s degree", "label": []}
+{"id": 626, "data": "At least 2 years of experience in DevOps Engineering", "label": [[0, 16, "YEAR"]]}
+{"id": 627, "data": "At least 1 year of experience with Cloud Native technologies (Amazon Web Services, Microsoft Azure, Google Cloud Platform)", "label": [[62, 81, "SKILL"], [83, 98, "SKILL"], [100, 121, "SKILL"], [0, 15, "YEAR"]]}
+{"id": 628, "data": "At least 1 year of Linux system administration experience", "label": [[19, 24, "SKILL"], [0, 15, "YEAR"]]}
+{"id": 629, "data": "Preferred Qualifications:", "label": []}
+{"id": 630, "data": "1+ years of experience with Terraform", "label": [[28, 37, "SKILL"], [0, 8, "YEAR"]]}
+{"id": 631, "data": "1+ years of experience with Technologies Chef, Ansible, Puppet, or CI/CD", "label": [[28, 45, "SKILL"], [47, 54, "SKILL"], [56, 62, "SKILL"], [67, 72, "SKILL"], [0, 8, "YEAR"]]}
+{"id": 632, "data": "1+ experience with Object oriented programming (Python, Java, Golang, or NodeJS)", "label": [[48, 54, "SKILL"], [62, 68, "SKILL"], [73, 79, "SKILL"], [56, 60, "SKILL"], [0, 2, "YEAR"]]}
+{"id": 633, "data": "1+ year of experience working with Agile Development PracticesWhat you need to succeed", "label": [[35, 40, "SKILL"], [0, 7, "YEAR"]]}
+{"id": 634, "data": "Strong Object Oriented Programming skills", "label": []}
+{"id": 635, "data": "Experience with PHP 7+ and PHPUnit (or equivalent)", "label": [[16, 22, "SKILL"], [27, 34, "SKILL"]]}
+{"id": 636, "data": "Hands-on experience with open-source databases and caching backends (MySQL, Redis, Memcache, etc)", "label": [[69, 74, "SKILL"], [76, 81, "SKILL"], [83, 91, "SKILL"]]}
+{"id": 637, "data": "Experience designing, building, and operating large-scale production systems", "label": []}
+{"id": 638, "data": "Empathy for—and a laser-focus on—the reliability, security, and performance of the systems", "label": []}
+{"id": 639, "data": "Experience using source control (Git, GitHub) and feature branching strategies", "label": [[33, 36, "SKILL"], [38, 44, "SKILL"]]}
+{"id": 640, "data": "Experience debugging complex problems", "label": []}
+{"id": 641, "data": "Thrive on collaborating on a cross-functional team", "label": []}
+{"id": 642, "data": "You are self-guided and enjoy the autonomy that comes from clear goals and high-level direction", "label": []}
+{"id": 643, "data": "Have the ability to effectively articulate your opinions and an open mind to changing themThe Work. We believe that our job begins when our content is produced all the way to where we recommend it using various experimentation tools. You will at times touch vastly complex components that drive most of the systems of Conde Nast.", "label": []}
+{"id": 644, "data": "The Code. We are strong believers of “the right tool for the right job.” Our main technologies include Java, Node.js, Elasticsearch, Cassandra and Apache Kafka, but that doesn’t mean we aren’t open to other technologies.", "label": []}
+{"id": 645, "data": "What are we looking for?", "label": []}
+{"id": 646, "data": "Prior experience with Recommendations systems and Information Retrieval domain", "label": []}
+{"id": 647, "data": "Strong analytical and problem solving skills", "label": []}
+{"id": 648, "data": "Strong sense of building products for other engineers and experience building platforms for other teams", "label": []}
+{"id": 649, "data": "Has seen projects from ideation through execution and maintenance", "label": []}
+{"id": 650, "data": "Intermediate to expert level fluency in at least 1 programing language and willing to learn JavaScript and Java", "label": [[92, 102, "SKILL"], [107, 111, "SKILL"]]}
+{"id": 651, "data": "Experience working with, designing and deploying GraphQL and RESTful APIs", "label": [[49, 56, "SKILL"], [61, 73, "SKILL"]]}
+{"id": 652, "data": "Experience with Apache Kafka and/or relevant streaming technologies (AWS Kinesis, Storm etc.), experience with Kafka ecosystem (Kafka Connect, ksql, etc a plus)", "label": [[143, 147, "SKILL"], [69, 80, "SKILL"], [128, 141, "SKILL"], [82, 87, "SKILL"], [16, 28, "SKILL"]]}
+{"id": 653, "data": "Experience mentoring engineers", "label": []}
+{"id": 654, "data": "Strong data modeling skills (knowledge of domain-driven design preferred)", "label": []}
+{"id": 655, "data": "Eager to learn about new technologies and implementing these ideas in a production environment", "label": []}
+{"id": 656, "data": "Experience with ElasticsearchFull Job Description", "label": []}
+{"id": 657, "data": "Programming experience with at least one modern language such as Java, C++, or C# including object-oriented design", "label": [[65, 69, "SKILL"], [71, 74, "SKILL"], [79, 81, "SKILL"]]}
+{"id": 658, "data": "A successful candidate will have a passion for solving interesting problems no matter where on the stack, from debugging high throughput multi-threaded applications to wrangling heaps of structured data to creating responsive, adaptive user interfaces. You will join a talented team working on scalable systems, with a bias toward open-source tech and Amazon Web Services. It's a fun and fast-paced environment with an exposure to working across IMDb and Amazon businesses on a global scale. You will collaborate with fellow engineers, product & program management, marketing, and UX designers to make swift but data-driven decisions that result in high-quality products..Work closely on a cross functional team including other developers, designers, Project Managers, QA, etc.", "label": []}
+{"id": 659, "data": "Participate in Agile/SCRUM SDLC", "label": [[15, 20, "SKILL"], [21, 26, "SKILL"]]}
+{"id": 660, "data": "Participate in code and architecture reviews", "label": []}
+{"id": 661, "data": "Here’s what you need:", "label": []}
+{"id": 662, "data": "Relevant CS coursework, development bootcamp or significant coding experience on any platform plus a love of coding", "label": []}
+{"id": 663, "data": "Bonus points if:", "label": []}
+{"id": 664, "data": "Experience with web development", "label": []}
+{"id": 665, "data": "Familiar with JavaScript, React.js, AngularJS, Node.js", "label": [[14, 24, "SKILL"], [26, 34, "SKILL"], [47, 54, "SKILL"], [36, 45, "SKILL"]]}
+{"id": 666, "data": "A GitHub account or code samples to share", "label": [[2, 8, "SKILL"]]}
+{"id": 667, "data": "Side projects outside of coursework or internships", "label": []}
+{"id": 668, "data": "Enjoy working a wide variety of projects, both short and long-term", "label": []}
+{"id": 669, "data": "Bachelor’s degree or equivalent in computer science", "label": []}
+{"id": 670, "data": "Familiar with all phases of software lifecycle, Agile experience a plusDevelop and maintain high quality code base, consistently delivering challenging, stable and maintainable projects on schedule", "label": [[48, 53, "SKILL"]]}
+{"id": 671, "data": "Stay current with new technologies, and industry best practices; particularly those dealing with JavaScript frameworks and Design Patterns", "label": [[97, 107, "SKILL"]]}
+{"id": 672, "data": "Research and develop solutions to meet enterprise wide needs", "label": []}
+{"id": 673, "data": "Collaborate and work with various cross functional teams on multi-team projects (Agile/SCRUM).", "label": [[81, 86, "SKILL"], [87, 92, "SKILL"]]}
+{"id": 675, "data": "4+ years of experience in web development", "label": [[0, 8, "YEAR"]]}
+{"id": 676, "data": "Javascript: ability to write native code", "label": [[0, 10, "SKILL"]]}
+{"id": 677, "data": "Javascript library – JQuery and React", "label": [[0, 10, "SKILL"], [21, 27, "SKILL"], [32, 37, "SKILL"]]}
+{"id": 678, "data": "CSS/CSS3 familiar with specificity rules", "label": [[0, 3, "SKILL"], [4, 8, "SKILL"]]}
+{"id": 679, "data": "Experience in responsive CSS framework such as Bootstrap", "label": [[25, 28, "SKILL"], [47, 56, "SKILL"]]}
+{"id": 680, "data": "Must know how to cut/slice images from PSD", "label": []}
+{"id": 681, "data": "Experience with JSP and JSTL preferred but not required.Deliver best in class HTML5/CSS3/Javascript (JQuery) front end code across a broad array of web platforms, multiple browsers, and devices, including smartphones and tablets", "label": [[16, 19, "SKILL"], [24, 28, "SKILL"], [78, 83, "SKILL"], [84, 88, "SKILL"], [89, 99, "SKILL"], [101, 107, "SKILL"]]}
+{"id": 682, "data": "Drive and implement A/B testing initiatives to improve user experience/major KPIs through the use of advanced development techniques", "label": []}
+{"id": 683, "data": "Use innovative/advanced prototyping solutions to create prototypes to support testing, development, and marketing", "label": []}
+{"id": 684, "data": "Create, update, and maintain Web content in content management system (Oracle's OC/ATG), monitor (quality control) content on live site(s) and troubleshoot or escalate", "label": [[71, 82, "SKILL"], [83, 86, "SKILL"]]}
+{"id": 685, "data": "Work with marketing team to support promotional/marketing campaigns in the areas of email marketing, merchandising, SEO, SEM, and alike", "label": []}
+{"id": 686, "data": "Support vendor/partner onboarding and maintenance using internal and external resources/solutions", "label": []}
+{"id": 687, "data": "Conduct periodic QA/UAT testing to analyze/improve performance and support web dev initiatives", "label": []}
+{"id": 688, "data": "Serve as liaison with e-Business, Product, Analytics and technology groups.", "label": []}
+{"id": 689, "data": "Your Contribution to Teleflora:", "label": []}
+{"id": 690, "data": "3+ years of front end development experience using HTML5/CSS3/Javascript (JQuery)", "label": [[74, 80, "SKILL"], [62, 72, "SKILL"], [51, 56, "SKILL"], [57, 61, "SKILL"], [0, 8, "YEAR"]]}
+{"id": 691, "data": "Experience writing test scripts for A/B Testing", "label": []}
+{"id": 692, "data": "Experience in responsive/mobile-first design", "label": []}
+{"id": 693, "data": "Experience with Javascript library Modernizr preferred", "label": [[16, 26, "SKILL"]]}
+{"id": 694, "data": "Web content management & design experience in ATG/Oracle Commerce or similar content management system for Web applications", "label": []}
+{"id": 695, "data": "Experience with email campaigns and email creation. Ability to hand code HTML and recognize possible browser incompatibility for HTML email", "label": [[129, 133, "SKILL"], [73, 77, "SKILL"]]}
+{"id": 696, "data": "Knowledge of GTM (similar tagging solutions) and experience in GA maintenance and optimization", "label": [[13, 16, "SKILL"], [63, 65, "SKILL"]]}
+{"id": 697, "data": "Experience cutting/slicing images from PSD", "label": []}
+{"id": 698, "data": "Experience with version-control systems such as Subversion or Git", "label": [[62, 65, "SKILL"], [48, 58, "SKILL"]]}
+{"id": 699, "data": "Excellent organizational andMinimum 2-3 years relevant professional experience.", "label": [[36, 45, "YEAR"]]}
+{"id": 700, "data": "Expert knowledge in semantic HTML, SCSS, and JavaScript (without reliance on jQuery).", "label": [[45, 55, "SKILL"], [35, 39, "SKILL"], [29, 33, "SKILL"], [77, 83, "SKILL"]]}
+{"id": 701, "data": "Experience with modern frameworks (Vue, React, etc) and headless implementations (i.e. Contentful).", "label": [[35, 38, "SKILL"], [40, 45, "SKILL"], [87, 97, "SKILL"]]}
+{"id": 702, "data": "Pixel perfect design-to-code implementation.You have:", "label": []}
+{"id": 703, "data": "The ability to write JavaScript, both in its raw form and with common JS libraries (jQuery, Underscore, etc.)", "label": [[21, 31, "SKILL"], [70, 72, "SKILL"], [84, 90, "SKILL"], [92, 102, "SKILL"]]}
+{"id": 704, "data": "Familiarity with popular JS-app frameworks, particularly Ember.js", "label": [[57, 65, "SKILL"], [25, 31, "SKILL"]]}
+{"id": 705, "data": "Experience in testing your code (QUnit, Mocha, Jasmine, Rspec, etc.)", "label": [[47, 54, "SKILL"], [56, 61, "SKILL"], [33, 38, "SKILL"], [40, 45, "SKILL"]]}
+{"id": 706, "data": "An understanding of how the web works with experience developing applications and can make pragmatic engineering decisions.", "label": []}
+{"id": 707, "data": "4+ years of related professional experience.", "label": [[0, 8, "YEAR"]]}
+{"id": 708, "data": "BS in Computer Science or equivalent industry experienceKey responsibilities include:", "label": []}
+{"id": 709, "data": "Build, update, and maintain different types of websites including marketing (ex, callofduty.com) and corporate (ex, Activision.com).", "label": []}
+{"id": 710, "data": "Build sites that can be authored by non-technical resources within the Activision CMS (Adobe AEM).", "label": [[87, 96, "SKILL"], [71, 85, "SKILL"]]}
+{"id": 711, "data": "Create reusable code for future use.", "label": []}
+{"id": 712, "data": "Collaborate with website stakeholders, project managers, QA and UX/UI designers to ensure deliverables are met.", "label": []}
+{"id": 713, "data": "Analyze site performance and make improvements.", "label": []}
+{"id": 714, "data": "Work in a collaborative environment with some pretty cool people.", "label": []}
+{"id": 715, "data": "Year 1 Success:", "label": []}
+{"id": 716, "data": "Delivery of localized marketing websites on-time with no critical issues to support key marketing milestones.", "label": []}
+{"id": 717, "data": "Keep the team informed regarding progress and challenges related to deliverables.", "label": []}
+{"id": 718, "data": "Player Profile", "label": []}
+{"id": 719, "data": "Proficient with HTML5, CSS3 and Javascript.", "label": [[16, 21, "SKILL"], [23, 27, "SKILL"], [32, 42, "SKILL"]]}
+{"id": 720, "data": "Ability to leverage APIs to create dynamic websites.", "label": []}
+{"id": 721, "data": "Able to create responsive websites without the use of libraries such as Bootstrap.", "label": [[72, 81, "SKILL"]]}
+{"id": 722, "data": "Great organization skills and ability to work in a fast paced environmentAn expertise in HTML5, CSS3 and jQuery", "label": [[89, 94, "SKILL"], [96, 100, "SKILL"], [105, 111, "SKILL"]]}
+{"id": 723, "data": "A thorough understanding of cross-browser compatibility issues", "label": []}
+{"id": 724, "data": "Experience with media queries", "label": []}
+{"id": 725, "data": "A knowledge of CSS platforms such as Twitter’s Bootstrap", "label": [[15, 18, "SKILL"], [47, 56, "SKILL"]]}
+{"id": 726, "data": "An ability to multi-task on multiple projects and tasks at the same time", "label": []}
+{"id": 727, "data": "Great attention to detail and be highly organized", "label": []}
+{"id": 728, "data": "A positive and upbeat attitude with the ability to learn quickly", "label": []}
+{"id": 729, "data": "Proficiency in PHP/MYSQL and AJAX (preferred)", "label": [[15, 18, "SKILL"], [19, 24, "SKILL"], [29, 33, "SKILL"]]}
+{"id": 730, "data": "Experience with WordPress, BigCommerce, Magento, and Shopify (preferred)", "label": [[16, 25, "SKILL"], [27, 38, "SKILL"], [40, 47, "SKILL"], [53, 60, "SKILL"]]}
+{"id": 731, "data": "Excellent written and spoken English", "label": []}
+{"id": 732, "data": "The availability to work 40 hours per week from 9:00 am to 6:00 pm PST", "label": []}
+{"id": 733, "data": "The ability to adapt to a diverse and multicultural environment", "label": []}
+{"id": 734, "data": "Passion to build a startup", "label": []}
+{"id": 735, "data": "Reliable transportation if working in-house", "label": []}
+{"id": 736, "data": "A reliable workstation with a fast computer, microphone and speakers, reliable internet and power if working remotely", "label": []}
+{"id": 737, "data": "YOUR DUTIES AND TASKS:", "label": []}
+{"id": 738, "data": "Transforming complex layout PSDs into pixel-perfect presentation-layer HTML5/CSS3 templates", "label": []}
+{"id": 739, "data": "Creating responsive website designs", "label": []}
+{"id": 740, "data": "Building websites with WordPress, extending and developing plugins and themes", "label": [[23, 32, "SKILL"]]}
+{"id": 741, "data": "Working with Photoshop, Illustrator, and Fireworks to create images optimized for the web", "label": [[13, 22, "SKILL"], [24, 35, "SKILL"], [41, 50, "SKILL"]]}
+{"id": 742, "data": "Working with version control systems such as GIT / SVN", "label": [[45, 48, "SKILL"], [51, 54, "SKILL"]]}
+{"id": 743, "data": "Working under tight deadlines", "label": []}
+{"id": 744, "data": "Handling multiple projects at the same time", "label": []}
+{"id": 745, "data": "Producing high quality of work with a strong focus on detailComfortable with modern web technologies such as Javascript, CSS3, Node.js, Webpack and React", "label": []}
+{"id": 746, "data": "Exposure to creative web technologies such as WebGL, Three.js and AR", "label": [[46, 51, "SKILL"], [53, 61, "SKILL"], [66, 68, "SKILL"]]}
+{"id": 747, "data": "Experience with AWS and SQL a bonus", "label": [[16, 19, "SKILL"], [24, 27, "SKILL"]]}
+{"id": 748, "data": "Testing orientated (Unit testing/integration testing)", "label": []}
+{"id": 749, "data": "Mobile-first and responsive web developmentProficient knowledge of JavaScript, HTML, and CSS.", "label": [[67, 77, "SKILL"], [79, 83, "SKILL"], [89, 92, "SKILL"]]}
+{"id": 750, "data": "Proficiency in a modern UI Library (React or similar).", "label": [[36, 41, "SKILL"], [45, 52, "SKILL"]]}
+{"id": 751, "data": "Experience delivering critical projects to production.", "label": []}
+{"id": 752, "data": "Desire to build a great product experience.", "label": []}
+{"id": 753, "data": "Desire to write high-quality code and to take ownership of products and features.", "label": []}
+{"id": 754, "data": "Bonus Qualities (Have one or more of these):", "label": []}
+{"id": 755, "data": "Experience building React-based applications.", "label": [[20, 25, "SKILL"]]}
+{"id": 756, "data": "Experience building design systems.As part of our engineering team, you will have a strong impact and ownership on our web apps, both client facing and internal. You will collaborate with Product Designers, Product Managers, and Software Engineers to deliver useful, usable and desirable product experiences.", "label": []}
+{"id": 757, "data": "Our web apps are built with Apollo GraphQL, React and TypeScript. Our backend is built with Node, a PostgreSQL DB, Apollo Federation. We also build a native iOS app in Swift (UIKit and SwiftUI).", "label": [[54, 64, "SKILL"], [92, 96, "SKILL"], [100, 113, "SKILL"], [168, 174, "SKILL"], [157, 160, "SKILL"], [175, 180, "SKILL"], [185, 192, "SKILL"], [28, 42, "SKILL"], [44, 49, "SKILL"], [115, 132, "SKILL"]]}
+{"id": 758, "data": "Have re-written from scratch or deleted the feature you launched in your second month, and be fine with it!", "label": []}
+{"id": 759, "data": "Have participated in hiring and onboarding new teammates to the team", "label": []}
+{"id": 760, "data": "Have contributed to defining our engineering culture", "label": []}
+{"id": 761, "data": "Have interacted with all functions in our organization, including Operations, Customer Success and Marketing, to make sure we are building the right product", "label": []}
+{"id": 762, "data": "Maybe have owned a feature end to end on the backend and/or iOS app to get out of your comfort zone", "label": []}
+{"id": 763, "data": "Who you are", "label": []}
+{"id": 764, "data": "You have a BS/MS in computer science or equivalent work experience", "label": []}
+{"id": 765, "data": "You have 3+ years of programming experience including 1+ year React experience.", "label": [[62, 67, "SKILL"], [9, 17, "YEAR"], [54, 61, "YEAR"]]}
+{"id": 766, "data": "You are familiar with or excited to learn about TypeScript, GraphQL, Apollo, React Hooks, Chrome Extensions", "label": [[69, 75, "SKILL"], [90, 107, "SKILL"], [48, 58, "SKILL"], [60, 67, "SKILL"], [77, 88, "SKILL"]]}
+{"id": 767, "data": "You are a strong believer in software engineering best practices (automation, peer reviews, ...)1-2 years experience with:", "label": []}
+{"id": 768, "data": "HTML", "label": [[0, 4, "SKILL"]]}
+{"id": 769, "data": "CSS", "label": [[0, 3, "SKILL"]]}
+{"id": 770, "data": "Javascript", "label": [[0, 10, "SKILL"]]}
+{"id": 771, "data": "SCSS", "label": [[0, 4, "SKILL"]]}
+{"id": 772, "data": "React or Angular experience is a plus.", "label": [[0, 5, "SKILL"], [9, 16, "SKILL"]]}
+{"id": 773, "data": "WANTS", "label": []}
+{"id": 774, "data": "Experience developing responsive design websites", "label": []}
+{"id": 775, "data": "Experience using Responsive Framework / Grid", "label": []}
+{"id": 776, "data": "Knowledgeable in handlebars.js or similar templating systemTransform PSDs into pixel-perfect web applications", "label": []}
+{"id": 777, "data": "Issue tracking tools such as JIRA, Trello, or Intervals", "label": [[35, 41, "SKILL"], [29, 34, "SKILL"], [46, 55, "SKILL"]]}
+{"id": 778, "data": "Qualifications:", "label": []}
+{"id": 779, "data": "3+ years of experience building scalable, functional, and effective web applications", "label": [[0, 8, "YEAR"]]}
+{"id": 780, "data": "Expert skills in web technologies - HTML/CSS/SASS, Javascript, jQuery, and the BEM methodology", "label": [[41, 44, "SKILL"], [45, 49, "SKILL"], [36, 40, "SKILL"], [51, 61, "SKILL"], [62, 69, "SKILL"], [79, 82, "SKILL"]]}
+{"id": 781, "data": "Excellent understanding of accessibility WCAG 2.0, usability, and visual design principles", "label": []}
+{"id": 782, "data": "Experience with Git source control and Command line build tools, including npm, gulp/grunt and node.js", "label": [[16, 19, "SKILL"], [75, 78, "SKILL"], [80, 84, "SKILL"], [85, 90, "SKILL"], [95, 102, "SKILL"]]}
+{"id": 783, "data": "Familiarity with Laravel, Google Optimizly, Angular/React/Vue or similar is a plus", "label": [[17, 24, "SKILL"], [26, 42, "SKILL"], [44, 51, "SKILL"], [52, 57, "SKILL"], [58, 61, "SKILL"], [65, 72, "SKILL"]]}
+{"id": 784, "data": "Exceptional communication and time management skills with a keen attention to detailWork directly with designers and engineers to build functionally flawless user experiences.", "label": []}
+{"id": 821, "data": "Strong attention to detail", "label": []}
+{"id": 785, "data": "Deep knowledge of JavaScript/HTML5/CSS and responsive design using modern frameworks and tools.", "label": [[18, 28, "SKILL"], [29, 34, "SKILL"], [35, 38, "SKILL"]]}
+{"id": 786, "data": "Translate UI/UX design wireframes to actual code", "label": [[10, 15, "SKILL"]]}
+{"id": 787, "data": "Optimize the web applications for maximum speed", "label": []}
+{"id": 788, "data": "Influence how and what we build with demonstrated technical expertise and full understanding of user experience and interfaces.", "label": []}
+{"id": 789, "data": "Provide code reviews for fellow web developers.", "label": []}
+{"id": 790, "data": "Adhere to excellence in software engineering best practices, and instill the same discipline and experience to other team members", "label": []}
+{"id": 791, "data": "Write effective APIs", "label": []}
+{"id": 792, "data": "Work closely with product owners and cross-functional team members to define and implement technology-based business solutions", "label": []}
+{"id": 793, "data": "Support DevOps with release management, continuous integration, continuous deployment, and automation", "label": []}
+{"id": 794, "data": "Lead and facilitate R&D efforts in cutting-edge technologies or third-party products to enhance development capabilities in the department", "label": []}
+{"id": 795, "data": "Understand and implement technologies across the full web stack.", "label": []}
+{"id": 796, "data": "Technical Skills:", "label": []}
+{"id": 797, "data": "You have 5+ years of experience in designing and building web applications.", "label": [[9, 17, "YEAR"]]}
+{"id": 798, "data": "2+ Years of experience in React/Angular/VueJS Frameworks.", "label": [[26, 31, "SKILL"], [32, 39, "SKILL"], [40, 45, "SKILL"], [0, 8, "YEAR"]]}
+{"id": 799, "data": "Proven experience as a Full Stack Developer, developing desktop & mobile applications", "label": []}
+{"id": 800, "data": "You are a skilled communicator and are comfortable articulating complex ideas and talking abstract concepts.", "label": []}
+{"id": 801, "data": "You have a deep understanding of SDLC, system design, data structure, algorithms and are comfortable working with highly scalable transactions-based applications.", "label": []}
+{"id": 802, "data": "You care about code quality and you thrive in a test-driven environmentResponsibilities:", "label": []}
+{"id": 803, "data": "Develop web applications with a variety of languages and frameworks including but not limited to HTML, CSS, Javascript, Typescript, NodeJs, Material, and Angular 10+", "label": [[97, 101, "SKILL"], [103, 106, "SKILL"], [108, 118, "SKILL"], [120, 130, "SKILL"], [132, 138, "SKILL"], [140, 148, "SKILL"], [154, 161, "SKILL"]]}
+{"id": 804, "data": "Help develop and scale Brainbase’s overarching engineering strategy - working closely with leadership and engineering to steer and innovate on what’s next", "label": []}
+{"id": 805, "data": "Work closely with our Product team and other engineers to define features and build powerful and easy to use products", "label": []}
+{"id": 806, "data": "Build clean, scalable, and maintainable frontend code that our platform depends on", "label": []}
+{"id": 807, "data": "Integrate REST api for various platforms.", "label": [[10, 18, "SKILL"]]}
+{"id": 808, "data": "Utilize the latest standards and principles in modern web development", "label": []}
+{"id": 809, "data": "Help create and maintain e2e and unit tests", "label": []}
+{"id": 810, "data": "Job requirements:", "label": []}
+{"id": 811, "data": "Ability to iterate quickly", "label": []}
+{"id": 812, "data": "7+ years of experience with HTML, CSS, Javascript", "label": [[28, 32, "SKILL"], [34, 37, "SKILL"], [39, 49, "SKILL"], [0, 8, "YEAR"]]}
+{"id": 813, "data": "2+ years of experience with Typescript and Angular 8+ or React, Node.JS", "label": [[28, 38, "SKILL"], [43, 53, "SKILL"], [57, 62, "SKILL"], [64, 71, "SKILL"], [0, 8, "YEAR"]]}
+{"id": 814, "data": "Well versed with SysOps and DevOps environments", "label": []}
+{"id": 815, "data": "Experience with CMS tools, like Contentful.", "label": [[32, 42, "SKILL"]]}
+{"id": 816, "data": "Great eye for design, animations, and product experience", "label": []}
+{"id": 817, "data": "Prioritization of user testing and writing clean, scalable, high-quality code", "label": []}
+{"id": 818, "data": "Nice to have a B.S. or M.S. degree in Computer Science or equivalent practical experience", "label": []}
+{"id": 819, "data": "Excellent communication and leadership skills to collaborate with a fast-growing team", "label": []}
+{"id": 820, "data": "Expert knowledge of modern design principles and best practices.", "label": []}
+{"id": 822, "data": "Experience creating modern websites from Figma designs and assets.", "label": []}
+{"id": 823, "data": "Strongly preferred:", "label": []}
+{"id": 824, "data": "Experience working in a fast-paced startup or growth environment", "label": []}
+{"id": 825, "data": "General understanding of the IP industry or willingness to learn", "label": []}
+{"id": 826, "data": "Experience with GatsbyJS3-5+ years related experience (TV, Network, Agency or Post-Production facility a plus)", "label": []}
+{"id": 827, "data": "Bachelor’s Degree in Computer Science or similar discipline is preferred", "label": []}
+{"id": 828, "data": "Expert level programming skills creating applications and websites", "label": []}
+{"id": 829, "data": "Experience developing consumer facing user interfaces and supporting UI controls/components", "label": []}
+{"id": 830, "data": "Must possess excellent analytical and troubleshooting skills which will be used to diagnose, debug and solve issues", "label": []}
+{"id": 831, "data": "Passionate and knowledgeable about the latest design technology trends", "label": []}
+{"id": 832, "data": "Ability to write clean, readable, maintainable code", "label": []}
+{"id": 833, "data": "Possess excellent written and verbal communication skills", "label": []}
+{"id": 834, "data": "Experience instrumenting applications with digital marketing technologies", "label": []}
+{"id": 835, "data": "Front End Design including HTML, CSS, sass, javascript, c#, webkit, gulp, react.js, vue.js, tom, bootstrap, github, terminal, VScode", "label": [[27, 31, "SKILL"], [33, 36, "SKILL"], [38, 42, "SKILL"], [44, 54, "SKILL"], [56, 58, "SKILL"], [60, 66, "SKILL"], [68, 72, "SKILL"], [74, 82, "SKILL"], [84, 90, "SKILL"], [92, 95, "SKILL"], [97, 106, "SKILL"], [108, 114, "SKILL"], [116, 124, "SKILL"], [126, 132, "SKILL"]]}
+{"id": 836, "data": "Knowledge of development Stacks such as React, Vue, Coffee Script", "label": [[40, 45, "SKILL"], [47, 50, "SKILL"], [52, 65, "SKILL"]]}
+{"id": 837, "data": "Knowledge of related creative software (Photoshop, After Effects, etc)", "label": [[40, 49, "SKILL"], [51, 64, "SKILL"]]}
+{"id": 838, "data": "Knowledge of Rich Media building tools such as Double ClickRequired Qualifications & Attributes", "label": []}
+{"id": 839, "data": "2+ years of experience in software engineering building highly scalable and integrated frontend web applications", "label": [[0, 8, "YEAR"]]}
+{"id": 840, "data": "Demonstrated experience with component driven development using a modern framework (React or Vue, we use Vue)", "label": []}
+{"id": 841, "data": "Has experience with, and a love for the broader Javascript community", "label": [[48, 58, "SKILL"]]}
+{"id": 842, "data": "Deep understanding of CSS best practices and experience with browser compatibility", "label": [[22, 25, "SKILL"]]}
+{"id": 843, "data": "Experience in implementing automated front-end testing using Jest and Cypress.io", "label": [[61, 65, "SKILL"], [70, 80, "SKILL"]]}
+{"id": 844, "data": "Proactive mindset - we are looking for candidates who can architect applications", "label": []}
+{"id": 845, "data": "Strong aptitude for delivering highly optimized and performant front end code", "label": []}
+{"id": 846, "data": "Believes no code is complete without documentation", "label": []}
+{"id": 847, "data": "Lives in or is willing to move to Los Angeles, CA", "label": []}
+{"id": 848, "data": "Preferred Qualifications & Attributes", "label": []}
+{"id": 849, "data": "Actively contributes to opensource projects. Vue.js projects a plus", "label": [[45, 51, "SKILL"]]}
+{"id": 850, "data": "Familiarity in implementing Web Content Accessibility Guidelines (WCAG) and ADA compliance", "label": []}
+{"id": 851, "data": "Experience with browser based performance testing and optimization", "label": []}
+{"id": 852, "data": "Familiarity with design techniques such as user journey maps, information architecture, interaction models, user research, and wireframes", "label": []}
+{"id": 853, "data": "A deep appreciation and eye for design", "label": []}
+{"id": 854, "data": "Understanding of how motion design influences UI and interaction designRole and Responsibilities (What You'll Do)", "label": []}
+{"id": 855, "data": "Build some amazing things, learn, have fun", "label": []}
+{"id": 856, "data": "Leverage your technical expertise to constantly raise the bar and ensure the team delivers extraordinary results – focusing on creating value, continuous improvement and collaboration", "label": []}
+{"id": 857, "data": "Dive deep into tech, helping with architecture, design, and best practices", "label": []}
+{"id": 858, "data": "Strive to thoroughly understand customer, business, engineering, and stakeholder needs to provide effective solutions to meet those needs", "label": []}
+{"id": 859, "data": "Ensure excellent software development processes", "label": []}
+{"id": 860, "data": "Effectively manage multiple projects and work across a broad range of technologies", "label": []}
+{"id": 861, "data": "Professional Qualifications (What You Have)", "label": []}
+{"id": 862, "data": "You have about two years of hands-on front-end software development experience with a growing understanding of architecture and design across several frameworks and languages", "label": [[15, 24, "YEAR"]]}
+{"id": 863, "data": "You have seen many projects through from end to end and had a role in its development and maintenance", "label": []}
+{"id": 864, "data": "You care deeply about your team, customers, architecture, design, quality, and all the little details", "label": []}
+{"id": 865, "data": "You listen, communicate clearly and effectively with technical and non-technical audiences, and provide solutions with actionable plans", "label": []}
+{"id": 866, "data": "You have strong analytical skills and are results-driven", "label": []}
+{"id": 867, "data": "You know most of these technologies and are eager to learn the rest quickly as needed – React, Redux, JavaScript, CSS, HTML, UI/UX design and best practices, object-oriented programming, Node, GraphQL, AWS, TDD/BDD", "label": [[88, 93, "SKILL"], [95, 100, "SKILL"], [102, 112, "SKILL"], [114, 117, "SKILL"], [119, 123, "SKILL"], [125, 130, "SKILL"], [187, 191, "SKILL"], [193, 200, "SKILL"], [202, 205, "SKILL"], [207, 214, "SKILL"]]}
+{"id": 868, "data": "You know most of these tools and are eager to learn the rest quickly as needed – GitHub, Amplitude, Braze, AppsFlyer, Contentful, front-end build tools such as Webpack, TDD/BDD tools such as Cucumber, CI/CD pipelines such as Jenkins, browser testing tools such as Selenium, Cypress, or Nightwatch, monitoring tools such as NewRelic", "label": [[81, 87, "SKILL"], [89, 98, "SKILL"], [100, 105, "SKILL"], [107, 116, "SKILL"], [118, 128, "SKILL"], [160, 167, "SKILL"], [274, 281, "SKILL"], [286, 296, "SKILL"], [225, 232, "SKILL"], [201, 206, "SKILL"], [191, 199, "SKILL"], [264, 272, "SKILL"], [323, 331, "SKILL"]]}
+{"id": 869, "data": "You have extensive experience delivering products in an Agile environment (Scrum / Kanban)", "label": [[56, 61, "SKILL"], [83, 89, "SKILL"], [75, 80, "SKILL"]]}
+{"id": 870, "data": "B.S. in Computer Science (or equivalent degree or work experience)Develop and extend our customer facing REST/JSON APIs", "label": [[105, 109, "SKILL"], [110, 119, "SKILL"]]}
+{"id": 871, "data": "Design and develop for high scale/availability", "label": []}
+{"id": 872, "data": "Architect interactive, responsive web applications using react.js", "label": [[57, 65, "SKILL"]]}
+{"id": 873, "data": "Integrate with web testing services for unit, functional, and scalability testing", "label": []}
+{"id": 874, "data": "Perform 3rd party API integrations with node.js / typescript", "label": [[50, 60, "SKILL"], [40, 47, "SKILL"]]}
+{"id": 875, "data": "Develop and release using agile methodologies", "label": [[26, 31, "SKILL"]]}
+{"id": 876, "data": "You Must Have", "label": []}
+{"id": 877, "data": "Very strong in JavaScript, typescript, js, react.js", "label": [[15, 25, "SKILL"], [27, 37, "SKILL"], [39, 41, "SKILL"], [43, 51, "SKILL"]]}
+{"id": 878, "data": "Experience working with agility in a scrum environment", "label": [[37, 42, "SKILL"]]}
+{"id": 879, "data": "Creative, self-motivated, independent, and a good communicator", "label": []}
+{"id": 880, "data": "Experience with CI/CD, Docker huge plus", "label": [[23, 29, "SKILL"], [16, 21, "SKILL"]]}
+{"id": 881, "data": "7+ years professional experience with UI/API programming", "label": [[0, 8, "YEAR"]]}
+{"id": 882, "data": "BS in Computer Science required4-5+ years of full-time work experience in frontend-focused web development; bonus if experience is in eCommerce", "label": []}
+{"id": 883, "data": "Bachelor’s degree / Certification in a related field", "label": []}
+{"id": 884, "data": "Expert knowledge of HTML5, Canvas, CSS3", "label": [[27, 33, "SKILL"], [20, 25, "SKILL"], [35, 39, "SKILL"]]}
+{"id": 885, "data": "Experience with jQuery", "label": [[16, 22, "SKILL"]]}
+{"id": 886, "data": "Expert knowledge of modern frontend frameworks, specifically React", "label": [[61, 66, "SKILL"]]}
+{"id": 887, "data": "Expert knowledge of frontend UX best practices", "label": []}
+{"id": 888, "data": "Experience with ECMAScript 2015+ and Node JS", "label": [[37, 44, "SKILL"], [16, 32, "SKILL"]]}
+{"id": 889, "data": "Experience with frontend builds using Gulp or Webpack", "label": [[38, 42, "SKILL"], [46, 53, "SKILL"]]}
+{"id": 890, "data": "Experience with Shopify", "label": [[16, 23, "SKILL"]]}
+{"id": 891, "data": "Experience and knowledge of mobile optimization and responsive development", "label": []}
+{"id": 892, "data": "Experience with testing and performance optimization across all devices", "label": []}
+{"id": 893, "data": "Ability to create standards-compliant code", "label": []}
+{"id": 894, "data": "Desire to be constantly learning and challenged", "label": []}
+{"id": 895, "data": "Must have a passion for the web, technology and entertainment industriesA high degree of curiosity with the ability to ask thoughtful questions and solve challenging problems", "label": []}
+{"id": 896, "data": "The capacity to envision a variety of solutions and to clearly articulate them and explain the trade-offs", "label": []}
+{"id": 897, "data": "The ability to use functional programming to design simple and elegant solutions", "label": []}
+{"id": 898, "data": "A collaborative mind-set that enjoys working with others and knowledge sharing to achieve the best results", "label": []}
+{"id": 899, "data": "An eagerness to give and receive feedback in an open team atmosphere to better the overall result", "label": []}
+{"id": 900, "data": "Experience and/or interest in building web UI applications", "label": []}
+{"id": 901, "data": "React or Angular web stack experience and/or practical experience with (or interest in transitioning to) a functional language such as Clojure/ClojureScript", "label": [[9, 16, "SKILL"], [135, 142, "SKILL"], [0, 5, "SKILL"], [143, 156, "SKILL"]]}
+{"id": 902, "data": "Any of the following would be an added benefit:", "label": []}
+{"id": 903, "data": "Experience with ClojureScript using re-frame for UI development", "label": [[16, 29, "SKILL"]]}
+{"id": 904, "data": "Experience Building React applications and RESTful APIs", "label": [[43, 55, "SKILL"], [20, 25, "SKILL"]]}
+{"id": 905, "data": "Experience with CSS frameworks, such as Bootstrap", "label": [[16, 19, "SKILL"], [40, 49, "SKILL"]]}
+{"id": 906, "data": "Experience using a RDBMS such as PostgresYou are passionate about delivering end-to-end experiences and software architecture across the front-end, back-end, and the APIs that glue them together.", "label": []}
+{"id": 907, "data": "You are experienced with modern backend languages, technologies, coding, testing, debugging, and automation techniques", "label": []}
+{"id": 908, "data": "You care about backend technologies as well as exploring data through pipelines and charts", "label": []}
+{"id": 909, "data": "You have experience in backend development and data engineering", "label": []}
+{"id": 910, "data": "You enjoy learning quickly and working closely together with your product team to bring value to your partnersJob Requirements: Master’s degree (U.S. or foreign equivalent) or Bachelor’s degree (U.S. or foreign equivalent) in Computer Science, Computer Information Systems, or a related field.", "label": []}
+{"id": 911, "data": "Three years of experience with a Master’s degree or five years of experience with a Bachelor’s degree in the job offered or as a Software Developer or a related role.", "label": []}
+{"id": 912, "data": "Prior work experience must include three years of experience with a Master’s degree or five years of experience with a Bachelor’s degree with: working with programming languages including Java or Python", "label": [[196, 202, "SKILL"], [188, 192, "SKILL"], [35, 46, "YEAR"], [87, 97, "YEAR"]]}
+{"id": 913, "data": "building and deploying production grade code for APIs using frameworks in Java or Python", "label": [[74, 78, "SKILL"], [82, 88, "SKILL"]]}
+{"id": 914, "data": "designing data models and schemas using SQL on either Relational or Distributed Databases", "label": [[40, 43, "SKILL"]]}
+{"id": 915, "data": "using one or more major relational/object databases for indexing, authentication, resource management, performance tuning and resiliency", "label": []}
+{"id": 916, "data": "using Java or Python unit testing tools including Junit, Pytest or nosetestworking with object-relational mapping (ORM) and its libraries", "label": [[6, 10, "SKILL"], [14, 20, "SKILL"], [50, 55, "SKILL"], [57, 63, "SKILL"]]}
+{"id": 917, "data": "using Linux, including UNIX commands, to analyze, maintain and develop server-side scripts", "label": [[6, 11, "SKILL"], [23, 27, "SKILL"]]}
+{"id": 918, "data": "working across the entire SDLC lifecycle of product development, including requirements gathering, functional and technical design, development, user acceptance testing, release procedures, change request analysis and production support; using CI/CD pipelines and tools to design, develop, test and deploy software in a Production Environment", "label": []}
+{"id": 919, "data": "maintaining code using any major source control system, such as SVN or GIT; and implementing automated tests through test driven development.", "label": [[64, 67, "SKILL"], [71, 74, "SKILL"]]}
+{"id": 920, "data": "Prior experience must also include two years of experience with: building and optimizing ‘big data’ data pipelines, architectures and datasets using Hadoop, Spark or Kafka.Our Stack:", "label": [[149, 155, "SKILL"], [157, 162, "SKILL"], [166, 171, "SKILL"]]}
+{"id": 921, "data": "AWS infrastructure", "label": [[0, 3, "SKILL"]]}
+{"id": 922, "data": "Postgresql", "label": [[0, 10, "SKILL"]]}
+{"id": 923, "data": "Node backend (Typescript, feathersjs)", "label": [[0, 4, "SKILL"], [14, 24, "SKILL"], [26, 36, "SKILL"]]}
+{"id": 924, "data": "Vue and React on the frontend", "label": [[0, 3, "SKILL"], [8, 13, "SKILL"]]}
+{"id": 1167, "data": "Requirements:", "label": []}
+{"id": 925, "data": "Python, Golang & Rust in the mix as well", "label": [[0, 6, "SKILL"], [8, 14, "SKILL"], [17, 21, "SKILL"]]}
+{"id": 926, "data": "We are looking for a talented Software Engineer with > 5 years of experience in software development and strong competency in the Rust programming language . You will be responsible for developing, testing, and maintaining code across our mission-critical products.", "label": [[130, 134, "SKILL"], [53, 62, "YEAR"]]}
+{"id": 927, "data": "This will be a unique opportunity for a  Rust engineer to become a block chain engineer in the solana ecosystem. You will bring your strong experience from rust engineering into the block chain and defi world and help us launch some cutting edge defi products.Our stack is JS/React (interacting with backends written in Golang).", "label": [[41, 45, "SKILL"], [273, 275, "SKILL"], [276, 281, "SKILL"], [320, 326, "SKILL"]]}
+{"id": 928, "data": "We look for teammates with the following skills:", "label": []}
+{"id": 929, "data": "You are comfortable working in a remote-first company; communication is key. For us, working together means being collaborative, friendly, kind and respectful. We operate by consensus, you can contribute to a discussion but then commit to the team decision.", "label": []}
+{"id": 930, "data": "You have at least a couple of years of experience as a Frontend developer. We are a small team of four, working remotely, on a product that will be used by engineers all over the world – the ability to work on your own, and ship working code is crucial.", "label": []}
+{"id": 931, "data": "You have an active interest or knowledge in the IoT or industrial space.", "label": []}
+{"id": 932, "data": "Our technologies:", "label": []}
+{"id": 933, "data": "We work with React as our framework, Typescript, Redux, and RxJS", "label": [[37, 47, "SKILL"], [49, 54, "SKILL"], [60, 64, "SKILL"]]}
+{"id": 934, "data": "We use Storybook to communicate internally and externally (e.g plugin developers can see what the component library looks like and offers)", "label": []}
+{"id": 935, "data": "Emotion is our choice when it comes to styling, but there’s some SASS around too", "label": [[65, 69, "SKILL"]]}
+{"id": 936, "data": "Webpack is our current bundlerPassionate - We take pride in what we do", "label": []}
+{"id": 937, "data": "Collaborative - We think about the team first", "label": []}
+{"id": 938, "data": "Customer Focused - We are empathetic and respectful", "label": []}
+{"id": 939, "data": "Curious - We desire to learn and do better", "label": []}
+{"id": 940, "data": "Agile - We adapt to change quickly", "label": [[0, 5, "SKILL"]]}
+{"id": 941, "data": "We are currently seeking a Python developer/Senior systems administrator to join our growing Team!", "label": [[27, 33, "SKILL"]]}
+{"id": 942, "data": "Who you are", "label": []}
+{"id": 943, "data": "This position is responsible for handling advanced systems administration and automation tasks, as well as development of our in house datacenter automation tool which is written in Python.", "label": [[182, 188, "SKILL"]]}
+{"id": 944, "data": "At A2 there are thousands of servers and devices that our teams need to manage the state of the equipment. To accomplish this, A2 uses a custom Python Django application that drives our datacenter automation. The servers and devices that are managed by this system are a mix of both internal and customer facing systems.", "label": [[144, 150, "SKILL"], [151, 157, "SKILL"]]}
+{"id": 945, "data": "While this Python app is running Django, there is a lot more to it. There is a lot of backend code that requires Linux and Network systems training to fully understand and be successful in this project. The Python app exposes an API to our billing system to handle the lifecycles of some of our hosting products, like bare metal dedicated servers or VPS. Our billing system issues create, terminate, suspend, and resume commands to the Python system and it takes care of running the necessary commands to put the device into the requested state.", "label": [[113, 118, "SKILL"], [11, 17, "SKILL"], [33, 39, "SKILL"], [207, 213, "SKILL"], [436, 442, "SKILL"]]}
+{"id": 946, "data": "What you’ll do", "label": []}
+{"id": 947, "data": "Deployment and maintenance of company level infrastructure, including but not limited to Apache, Nginx, Litespeed Web Server, exim, Postfix, LDAP, FreeIPA, PowerDNS, BIND, MySQL, Varnish, cPanel/WHM, Salt, etc.", "label": [[89, 95, "SKILL"], [97, 102, "SKILL"], [104, 124, "SKILL"], [126, 130, "SKILL"], [132, 139, "SKILL"], [141, 145, "SKILL"], [147, 154, "SKILL"], [156, 164, "SKILL"], [166, 170, "SKILL"], [172, 177, "SKILL"], [179, 186, "SKILL"], [188, 194, "SKILL"], [195, 198, "SKILL"], [200, 204, "SKILL"]]}
+{"id": 948, "data": "Development and maintenance of A2 Hosting’s in house Datacenter automation tool written in Python.", "label": [[91, 97, "SKILL"]]}
+{"id": 949, "data": "Escalated troubleshooting of systems in a 24/7 environment, including on call rotation", "label": []}
+{"id": 950, "data": "Proactive maintenance of a large fleet of servers including customer environments.", "label": []}
+{"id": 951, "data": "Documentation of deployed systems, troubleshooting processes, infrastructure design, etc.", "label": []}
+{"id": 952, "data": "Guidance and consultation on internal projects and company priorities.", "label": []}
+{"id": 953, "data": "Other duties as assigned.", "label": []}
+{"id": 954, "data": "Skills you have", "label": []}
+{"id": 955, "data": "5+ years Linux Systems Administration", "label": [[9, 14, "SKILL"], [0, 8, "YEAR"]]}
+{"id": 956, "data": "3+ years Python development", "label": [[9, 15, "SKILL"], [0, 8, "YEAR"]]}
+{"id": 957, "data": "Experience with configuration management systems", "label": []}
+{"id": 958, "data": "Experience with datacenter automation", "label": []}
+{"id": 959, "data": "Experience in a Hosting or similar Technology company is a plusCollaborate with key internal partners to determine how to scalably design backend systems and APIs", "label": []}
+{"id": 960, "data": "Architect, develop, and operate Java services deployed to millions of users.", "label": [[32, 36, "SKILL"]]}
+{"id": 961, "data": "Work with data engineers to build and maintain batch and real-time data pipelines with data processing frameworks like Scio, Storm, Spark and the Google Cloud Platform.", "label": [[119, 123, "SKILL"], [125, 130, "SKILL"], [132, 137, "SKILL"], [146, 167, "SKILL"]]}
+{"id": 962, "data": "Be a technical leader and valued contributor in an autonomous, cross-functional agile team", "label": []}
+{"id": 963, "data": "Who You Are", "label": []}
+{"id": 964, "data": "You have experience working directly with stakeholders to understand, document and develop APIs and systems to meet their requirements, driving increased adoption and reducing reliance on custom one-off implementations.", "label": []}
+{"id": 965, "data": "You have written distributed, high-volume services and know how to deploy and keep them running in production.", "label": []}
+{"id": 966, "data": "You have interest in big data processing technologies.", "label": []}
+{"id": 967, "data": "You love working in an environment where you constantly experiment and iterate quickly.", "label": []}
+{"id": 968, "data": "You believe data is the most powerful tool for informed decision-making.", "label": []}
+{"id": 969, "data": "You have a deep understanding of system design, data structures, and algorithms.", "label": []}
+{"id": 970, "data": "You care about quality and you know what it means to ship high quality code.Conduct code reviews as part of our Git Workflow.", "label": [[112, 115, "SKILL"]]}
+{"id": 971, "data": "5+ years of object-oriented software development experience.", "label": [[0, 8, "YEAR"]]}
+{"id": 972, "data": "3+ years of experience building complex applications for iPhone or iPad using Objective-C/C++/Swift with the iOS SDK and other frameworks.", "label": [[90, 93, "SKILL"], [109, 116, "SKILL"], [78, 89, "SKILL"], [94, 99, "SKILL"], [0, 8, "YEAR"]]}
+{"id": 973, "data": "Experience building maintainable and testable code bases, including API design and unit testing techniques.", "label": []}
+{"id": 974, "data": "You can demonstrate the reasoning and explain technical trade-offs to business stakeholder.", "label": []}
+{"id": 975, "data": "You must have a good understanding of Backend technologies: Node.js, HTTP, REST and SOAP.", "label": [[60, 67, "SKILL"], [69, 73, "SKILL"], [84, 88, "SKILL"], [75, 79, "SKILL"]]}
+{"id": 976, "data": "Experience with multithreading programming and mobile memory management.Responsibilities:", "label": []}
+{"id": 977, "data": "Identify, design, and develop systems, features and functionality within Unity for deployment to mobile devices (iOS and Android)", "label": [[113, 116, "SKILL"], [121, 128, "SKILL"]]}
+{"id": 978, "data": "Develop tools within Unity to improve play design and content creation capabilities and workflow", "label": [[21, 26, "SKILL"]]}
+{"id": 979, "data": "Develop features around device capabilities like camera, microphone and augmented reality", "label": []}
+{"id": 980, "data": "Wireframe systems in collaboration with engineering team prior to implementation", "label": []}
+{"id": 981, "data": "Solve complex problems with simple and extendable architectural solutions", "label": []}
+{"id": 982, "data": "Collaborate with the other facets of our engineering team (native iOS, Android and backend) with the goal of creating a seamless experience for our players", "label": [[66, 69, "SKILL"], [71, 78, "SKILL"]]}
+{"id": 983, "data": "Monitor performance, exceptions and crashes in our player base and develop solutions", "label": []}
+{"id": 984, "data": "Participate in new technology and technical solution evaluation and provide recommendation", "label": []}
+{"id": 985, "data": "Coordinate with your team to define development timeframes, dependencies, and areas of risk to be considered in project planning", "label": []}
+{"id": 986, "data": "Required Qualifications:", "label": []}
+{"id": 987, "data": "5+ years experience as a Unity developer", "label": [[25, 30, "SKILL"], [0, 8, "YEAR"]]}
+{"id": 988, "data": "You have proven experience building mobile software with Unity, ideally, that are consumer-facing and content-driven", "label": [[57, 62, "SKILL"]]}
+{"id": 989, "data": "You have experience with Unity’s Addressables system or legacy Asset Bundle system for delivering content over-the-air", "label": []}
+{"id": 990, "data": "You’re able to profile, debug and optimize complex systems targeting mobile devices", "label": []}
+{"id": 991, "data": "You have experience working closely with and empowering design and creative teams", "label": []}
+{"id": 992, "data": "You have a solid understanding of the full software development life cycle", "label": []}
+{"id": 993, "data": "You quickly find creative solutions to difficult problems", "label": []}
+{"id": 994, "data": "You are highly motivated and a self-starter", "label": []}
+{"id": 995, "data": "Preferred Qualifications:", "label": []}
+{"id": 996, "data": "You have experience working on camera based experiences like augmented reality", "label": []}
+{"id": 997, "data": "You have experience working on children’s apps", "label": []}
+{"id": 998, "data": "You have experience hiring and leading other engineers", "label": []}
+{"id": 999, "data": "You earned a Bachelor of Science in Computer Science degree or related subjectCollaborate with engineering, design, user experience, product and analytics teams to identify needs, evaluate requirements and design software solutions", "label": []}
+{"id": 1000, "data": "Write well designed, efficient and testable code in C++, Go and Python", "label": [[52, 55, "SKILL"], [57, 59, "SKILL"], [64, 70, "SKILL"]]}
+{"id": 1001, "data": "Implement client gameplay features, UI/UX features, and associated server backend logic.", "label": [[36, 41, "SKILL"]]}
+{"id": 1002, "data": "Follow established studio coding policies and practices.", "label": []}
+{"id": 1003, "data": "Have fun; we’re making games!", "label": []}
+{"id": 1004, "data": "Desired Skill and Experience:", "label": []}
+{"id": 1005, "data": "Experience developing and releasing games in Unreal Engine (or an equivalent game engine) and C++", "label": [[94, 97, "SKILL"]]}
+{"id": 1006, "data": "Comfortable understanding and debugging unfamiliar code in a large project", "label": []}
+{"id": 1007, "data": "Ability to demonstrate strong analytical, programming and debugging skills", "label": []}
+{"id": 1008, "data": "Strive for excellence in software craftsmanship, and collaborate with peers to improve software design", "label": []}
+{"id": 1009, "data": "Excellent written and spoken communication skills and ability to work efficiently with teammates", "label": []}
+{"id": 1010, "data": "Exhibits a desire to learn and share with their peers", "label": []}
+{"id": 1011, "data": "Experience with source control management and code reviews", "label": []}
+{"id": 1012, "data": "Masters or Bachelor’s Degree in Computer Science, Engineering or equivalentDevelop code (design, build, unit test, deploy, run) to run on backend, web frontend, cloud, mobile and IoT devices.", "label": []}
+{"id": 1013, "data": "Follow effective agile processes and continuously improve.", "label": []}
+{"id": 1014, "data": "Communicate constructively with team members to cooperatively build a product suite that delights customers.", "label": []}
+{"id": 1015, "data": "Write extensible code with high automated test coverage.", "label": []}
+{"id": 1016, "data": "Contribute to team decisions about system architecture and the selection of technical tools.", "label": []}
+{"id": 1017, "data": "Troubleshoot issues as they arise and resolve technical challenges.", "label": []}
+{"id": 1018, "data": "Understand business concerns and contribute to brainstorming pragmatic options to address them.", "label": []}
+{"id": 1019, "data": "Work quickly while maintaining strong attention to detail and accuracy.", "label": []}
+{"id": 1020, "data": "BS or MS (Comp Science, Computer Engineering, Electrical Engineering, Information Systems)", "label": []}
+{"id": 1021, "data": "Minimum 3 years of experience:", "label": []}
+{"id": 1022, "data": "In Full Stack JavaScript, especially Node.js & Angular and related tooling ecosystem", "label": [[14, 24, "SKILL"], [37, 44, "SKILL"], [47, 54, "SKILL"]]}
+{"id": 1023, "data": "Building client-side, single-page applications using JavaScript frameworks (preferred Angular or React)", "label": [[53, 63, "SKILL"], [86, 93, "SKILL"], [97, 102, "SKILL"]]}
+{"id": 1024, "data": "Ensuring code quality (ESLint, JSLint) and Unit testing (Jasmine, Mocha + Chai or Karma, etc)", "label": [[57, 64, "SKILL"], [66, 71, "SKILL"], [74, 78, "SKILL"], [82, 87, "SKILL"], [23, 29, "SKILL"], [31, 37, "SKILL"]]}
+{"id": 1025, "data": "Utilizing Agile/Scrum process to develop large-scale systems", "label": [[16, 21, "SKILL"], [10, 15, "SKILL"]]}
+{"id": 1026, "data": "Cloud: API Management / Gateway offerings", "label": []}
+{"id": 1027, "data": "Building RESTful APIs, cloud-native microservices, orchestration layersBachelor’s in Computer Science, related field, or equivalent demonstrable experience", "label": [[9, 21, "SKILL"]]}
+{"id": 1028, "data": "Experience:", "label": []}
+{"id": 1029, "data": "5+ years of work experience in software design and development and hands-on experience in building large-scale services/distributed systems", "label": [[0, 8, "YEAR"]]}
+{"id": 1030, "data": "Knowledge of ecommerce technology landscape and associated stacks (shopping cart, API integrations, OMS, IMS, WMS, credit card processing, tax engine, digital distribution etc.)", "label": []}
+{"id": 1031, "data": "Experienced in:", "label": []}
+{"id": 1032, "data": "Front end frameworks React, Shopify’s Polaris, and jQuery", "label": [[21, 26, "SKILL"], [28, 45, "SKILL"], [51, 57, "SKILL"]]}
+{"id": 1033, "data": "NodeJS, JavaScript (ES2019+), ESLint and coding standards, Typescript", "label": [[0, 6, "SKILL"], [8, 18, "SKILL"], [59, 69, "SKILL"], [30, 36, "SKILL"]]}
+{"id": 1034, "data": "Shopify backend and frontend development with a focus on backend – Shopify Plus experience a plus, one or more provable Shopify certifications preferred", "label": [[0, 7, "SKILL"], [67, 74, "SKILL"], [120, 127, "SKILL"]]}
+{"id": 1035, "data": "Experience with task runners, build tools, and bundlers like Gulp, Grunt, Webpack, etc.", "label": [[61, 65, "SKILL"], [67, 72, "SKILL"], [74, 81, "SKILL"]]}
+{"id": 1036, "data": "Comfort with multiple Linux distributions", "label": [[22, 27, "SKILL"]]}
+{"id": 1037, "data": "Experience with containerization, docker, docker-compose, swarm, Kubernetes", "label": [[34, 40, "SKILL"], [42, 56, "SKILL"], [58, 63, "SKILL"], [65, 75, "SKILL"]]}
+{"id": 1038, "data": "Experience integrating with web services (REST, and GraphQL) and third-party libraries", "label": [[42, 46, "SKILL"], [52, 59, "SKILL"]]}
+{"id": 1039, "data": "Data applications using Fetch/AJAX/JSONP with JSON/XML/HTML content", "label": [[24, 29, "SKILL"], [30, 34, "SKILL"], [35, 40, "SKILL"], [55, 59, "SKILL"]]}
+{"id": 1040, "data": "Authentication and authorization technologies a plus: SAML, OAuth, OpenID", "label": [[54, 58, "SKILL"], [60, 65, "SKILL"], [67, 73, "SKILL"]]}
+{"id": 1041, "data": "Proficiency with relational databases such as PostgreSQL and MySQL/MariaDB", "label": [[46, 56, "SKILL"], [61, 66, "SKILL"], [67, 74, "SKILL"]]}
+{"id": 1042, "data": "A strong understanding of database management and performant database design is required.", "label": []}
+{"id": 1043, "data": "Experience working within an agile team", "label": []}
+{"id": 1044, "data": "Experience setting up continuous integration and deployment (CI/CD) with tools like Jenkins, Github, and BitBucket", "label": [[84, 91, "SKILL"], [93, 99, "SKILL"], [105, 114, "SKILL"]]}
+{"id": 1045, "data": "Bonus Skills:", "label": []}
+{"id": 1046, "data": "Test Driven Development", "label": []}
+{"id": 1047, "data": "Knowledge of AWS design and infrastructure", "label": [[13, 16, "SKILL"]]}
+{"id": 1048, "data": "2 – 3 years in an agile environment (Scrum and/or Kanban)", "label": [[37, 42, "SKILL"], [50, 56, "SKILL"], [18, 23, "SKILL"]]}
+{"id": 1049, "data": "Experience developing mobile applications", "label": []}
+{"id": 1050, "data": "Skills/Abilities:", "label": []}
+{"id": 1051, "data": "Solid understanding of Shopify and general eCommerce and consumer marketing technologies", "label": [[23, 30, "SKILL"]]}
+{"id": 1052, "data": "Strong proficiency in modern design patterns and development languages including JavaScript, Typescript, Python, HTML5, CSS3, and Ruby", "label": [[113, 118, "SKILL"], [120, 124, "SKILL"], [130, 134, "SKILL"], [105, 111, "SKILL"], [93, 103, "SKILL"], [81, 91, "SKILL"]]}
+{"id": 1053, "data": "Proficiency in responsive design principles and application to visually rich designs across multiple device form factors", "label": []}
+{"id": 1054, "data": "Strong knowledge of APIs, webhooks, and general data transfer approaches", "label": []}
+{"id": 1055, "data": "Ability to identify areas that can be streamlined or automated", "label": []}
+{"id": 1056, "data": "Ability to write unit tests when implementing user stories and design and develop code for testability", "label": []}
+{"id": 1057, "data": "Solid grounding with common design patterns and development best practices", "label": []}
+{"id": 1058, "data": "Ability to multi-task, problem solve, and execute tasks with accuracy in a high-pressure, fast-paced agile environment8+ years of relevant C++ and Object-Oriented application and backend experience in a professional environment.", "label": [[139, 142, "SKILL"]]}
+{"id": 1059, "data": "Thorough understanding of relational databases such as MySQL or PostgreSQL.", "label": [[55, 60, "SKILL"], [64, 74, "SKILL"]]}
+{"id": 1060, "data": "Excellent communication skills and ability to work independently and within a team.", "label": []}
+{"id": 1061, "data": "Experience working with product teams to identify core features and plan development.", "label": []}
+{"id": 1062, "data": "Agile/Scrum development cycle understanding.Design and develop the large-scale, real-time, reliable and globally available targeting platform.", "label": []}
+{"id": 1063, "data": "Build robust and scalable micro-services and offline processing pipelines.", "label": []}
+{"id": 1064, "data": "End to end ownership of backend services: Ideate, review design, build, code-review, test, load-test, launch, monitor performance.", "label": []}
+{"id": 1065, "data": "Collaborate with other team members (including product owners, TPMs, and other business units) to achieve product and business requirements.", "label": []}
+{"id": 1066, "data": "Use a mix of technologies including Java, Python, Kafka, Redis, MySQL, Flink, Spark, AWS.", "label": [[36, 40, "SKILL"], [42, 48, "SKILL"], [57, 62, "SKILL"], [50, 55, "SKILL"], [64, 69, "SKILL"], [71, 76, "SKILL"], [78, 83, "SKILL"], [85, 88, "SKILL"]]}
+{"id": 1067, "data": "Challenge our team and software to be even better.", "label": []}
+{"id": 1068, "data": "WHAT TO BRING", "label": []}
+{"id": 1069, "data": "BS or MS in Computer Science/Engineering", "label": []}
+{"id": 1070, "data": "5+ years of relevant software engineering experience", "label": [[0, 8, "YEAR"]]}
+{"id": 1071, "data": "Proficiency with Java and/or Python", "label": [[17, 21, "SKILL"], [29, 35, "SKILL"]]}
+{"id": 1072, "data": "Extensive experience building highly scalable, reliable and maintainable services", "label": []}
+{"id": 1073, "data": "Enthusiasm for achieving sub-millisecond gains in service response time", "label": []}
+{"id": 1074, "data": "The quality-first mindset with a focus on test automation and CI/CD", "label": []}
+{"id": 1075, "data": "Great communication, collaboration skills, and a strong teamwork ethic", "label": []}
+{"id": 1076, "data": "The ability to jump into a project and contribute immediately to both architecture and implementation", "label": []}
+{"id": 1077, "data": "Strive for excellence", "label": []}
+{"id": 1078, "data": "NICE-TO-HAVES", "label": []}
+{"id": 1079, "data": "Experience with AWS or other public cloud platforms", "label": [[16, 19, "SKILL"]]}
+{"id": 1080, "data": "Proficiency in data streaming technologies such as Spark and FlinkMust have software development experience in multiple programming languages, particularly NodeJS API frameworks (HapiJS preferred), and preferably Python", "label": []}
+{"id": 1081, "data": "Must have experience with RESTful API design/architecture", "label": [[26, 37, "SKILL"]]}
+{"id": 1082, "data": "Must have experience with SQL data stores and designing relational data models", "label": [[26, 29, "SKILL"]]}
+{"id": 1083, "data": "Must have experience with front-end JS frameworks (React preferred)", "label": []}
+{"id": 1084, "data": "Prefer experience with front-end reporting and charting libraries", "label": []}
+{"id": 1085, "data": "Prefer experience with front-end video player and video playback", "label": []}
+{"id": 1086, "data": "Prefer experience building API-based integrations with other cloud services like G Suite, Microsoft Graph, Okta, OneLogin, Slack, etc.", "label": [[81, 88, "SKILL"], [90, 105, "SKILL"], [107, 111, "SKILL"], [113, 121, "SKILL"], [123, 128, "SKILL"]]}
+{"id": 1087, "data": "Prefer experience with log/data analysis pipelines, IoT concepts and protocols (MQTT), backend services for mobile applications", "label": []}
+{"id": 1088, "data": "Prefer experience with deploying and maintaining software services within public cloud environments, particularly AWS services such as Serverless/Lambda, CloudFormation, Elastic Beanstalk, EC2/VPCs, Docker, DynamoDB, RDS, CloudWatch / Datadog / other monitoring services", "label": [[114, 117, "SKILL"], [146, 152, "SKILL"], [135, 145, "SKILL"], [154, 168, "SKILL"], [170, 187, "SKILL"], [189, 192, "SKILL"], [193, 197, "SKILL"], [199, 205, "SKILL"], [207, 215, "SKILL"], [217, 220, "SKILL"], [222, 233, "SKILL"], [235, 243, "SKILL"]]}
+{"id": 1089, "data": "Knowledge of Linux fundamentals including bash / command-line", "label": [[13, 19, "SKILL"]]}
+{"id": 1090, "data": "Experience with agile methodologies and rapid iteration cyclesJob Duties/Responsibilities:", "label": []}
+{"id": 1091, "data": "Learn core programming languages used by the Lamps Plus IBM i programming group.", "label": [[45, 55, "SKILL"]]}
+{"id": 1092, "data": "RPGLE (Fixed and Free Format), CL, SQL", "label": [[31, 33, "SKILL"], [35, 38, "SKILL"], [0, 5, "SKILL"]]}
+{"id": 1093, "data": "Familiarize yourself with the core tools used by the Lamps Plus IBM i programming group.", "label": []}
+{"id": 1094, "data": "RDI, TD/OMS Change Management, SQL Developer, JIRA", "label": [[0, 3, "SKILL"], [31, 34, "SKILL"], [46, 50, "SKILL"]]}
+{"id": 1095, "data": "With the help of other programmers, familiarize yourself with our test environment and the various systems that we are responsible for and third party applications we are connected to.", "label": []}
+{"id": 1096, "data": "With the help of other programmers, begin to learn how to read code (old and new) and analyze what a program is doing.", "label": []}
+{"id": 1097, "data": "Learn new techniques for modernization of the DB2 database and programs that access it.", "label": []}
+{"id": 1098, "data": "Learn programming skills, methods, and systems knowledge from other developers.", "label": []}
+{"id": 1099, "data": "Sit in meetings with users and learn how to take notes and work with the users to handle issues and design new systems.", "label": []}
+{"id": 1100, "data": "Complete basic programming tasks as assigned by team management and project leads. In these instances, the tasks will mostly be pre-defined and the Junior Programmer will execute the task as defined by another developer.", "label": []}
+{"id": 1101, "data": "Learn how to document programs, systems and code changes.", "label": []}
+{"id": 1102, "data": "Become familiar with the IBM i environment and command line.", "label": []}
+{"id": 1103, "data": "Job Requirements:", "label": []}
+{"id": 1104, "data": "Experience working in software development", "label": []}
+{"id": 1105, "data": "Programming experience or experience with SQL", "label": [[42, 45, "SKILL"]]}
+{"id": 1106, "data": "Perform other duties as assigned by managementJob Responsibilities:", "label": []}
+{"id": 1107, "data": "Enhance and refine development skills and methods in languages used by the Lamps Plus IBM i development team.", "label": []}
+{"id": 1108, "data": "RPGLE, CL, PHP, HTML, JavaScript, JQuery, SQL, and others", "label": [[0, 5, "SKILL"], [7, 9, "SKILL"], [11, 14, "SKILL"], [16, 20, "SKILL"], [22, 32, "SKILL"], [42, 45, "SKILL"], [34, 40, "SKILL"]]}
+{"id": 1109, "data": "Become proficient with the tools used by the Lamps Plus IBM i development team.", "label": []}
+{"id": 1110, "data": "Rational Developer for i (RDI), Access Client Services (ACS), Websmart (ILE and PHP), TD/OMS Change Management, SQL Developer, Jira, X-analysis", "label": []}
+{"id": 1111, "data": "Become familiar with test and production environments and the various systems that the IBM i team is responsible for as well as the third party applications we are connected to.", "label": []}
+{"id": 1112, "data": "Learn and apply new techniques for modernization of the DB2 database and programs that access it.", "label": []}
+{"id": 1113, "data": "Job Requirements:", "label": []}
+{"id": 1114, "data": "5+ years of programming experience on the IBM i or equivalent experience on other platforms", "label": [[0, 8, "YEAR"]]}
+{"id": 1115, "data": "Bachelor’s Degree or equivalent work experience in IT", "label": []}
+{"id": 1116, "data": "Excellent writing, communication and time management skills. Must work well with others in a team.", "label": []}
+{"id": 1117, "data": "Skilled in Microsoft office suite", "label": []}
+{"id": 1118, "data": "Proficient in working with programming and data access languages.", "label": []}
+{"id": 1119, "data": "Proficient in working with databases across multiple platforms.", "label": []}
+{"id": 1120, "data": "Be part of production support and off hours support rotation", "label": []}
+{"id": 1121, "data": "Experience in managing small to medium sized business projectsWork in agile sprints building new features and enhancing existing areas of our tools using Laravel, PHP, Vue.js, MySQL, and AWS.", "label": [[154, 161, "SKILL"], [163, 166, "SKILL"], [168, 174, "SKILL"], [176, 181, "SKILL"], [187, 190, "SKILL"]]}
+{"id": 1122, "data": "Contribute mainly to back-end development with a focus on maintainability, usability, scalability, and performance, helping with front-end and fullstack projects as necessary.", "label": []}
+{"id": 1123, "data": "Work closely with business, marketing, and content teams to understand the future business direction with the goal of architecting the platform optimally for feature delivery.", "label": []}
+{"id": 1124, "data": "Contribute ideas and work on solutions to evolve our CI/CD processes and tools.", "label": []}
+{"id": 1125, "data": "Be a positive influence on the team participating in design reviews, collaborating with other developers, and ensuring adherence to coding and testing standards.", "label": []}
+{"id": 1126, "data": "Maintain a high awareness of industry issues and trends, particularly in regard to web technologies, cloud computing, machine learning (ML), and automated unit testing.", "label": [[118, 134, "SKILL"], [101, 116, "SKILL"], [145, 167, "SKILL"], [83, 99, "SKILL"]]}
+{"id": 1127, "data": "Drive major releases, breaking down complex requirements into actionable development work that can include more junior engineers.", "label": []}
+{"id": 1128, "data": "Help foster an environment of engineering excellence by coaching and mentoring more junior engineers.", "label": []}
+{"id": 1129, "data": "Add and improve our test coverage in our end-to-end, integration, and unit test suites.", "label": [[41, 51, "SKILL"], [53, 64, "SKILL"], [70, 79, "SKILL"]]}
+{"id": 1130, "data": "What You’ll Need:", "label": []}
+{"id": 1131, "data": "6+ years of full-stack software development experience on a customer-facing web application.", "label": [[76, 91, "SKILL"], [0, 8, "YEAR"]]}
+{"id": 1132, "data": "Experience with PHP and Laravel.", "label": [[16, 19, "SKILL"], [24, 31, "SKILL"]]}
+{"id": 1133, "data": "Experience with cloud architecture, preferably AWS, using technologies like EC2, ECS, Lambda, and RDS.", "label": [[47, 50, "SKILL"], [76, 79, "SKILL"], [81, 84, "SKILL"], [86, 92, "SKILL"], [98, 101, "SKILL"]]}
+{"id": 1134, "data": "Excellent cross-functional communication skills.", "label": []}
+{"id": 1135, "data": "Experience with containers and Docker in development and production environments.", "label": [[31, 37, "SKILL"]]}
+{"id": 1136, "data": "Experience working with, creating, and consuming REST web services and APIs.", "label": [[49, 53, "SKILL"]]}
+{"id": 1137, "data": "Experience with SQL databases (MySQL preferred).", "label": [[16, 19, "SKILL"], [31, 36, "SKILL"]]}
+{"id": 1138, "data": "Strong computer science fundamentals and knowledge of design patterns.", "label": []}
+{"id": 1139, "data": "What'd Be Nice to Have:", "label": []}
+{"id": 1140, "data": "Experience with a modern JavaScript framework (Vue/React/Angular).", "label": [[47, 50, "SKILL"], [51, 56, "SKILL"], [57, 64, "SKILL"], [25, 35, "SKILL"]]}
+{"id": 1141, "data": "Experience with Java, Python", "label": [[16, 20, "SKILL"], [22, 28, "SKILL"]]}
+{"id": 1142, "data": "Experience with ML (TensorFlow, PyTorch, etc.)", "label": [[20, 30, "SKILL"], [32, 39, "SKILL"]]}
+{"id": 1143, "data": "Experience with NLP (NLTK, SpaCy, CoreNLP, etc.)At least 2 years experience Magento 2 Development in an eCommerce environment", "label": [[21, 25, "SKILL"], [16, 20, "SKILL"], [27, 32, "SKILL"], [34, 41, "SKILL"], [57, 64, "YEAR"]]}
+{"id": 1144, "data": "At least 2 years experience of eCommerce experience", "label": [[9, 16, "YEAR"]]}
+{"id": 1145, "data": "HTML, CSS, JavaScript", "label": [[0, 4, "SKILL"], [6, 9, "SKILL"], [11, 21, "SKILL"]]}
+{"id": 1146, "data": "Experience with Ajax and jQuery libraries", "label": [[25, 31, "SKILL"], [16, 20, "SKILL"]]}
+{"id": 1147, "data": "Must have demonstrable back-end Magento 2 skills, write backend code from scratch", "label": []}
+{"id": 1148, "data": "Must have experience with Git or SDN for pushing/pulling code", "label": [[26, 29, "SKILL"], [33, 36, "SKILL"]]}
+{"id": 1149, "data": "Must have excellent communication skills and be willing to use Slack", "label": [[63, 68, "SKILL"]]}
+{"id": 1150, "data": "Magento 2 Backend Developer Certification", "label": []}
+{"id": 1151, "data": "Bug writing and ticket creation skills that result in complete and accurate information for developers", "label": []}
+{"id": 1152, "data": "Interest in learning about measurement tools (e.g. Adobe Analytics, Comscore, Nielsen).", "label": [[51, 66, "SKILL"], [68, 76, "SKILL"], [78, 85, "SKILL"]]}
+{"id": 1153, "data": "Working knowledge of how to monitor network traffic using proxying tools (Charles, Wireshark, Chrome DevTools).", "label": [[74, 81, "SKILL"], [83, 92, "SKILL"], [94, 109, "SKILL"]]}
+{"id": 1154, "data": "You might have:", "label": []}
+{"id": 1155, "data": "Experience with QA in mobile applications and/or OTT platforms.", "label": []}
+{"id": 1156, "data": "Hands-on experience using tools like Observepoint, BrowserStack, etc.", "label": [[37, 49, "SKILL"], [51, 63, "SKILL"]]}
+{"id": 1157, "data": "Knowledge of automation frameworks (e.g.", "label": []}
+{"id": 1158, "data": "Selenium Webdriver, BrowserMob, Appium, etc).", "label": [[0, 18, "SKILL"], [20, 30, "SKILL"], [32, 38, "SKILL"]]}
+{"id": 1159, "data": "Agile/Scrum experience and familiarity with JIRA and Confluence.", "label": [[53, 63, "SKILL"], [0, 5, "SKILL"], [6, 11, "SKILL"], [44, 48, "SKILL"]]}
+{"id": 1160, "data": "Testing experience with mobile applications and OTT platforms using debugging tools (e.g. ADB/Xcode).", "label": [[90, 93, "SKILL"], [94, 99, "SKILL"]]}
+{"id": 1161, "data": "Knowledge of release and regression testing methodologies.Work alongside our cloud team to help design and develop automated testing solutions using modern tools and technologies", "label": []}
+{"id": 1162, "data": "Contribute to our CI/CD automation suites to improve test coverage, speed of development and overall reliability", "label": []}
+{"id": 1163, "data": "Design and develop automated test infrastructure using Linux and tools like Gitlab-ci, Docker, Kubernetes, virtual machines, etc", "label": [[55, 60, "SKILL"], [76, 85, "SKILL"], [87, 93, "SKILL"], [95, 105, "SKILL"], [107, 123, "SKILL"]]}
+{"id": 1164, "data": "Develop and execute load tests to validate our new cloud-based API’s and services", "label": []}
+{"id": 1165, "data": "Maintain and improve existing automation pipeline for our flagship product", "label": []}
+{"id": 1166, "data": "Track automation pipelines, identify failures and report them", "label": []}
+{"id": 1168, "data": "2+ years of software automation experience in web applications", "label": [[46, 62, "SKILL"], [0, 8, "YEAR"]]}
+{"id": 1169, "data": "Must have a strong working familiarity with Linux and should be comfortable working in a command line interface", "label": [[44, 49, "SKILL"]]}
+{"id": 1170, "data": "Must have experience with API automation and UI testing", "label": []}
+{"id": 1171, "data": "Must have experience with build and continuous integration and deployment tools like git, gitlab", "label": [[90, 96, "SKILL"], [85, 88, "SKILL"]]}
+{"id": 1172, "data": "Must have expertise in writing automated tests using Ruby, Python, Bash, and or C/C++", "label": [[59, 65, "SKILL"], [80, 81, "SKILL"], [82, 85, "SKILL"], [53, 57, "SKILL"], [67, 71, "SKILL"]]}
+{"id": 1173, "data": "Nice to have:", "label": []}
+{"id": 1174, "data": "Basic understanding of API technologies like WebSockets and REST", "label": [[60, 64, "SKILL"], [45, 55, "SKILL"]]}
+{"id": 1175, "data": "Experience working in an agile environment", "label": [[25, 30, "SKILL"]]}
+{"id": 1176, "data": "Experience working with dockerPartner with the engineering team to understand project objectives, gather automation requirements, design automated tests, troubleshoot issues, and implement scalable test automation solutions.", "label": []}
+{"id": 1177, "data": "Apply QA principles to develop Android test cases and detailed test scenarios and oversee their execution, tracking, and automation.", "label": []}
+{"id": 1178, "data": "Verify quality acceptance of the Android application across multi-platform environments.", "label": []}
+{"id": 1179, "data": "Work with feature testers to come up with automated test plans, and get an understanding of what tests could be created to ease our manual test efforts.", "label": []}
+{"id": 1180, "data": "Assist in on-going process improvement efforts to ensure test planning, execution and reporting is effective and efficient.", "label": []}
+{"id": 1181, "data": "Go beyond traditional QA and help deliver product launches via a streamlined, agile process.", "label": []}
+{"id": 1182, "data": "What we are looking for:", "label": []}
+{"id": 1183, "data": "4+ years of testing experience.", "label": [[0, 8, "YEAR"]]}
+{"id": 1184, "data": "Experience in testing mobile applications.", "label": []}
+{"id": 1185, "data": "Experience in architecting, developing, planning and building testing framework.", "label": []}
+{"id": 1186, "data": "Working knowledge of building and maintaining test suite pipelines in a CI/CD environment using CircleCI.", "label": [[72, 77, "SKILL"], [96, 104, "SKILL"]]}
+{"id": 1187, "data": "Ability to write, maintain and verify test cases.", "label": []}
+{"id": 1188, "data": "Proficient writing in Java/Kotlin.", "label": [[22, 26, "SKILL"], [27, 33, "SKILL"]]}
+{"id": 1189, "data": "Experience with Espresso.", "label": [[16, 24, "SKILL"]]}
+{"id": 1190, "data": "Experience with a variety of test tools and software testing practices, including developing, implementing, maintaining and managing manual/automated testing systems and environments.Responsibilities:", "label": []}
+{"id": 1191, "data": "Work as part of a team of experienced QA engineers testing multiple software releases.", "label": []}
+{"id": 1192, "data": "Hands-on experience creating, maintaining, and executing test cases/suites as well as analyzing results for both automation and manual.", "label": []}
+{"id": 1193, "data": "Experience testing web-based software and mobile apps.", "label": []}
+{"id": 1194, "data": "Create test plans and test cases for new features and ensure that adequate test coverage is provided.", "label": []}
+{"id": 1195, "data": "Troubleshoot issues down to the root cause and create detailed bug reports.", "label": []}
+{"id": 1196, "data": "Prepare precise Test Completion reports for management to review and approve the release(s).", "label": []}
+{"id": 1197, "data": "Participate in and/or lead test planning efforts and communication of status.", "label": []}
+{"id": 1198, "data": "Masters degree in Computer Science or equivalent experience.", "label": []}
+{"id": 1199, "data": "3+ years of experience with Java, C#, or Javascript.", "label": [[28, 32, "SKILL"], [41, 51, "SKILL"], [34, 36, "SKILL"], [0, 8, "YEAR"]]}
+{"id": 1200, "data": "3+ years of experience with debugging and automation testing tools (Appium, Selenium Webdriver, Jenkins, Postman, Charles Proxy, etc.).", "label": [[0, 8, "YEAR"], [105, 112, "SKILL"], [68, 74, "SKILL"], [96, 103, "SKILL"], [76, 94, "SKILL"], [114, 127, "SKILL"]]}
+{"id": 1201, "data": "3+ years of experience with source control versioning systems, preferably Bitbucket.", "label": [[0, 8, "YEAR"], [74, 83, "SKILL"]]}
+{"id": 1202, "data": "Have strong interpersonal, writing, and communication skills.", "label": []}
+{"id": 1203, "data": "Knowledge in CI/CD processes and tools.", "label": [[13, 18, "SKILL"]]}
+{"id": 1204, "data": "Application automation testing experience (i.e. Appium, Selenium, Cucumber).", "label": [[48, 54, "SKILL"], [56, 64, "SKILL"], [66, 74, "SKILL"]]}
+{"id": 1205, "data": "Experience with tools and frameworks like Jira, Confluence, Jenkins, TestNG, and TestRail.5+ years of experience in QA roles", "label": [[90, 98, "YEAR"], [69, 75, "SKILL"], [60, 67, "SKILL"], [42, 46, "SKILL"], [81, 89, "SKILL"], [48, 58, "SKILL"]]}
+{"id": 1206, "data": "2+ years of experience working in Agile development workflows and methodologies", "label": [[0, 8, "YEAR"], [34, 39, "SKILL"]]}
+{"id": 1207, "data": "2+ years of experience working with JIRA", "label": [[0, 8, "YEAR"], [36, 40, "SKILL"]]}
+{"id": 1208, "data": "2+ years of experience working with automated testing frameworks such as Selenium", "label": [[0, 8, "YEAR"], [73, 81, "SKILL"]]}
+{"id": 1209, "data": "Experience working with test case management tools such as TestRail", "label": [[59, 67, "SKILL"]]}
+{"id": 1210, "data": "Experience working with log aggregation, monitoring, and alerting tools such as DataDog and Splunk", "label": [[80, 87, "SKILL"], [92, 98, "SKILL"]]}
+{"id": 1211, "data": "Experience with API, UI and NFR Testing", "label": []}
+{"id": 1212, "data": "Experience in writing clear, concise, and comprehensive test plans and test cases", "label": []}
+{"id": 1213, "data": "Software development knowledge of Salesforce and Mulesoft", "label": []}
+{"id": 1214, "data": "Solid grasp of software QA methodologies and processes", "label": []}
+{"id": 1215, "data": "Strong understanding of QA best practices within CICD pipelines", "label": [[49, 53, "SKILL"]]}
+{"id": 1216, "data": "Strong interpersonal and listening skills", "label": []}
+{"id": 1217, "data": "Analytical, organized and detail-orientedCreates, ensures adherence, and maintains appropriate standards and quality procedures within scrum team", "label": []}
+{"id": 1218, "data": "Escalates to Automation Lead and or Quality Assurance Manager as needed in a clear, concise, and timely manner", "label": []}
+{"id": 1219, "data": "Mentor other scrum team members to expand knowledge and abilities of others to perform automated testing", "label": []}
+{"id": 1220, "data": "Actively cultivate collaborative relationships across the team, business units and cross division partners", "label": []}
+{"id": 1221, "data": "Identify, influence, promote and drive forward Quality Assurance best practices for both manual and automated testing", "label": []}
+{"id": 1222, "data": "Education", "label": []}
+{"id": 1223, "data": "4 year degree in Computer Science or applicable field or related experience", "label": [[0, 6, "YEAR"]]}
+{"id": 1224, "data": "Experience", "label": []}
+{"id": 1225, "data": "Minimum 3 years experience performing software testing or related functions", "label": [[8, 15, "YEAR"]]}
+{"id": 1226, "data": "Minimum 2 years experience in software automation testing", "label": [[39, 57, "SKILL"]]}
+{"id": 1227, "data": "Minimum 2 years experience C#Experience on cloud technologies (AWS preferred)", "label": [[8, 15, "YEAR"]]}
+{"id": 1228, "data": "Experience testing and automating secure REST APIs testing", "label": [[40, 50, "SKILL"]]}
+{"id": 1229, "data": "Experience in cross browser and cross platform testing", "label": []}
+{"id": 1230, "data": "Experience with Agile methodologies", "label": [[16, 21, "SKILL"]]}
+{"id": 1231, "data": "Experience with Git and CI tools", "label": [[16, 19, "SKILL"]]}
+{"id": 1232, "data": "Expertise with hands-on scripting/coding experience in any automation testing tools (Selenium/Appium), Cucumber Framework, Pytest, TestNG, mocha/chai, nightwatchJS or CypressJS", "label": [[167, 176, "SKILL"], [103, 111, "SKILL"], [85, 93, "SKILL"], [94, 100, "SKILL"], [151, 163, "SKILL"], [139, 144, "SKILL"], [145, 149, "SKILL"], [123, 129, "SKILL"], [131, 137, "SKILL"]]}
+{"id": 1233, "data": "Excellent communication, both verbal and written", "label": []}
+{"id": 1234, "data": "NICE TO HAVE, BUT NOT A DEAL BREAKER", "label": []}
+{"id": 1235, "data": "B.S. degree in Computer Science or equivalent experience", "label": []}
+{"id": 1236, "data": "Experience in JavaScriptFull Job Description", "label": []}
+{"id": 1237, "data": "4+ year of experience working as a Quality Assurance Engineer", "label": []}
+{"id": 1238, "data": "Experience in manual testing", "label": [[14, 28, "SKILL"]]}
+{"id": 1239, "data": "Experience in automation testing", "label": [[14, 32, "SKILL"]]}
+{"id": 1272, "data": "Exceptional communication skills with demonstrated success in delivering results.", "label": []}
+{"id": 1240, "data": "You must be able to understand software internals, debug complex problems including performance bottlenecks, and write automated tests in Java and/or using existing automated tools. QA Engineers work with Software Development Engineers, and Business Owners to understand business drivers and technical implementation of features. QA Engineers also work with groups such as Product Management, User Interaction, and Customer Support to understand customer usage models and develop test plans and suites that approximate real-world environments and regression tests. You must have experience in diagnosing project release problems and taking corrective action, such as escalating as needed, to resolve and achieve results. Our QAEs are also responsible for driving our software development process toward quality-centric methodologies and for reporting on test progress, metrics, issues and risks.", "label": []}
+{"id": 1241, "data": "Demonstrated experience in test planning, test design, test strategy, and test execution of highly complex systems.", "label": []}
+{"id": 1242, "data": "Ability to design and plan testing conditions, test scripts, and test data sets to ensure appropriate and adequate coverage and control.", "label": []}
+{"id": 1243, "data": "Experience with QA strategies such as mocking, pairwise testing and UI and API level automation.", "label": []}
+{"id": 1244, "data": "Strong knowledge of QA methodology and tools.", "label": []}
+{"id": 1245, "data": "Ability to write quality code in at least one high level language like Java, C, C#, etc.", "label": [[71, 75, "SKILL"], [77, 78, "SKILL"], [80, 82, "SKILL"]]}
+{"id": 1246, "data": "Experience working closely with development and business teams to communicate problem impacts and to understand business requirements.", "label": []}
+{"id": 1247, "data": "Strong organizational skills, able to track multiple test executions simultaneously and synthesize the results.", "label": []}
+{"id": 1248, "data": "Comfortable communicating cross-functionally and across management levels in formal and informal settings to report on test progress, metrics, and issues", "label": []}
+{"id": 1249, "data": "Experience in testing web technologies, services, and physical devices.", "label": []}
+{"id": 1250, "data": "Understanding of Java technologies, XML, JS, CSS, and HTML.", "label": [[17, 21, "SKILL"], [41, 43, "SKILL"], [45, 48, "SKILL"], [54, 58, "SKILL"], [36, 39, "SKILL"]]}
+{"id": 1251, "data": "Experience in Agile, Scrum, Kanban and/or Lean software development methodologies.WHAT YOU WILL NEED", "label": [[14, 19, "SKILL"], [21, 26, "SKILL"], [28, 34, "SKILL"], [42, 46, "SKILL"]]}
+{"id": 1252, "data": "8+ years of experience working with/testing an Ad Sales platform(s)", "label": [[0, 8, "YEAR"], [47, 55, "SKILL"]]}
+{"id": 1253, "data": "2+ years of experience testing/working specifically on the Ad Sales application area’s of Ratecard, Plan Building & Deal Maintenance", "label": [[0, 8, "YEAR"]]}
+{"id": 1254, "data": "Experience working in an Agile/Scrum development process", "label": [[25, 30, "SKILL"], [31, 36, "SKILL"]]}
+{"id": 1255, "data": "Experience in writing clear, concise and comprehensive test plans and test cases", "label": []}
+{"id": 1256, "data": "Hands-on experience with both white box and black box testing", "label": []}
+{"id": 1257, "data": "Hands-on experience with automated testing", "label": [[25, 42, "SKILL"]]}
+{"id": 1258, "data": "Proven work experience in software manual quality assurance", "label": []}
+{"id": 1259, "data": "Strong knowledge of software QA methodologies, tools and processes", "label": []}
+{"id": 1260, "data": "NICE TO HAVE, BUT NOT A DEAL BREAKER", "label": []}
+{"id": 1261, "data": "A Bachelor's degree in relevant field or equivalent experience", "label": []}
+{"id": 1262, "data": "Proven work experience in software development as Business Analyst", "label": []}
+{"id": 1263, "data": "Media industry experience in Ad Sales, Traffic and/or Billing", "label": []}
+{"id": 1264, "data": "Experience with Integration testing", "label": [[16, 35, "SKILL"]]}
+{"id": 1265, "data": "Experience using Salesforce, JIRA, Confluence, Lucidchart and similar technologiesRequired Experience and Education:", "label": [[17, 27, "SKILL"], [29, 33, "SKILL"], [35, 45, "SKILL"], [47, 57, "SKILL"]]}
+{"id": 1266, "data": "BS Degree or equivalent years of relevant work experience", "label": []}
+{"id": 1267, "data": "Four (4+) plus years of automation experience and/or software development experience.", "label": [[0, 20, "YEAR"]]}
+{"id": 1268, "data": "Experience writing SQL queries with multiple joins.", "label": [[19, 22, "SKILL"]]}
+{"id": 1269, "data": "Experience creating automated scripts in Java/Groovy or JavaScript/Webdriver.io", "label": [[41, 45, "SKILL"], [46, 52, "SKILL"], [56, 66, "SKILL"], [67, 79, "SKILL"]]}
+{"id": 1270, "data": "Required Skills and Knowledge:", "label": []}
+{"id": 1271, "data": "Technical background related to test automation.", "label": []}
+{"id": 1312, "data": "Strong organizational and communication skills", "label": []}
+{"id": 1273, "data": "Solid grasp of object-oriented programming and automation best practices", "label": []}
+{"id": 1274, "data": "Ability to perform manual testing as needed.", "label": []}
+{"id": 1275, "data": "A solid understanding of the SDLC", "label": []}
+{"id": 1276, "data": "Ability to exercise independent discretion with little guidance/supervision.", "label": []}
+{"id": 1277, "data": "Ability to lead/mentor less experienced automation engineers.", "label": []}
+{"id": 1278, "data": "Preferred Experience:", "label": []}
+{"id": 1279, "data": "Experience with SoapUI.", "label": [[16, 22, "SKILL"]]}
+{"id": 1280, "data": "Experience using Katalon Studio for Windows test automation.", "label": [[17, 31, "SKILL"]]}
+{"id": 1281, "data": "Experience creating web automation scripts using JavaScript/WebDriver.io or Selenium WebDriver", "label": [[49, 59, "SKILL"], [60, 72, "SKILL"], [76, 94, "SKILL"]]}
+{"id": 1282, "data": "Experience with jMeter or other performance testing tool.", "label": [[16, 22, "SKILL"]]}
+{"id": 1283, "data": "Experience creating Gherkin scripts from acceptance criteria.", "label": [[20, 27, "SKILL"]]}
+{"id": 1284, "data": "Experience working in AWS environment.", "label": [[22, 25, "SKILL"]]}
+{"id": 1285, "data": "Experience using test case management tools such as TestRail.", "label": [[52, 60, "SKILL"]]}
+{"id": 1286, "data": "Experience with automating on Mac OS and Windows systems.", "label": []}
+{"id": 1287, "data": "Experience with Visual Regression automated test tools.", "label": []}
+{"id": 1288, "data": "Experience with Jenkins setup and configuration.", "label": [[16, 23, "SKILL"]]}
+{"id": 1289, "data": "Experience working with Adobe and/or Google Analytics.", "label": [[24, 29, "SKILL"], [37, 53, "SKILL"]]}
+{"id": 1290, "data": "Mobile automation testing experience.", "label": []}
+{"id": 1291, "data": "Hands-on experience with web services testing and multi-tier web service applications.", "label": []}
+{"id": 1292, "data": "Experience defining and executing system performance tests and analyzing results.", "label": []}
+{"id": 1293, "data": "Computer/Software/Application Proficiency:", "label": []}
+{"id": 1294, "data": "Java/Groovy, C# and/or JavaScript", "label": [[0, 4, "SKILL"], [5, 11, "SKILL"], [13, 15, "SKILL"], [23, 33, "SKILL"]]}
+{"id": 1295, "data": "SQLBasic Qualifications:", "label": []}
+{"id": 1296, "data": "4+ years of experience in advanced Java, Selenium, API automation.", "label": [[0, 8, "YEAR"], [35, 39, "SKILL"], [41, 49, "SKILL"]]}
+{"id": 1297, "data": "Coaching, training, and mentoring QA engineers and ensuring that quality standards are met across the entire team (2-5 people).", "label": []}
+{"id": 1298, "data": "Experience using Jenkins or similar CI/CD tools.", "label": [[17, 24, "SKILL"]]}
+{"id": 1299, "data": "Ability to write/execute test cases/suites for multi-platform application software.", "label": []}
+{"id": 1300, "data": "Experience with Postman, Charles Proxy, and/or Rest Assured.", "label": [[16, 23, "SKILL"], [47, 51, "SKILL"], [25, 38, "SKILL"]]}
+{"id": 1301, "data": "Outstanding communication, organizational and interpersonal skills with both a technical and non-technical audience.", "label": []}
+{"id": 1302, "data": "Work to consistently improve testing efficiency – including for regression testing.", "label": []}
+{"id": 1303, "data": "Additional Qualifications", "label": []}
+{"id": 1304, "data": "BA/BS in computer science or any related technical field, or equivalent work experience.", "label": []}
+{"id": 1305, "data": "Actively tested for defect across multiple platforms.", "label": []}
+{"id": 1306, "data": "Knowledge of video technologies in both objective C and java.", "label": [[56, 60, "SKILL"], [40, 51, "SKILL"]]}
+{"id": 1307, "data": "Strong understanding of agile test tools and methodologies.3+ years of quality testing experience", "label": [[59, 67, "YEAR"]]}
+{"id": 1308, "data": "Ability to define/design/develop/maintain test automation frameworks", "label": []}
+{"id": 1309, "data": "Committed to quality and passionate about customer experience", "label": []}
+{"id": 1310, "data": "Experience working in automated testing driven by a Continuous Integration framework", "label": []}
+{"id": 1311, "data": "Experience with at least one programming language; Python proficiency is preferred", "label": [[51, 57, "SKILL"]]}
+{"id": 1314, "data": "You will be a part of a team that works on crafting and developing automated tools and tests focused on deploying and maintaining frameworks in a continuous integration environment. You will craft test plans, debug and isolate issues/bugs caught in test automation and report results across multiple teams.", "label": []}
+{"id": 1315, "data": "Education & Experience", "label": []}
+{"id": 1316, "data": "BS or MS in CS/CE/EE or equivalent experience", "label": []}
+{"id": 1317, "data": "Additional Requirements", "label": []}
+{"id": 1318, "data": "Nice to have:", "label": []}
+{"id": 1319, "data": "Knowledge of wireless standards (Bluetooth Classic/LE, WiFi) or Sensors", "label": []}
+{"id": 1320, "data": "Experience with software development lifecycle, test methodologies and tools", "label": []}
+{"id": 1321, "data": "Familiarity with C / C++ / Objective-C / Java Proven experience with development tools like VSCode, build automation systems, source control, UI test automation frameworks, etc.", "label": [[17, 18, "SKILL"], [21, 24, "SKILL"], [25, 36, "SKILL"]]}
+{"id": 1322, "data": "Hands on experience in automating tests for APIs and web applications", "label": []}
+{"id": 1323, "data": "Hands on experience using mobile testing frameworks such as Cypress", "label": [[60, 67, "SKILL"]]}
+{"id": 1324, "data": "2+ years proven experience with maintaining complex automated test suites or building automation framework for web clients", "label": [[0, 8, "YEAR"]]}
+{"id": 1325, "data": "2+ years of programming experience in Java or/and JavaScript", "label": [[38, 42, "SKILL"], [50, 60, "SKILL"]]}
+{"id": 1326, "data": "Good knowledge of designing and building automated tests leveraging cloud infrastructure and Continuous Delivery systems (CI/CD)BS/MS in Computer Science or equivalent experience", "label": []}
+{"id": 1327, "data": "Experience debugging applications on Platform, PC and Mobile components", "label": []}
+{"id": 1328, "data": "Experience building, shipping, and maintaining commercial software", "label": []}
+{"id": 1329, "data": "Experience coding in Python, PHP, Java, C/C++ or equivalent language", "label": [[21, 27, "SKILL"], [29, 32, "SKILL"], [34, 38, "SKILL"], [40, 41, "SKILL"], [42, 45, "SKILL"]]}
+{"id": 1330, "data": "Experience with test planning, test designing and execution, performance and stress testing, implementing and maintaining quality test automation", "label": []}
+{"id": 1331, "data": "Experience in managing black box and white box testingPartner with Automation and Infrastructure team to leverage automation to allow better reliability and scalability", "label": []}
+{"id": 1332, "data": "BS/MS in Computer Science or equivalent experience", "label": []}
+{"id": 1333, "data": "Experience debugging applications", "label": []}
+{"id": 1334, "data": "Experience building, shipping, and maintaining commercial software", "label": []}
+{"id": 1335, "data": "Experience coding in Python, Java, TypeScript/JavaScript or equivalent language", "label": [[21, 27, "SKILL"], [29, 33, "SKILL"], [35, 45, "SKILL"], [46, 56, "SKILL"]]}
+{"id": 1336, "data": "Experience with test planning, test designing and execution, performance and stress testing, implementing and maintaining quality test automation", "label": []}
+{"id": 1337, "data": "Experience debugging mobile and android applications", "label": []}
+{"id": 1338, "data": "Experience in managing black box and white box testingRequired Skills:", "label": []}
+{"id": 1339, "data": "At least 5 years of automated QA experience", "label": [[9, 16, "YEAR"]]}
+{"id": 1340, "data": "Deep understanding of python", "label": [[22, 28, "SKILL"]]}
+{"id": 1341, "data": "Strong communication skills", "label": []}
+{"id": 1342, "data": "Excellent writing skills", "label": []}
+{"id": 1343, "data": "Familiar with statistics", "label": []}
+{"id": 1344, "data": "Ability to work cross-functionally with people from other departments and disciplines.", "label": []}
+{"id": 1345, "data": "Desired Skills:", "label": []}
+{"id": 1346, "data": "Experience with Ploty, Matplotlib, and Flask", "label": [[16, 21, "SKILL"], [23, 33, "SKILL"], [39, 44, "SKILL"]]}
+{"id": 1347, "data": "GNSS data analysis", "label": []}
+{"id": 1348, "data": "C/C++", "label": [[0, 1, "SKILL"], [2, 5, "SKILL"]]}
+{"id": 1349, "data": "MatlabFull Job Description", "label": []}
+{"id": 1350, "data": "Summary", "label": []}
+{"id": 1351, "data": "Posted: Jun 29, 2021", "label": []}
+{"id": 1352, "data": "Weekly Hours: 40", "label": []}
+{"id": 1353, "data": "Role Number:200251346", "label": []}
+{"id": 1354, "data": "Imagine what you could do here! At Apple, new insights have a way of becoming extraordinary products, services, and customer experiences very quickly. Do you bring passion and dedication to your job? If so, we are looking for individuals like you. The Connected Media Team is looking for a creative, organized and hardworking Certification Test and QA Engineer with experience working with consumer AV equipment who can join the team responsible for certification of Apple’s AirPlay Video, AirPlay Audio, and AirPrint technologies on 3rd-Party products. The ideal candidate will have experience verifying specification compliance, communication with 3rd-Party engineering teams, and demonstrated expertise isolating hard-to-diagnose bugs.", "label": []}
+{"id": 1355, "data": "Key Qualifications", "label": []}
+{"id": 1356, "data": "2+ years of Software Testing / QA experience working with Audio, Video or other Consumer Electronics", "label": [[0, 8, "YEAR"]]}
+{"id": 1357, "data": "Experience testing iOS and/or MacOS SW systems", "label": [[19, 22, "SKILL"]]}
+{"id": 1358, "data": "Experience crafting new test cases and improving existing test cases", "label": []}
+{"id": 1359, "data": "Description", "label": []}
+{"id": 1360, "data": "This role will include creation and execution of Certification test plans of 3rd-Party HW/SW solutions that integrate closely with Apple’s AirPlay Audio technology, while occasionally assisting with some of the other technologies we support. Job responsibilities will include: validation of vendor certification program results, OS updates, bug investigations, and the ongoing development of test tools. This role involves writing and supervising high quality bug reports, reporting on project progress, documentation, and risk analysis. You will be able to adapt to changing tasks ranging from test-lab focused QA to configuration setup and hard-to-reproduce bug investigations. This position requires a self-motivated individual with strong analytical, problem solving, testing, and interpersonal skills who can deliver in a fast-paced environment. You can work well in isolation and with teammates spread around the world.", "label": []}
+{"id": 1361, "data": "Education & Experience", "label": []}
+{"id": 1362, "data": "B.Sc in Computer Science or equivalent experience", "label": []}
+{"id": 1363, "data": "Additional Requirements", "label": []}
+{"id": 1364, "data": "Desired but not required:", "label": []}
+{"id": 1365, "data": "Experience working in QA verification roles, certification programs, and vendor relationships", "label": []}
+{"id": 1366, "data": "Experience working with iOS, Mac OS, Unix, Xcode.", "label": [[24, 27, "SKILL"], [29, 35, "SKILL"], [37, 41, "SKILL"], [43, 48, "SKILL"]]}
+{"id": 1367, "data": "Familiarity with existing Apple streaming technologies e.g AirPrint and AirPlay", "label": []}
+{"id": 1368, "data": "2+ years experience in automation driven testing environment.", "label": [[0, 8, "YEAR"]]}
+{"id": 1369, "data": "Knowledge of Swift/C/Objective-C/C++, shell scripting, Perl, Python is desirable.", "label": [[13, 18, "SKILL"], [19, 20, "SKILL"], [21, 32, "SKILL"], [33, 36, "SKILL"], [38, 53, "SKILL"], [55, 59, "SKILL"], [61, 67, "SKILL"]]}
+{"id": 1370, "data": "Apple", "label": []}
+{"id": 1371, "data": "30+ days agoWrite detailed and easy to understand bug reports", "label": []}
+{"id": 1372, "data": "Verify bug fixes via impact analysis", "label": []}
+{"id": 1373, "data": "Work with cross functional teams to collaborate and ensure quality throughout the development lifecycle", "label": []}
+{"id": 1374, "data": "Evaluate HTML and CSS code changes to determine an appropriate test strategy", "label": [[9, 13, "SKILL"], [18, 21, "SKILL"]]}
+{"id": 1375, "data": "Communicate risks to leads and manager as needed", "label": []}
+{"id": 1376, "data": "When necessary write test cases in coordination with the team lead", "label": []}
+{"id": 1377, "data": "Requirements:", "label": []}
+{"id": 1378, "data": "Ability to multitask and prioritize work", "label": []}
+{"id": 1379, "data": "Attention to detail and ability to work under tight deadlines are essential to success", "label": []}
+{"id": 1380, "data": "Ability to pick up new responsibilities quickly", "label": []}
+{"id": 1381, "data": "Analytical mind and problem-solving aptitude", "label": []}
+{"id": 1382, "data": "Extensive knowledge of front-end web testing and automation experience preferred", "label": []}
+{"id": 1383, "data": "understanding of testing UI elements", "label": []}
+{"id": 1384, "data": "Basic understanding of JavaScript, HTML and CSS", "label": [[23, 33, "SKILL"], [35, 39, "SKILL"], [44, 47, "SKILL"]]}
+{"id": 1385, "data": "Ability to clearly document and troubleshoot errors", "label": []}
+{"id": 1386, "data": "Experience with the Agile methodology and regression testing a plus", "label": []}
+{"id": 1387, "data": "Experience working with Git", "label": [[24, 27, "SKILL"]]}
+{"id": 1388, "data": "Understand how to read a test plan and execute test cases", "label": []}
+{"id": 1389, "data": "Good written and verbal communication skills", "label": []}
+{"id": 1390, "data": "Solid understanding of browser variations and rendering engines", "label": []}
+{"id": 1391, "data": "Familiarity testing on MacOS, iOS, Windows and Android", "label": [[23, 28, "SKILL"], [30, 33, "SKILL"], [47, 54, "SKILL"]]}
+{"id": 1392, "data": "Experience working on large-scale websites is a plus", "label": []}
+{"id": 1393, "data": "2+ years of working as a Quality Assurance professional or Web Developer", "label": [[0, 8, "YEAR"]]}
+{"id": 1394, "data": "Bachelor’s degree in computer science or equivalent experienceDesigning and writing test automation scripts", "label": []}
+{"id": 1395, "data": "Using test automation frameworks", "label": []}
+{"id": 1396, "data": "Creating and executing test case for web based and android software", "label": []}
+{"id": 1397, "data": "Investigating problems in software as a result of testing", "label": []}
+{"id": 1398, "data": "Working with QA and software developers to find solutions", "label": []}
+{"id": 1399, "data": "Keeping updated with the latest industry developments.", "label": []}
+{"id": 1400, "data": "Qualifications:", "label": []}
+{"id": 1401, "data": "Bachelor's degree in Computer Science, Software Development, or a related field.", "label": []}
+{"id": 1402, "data": "Previous experience as a Test Automation Engineer.", "label": []}
+{"id": 1403, "data": "Proficiency in programming languages, such as python and/or java.", "label": [[46, 52, "SKILL"], [60, 64, "SKILL"]]}
+{"id": 1404, "data": "Solid black box software testing experience", "label": []}
+{"id": 1405, "data": "Automation testing experience with Selenium.", "label": [[35, 43, "SKILL"]]}
+{"id": 1406, "data": "Documentation, such as test case, test plan and test report.", "label": []}
+{"id": 1407, "data": "Experience using software bug tracking systems, such as JIRA.", "label": [[56, 60, "SKILL"]]}
+{"id": 1408, "data": "Web-based application testing experience.", "label": [[0, 21, "SKILL"]]}
+{"id": 1409, "data": "SQL or MongoDB database experience is desired.", "label": [[0, 3, "SKILL"], [7, 14, "SKILL"]]}
+{"id": 1410, "data": "Linux skill is desired.Design and develop advanced test suites using object-oriented methodologies.", "label": [[0, 5, "SKILL"], [69, 84, "SKILL"]]}
+{"id": 1411, "data": "Implement and execute test strategies on all supported platforms and languages to help improve overall quality and test code coverage.", "label": []}
+{"id": 1412, "data": "Should be able to do both functional and Automation.", "label": []}
+{"id": 1413, "data": "Write backend integration tests and tests for RESTful APIs.", "label": [[46, 58, "SKILL"]]}
+{"id": 1414, "data": "Develop frameworks and automated test cases using Selenium and Python.", "label": [[50, 58, "SKILL"], [63, 69, "SKILL"]]}
+{"id": 1415, "data": "Design and develop integration, regression, and stress tests using industry standard tools.", "label": []}
+{"id": 1416, "data": "Collaborate with Business Analyst and Developers to understand requirements and translate them into test cases.", "label": []}
+{"id": 1417, "data": "Good knowledge of Web/UI testing.", "label": [[18, 21, "SKILL"], [22, 24, "SKILL"]]}
+{"id": 1418, "data": "Define, implement, and maintain test plans, test specifications and test suites.", "label": []}
+{"id": 1419, "data": "Provide technical leadership, driving and performing engineering best practices to initiate, plan, and execute large-scale, cross-functional, and company-wide critical programs.", "label": []}
+{"id": 1420, "data": "Requirements", "label": []}
+{"id": 1421, "data": "BA/BS Degree in Computer Science or related technical discipline, or 4+ years of related practical experience.", "label": [[69, 71, "YEAR"]]}
+{"id": 1422, "data": "Experience with one or more of the following: Ruby, Python, JavaScript, Java, and/or C#.", "label": [[85, 87, "SKILL"], [46, 50, "SKILL"], [52, 58, "SKILL"], [60, 70, "SKILL"], [72, 76, "SKILL"]]}
+{"id": 1423, "data": "Working knowledge of test methodologies, processes, and tools (Selenium, Python or any programming language, Appium, JIRA, STLC, Test Management tool –ALM , Zephyr).", "label": [[63, 71, "SKILL"], [73, 79, "SKILL"], [109, 115, "SKILL"], [117, 121, "SKILL"], [123, 127, "SKILL"], [151, 154, "SKILL"], [157, 163, "SKILL"]]}
+{"id": 1424, "data": "Knowledge of relational databases/SQL.", "label": [[34, 37, "SKILL"]]}
+{"id": 1425, "data": "Experience working with client-server architectures and automation.", "label": []}
+{"id": 1426, "data": "Experience working with black box/grey box testing.", "label": []}
+{"id": 1427, "data": "Evidence of exceptional ability", "label": []}
+{"id": 1428, "data": "All levels of administration across a large-scale complex of Solaris/Linux systems.", "label": [[61, 68, "SKILL"], [69, 74, "SKILL"]]}
+{"id": 1429, "data": "Participates on teams in the analysis and design of new large-scale Oracle Solaris systems and/or modifications to existing systems.", "label": [[68, 82, "SKILL"]]}
+{"id": 1430, "data": "Performs high level analysis of Solaris/RHEL systems and applications software requirements, processes, and characteristics for the purpose of assuring efficient and effective software design and operation.", "label": [[32, 39, "SKILL"], [40, 44, "SKILL"]]}
+{"id": 1431, "data": "Participates on teams responsible for the development of Solaris/Linux based operating system applications.", "label": [[57, 64, "SKILL"], [65, 70, "SKILL"]]}
+{"id": 1432, "data": "Evaluates new system and application requirements regarding impact to the Solaris/RHEL operating system environment.", "label": [[74, 81, "SKILL"], [82, 86, "SKILL"]]}
+{"id": 1433, "data": "Provides technical assistance to application database administrators and identifies methodologies for integrating needed components of individual databases in support of multiple functional/activities.", "label": []}
+{"id": 1434, "data": "Evaluates specifications and features of new products, performing product comparisons, feasibility and cost benefit analysis, and performance and compatibility testing. Review customer business requirements and makes technical recommendations regarding software /hardware to meet business needs.", "label": []}
+{"id": 1435, "data": "Performs installation of Solaris/Linux and/or client server operating system software and hardware including OS supporting tools and interface support.", "label": [[25, 32, "SKILL"], [33, 38, "SKILL"]]}
+{"id": 1436, "data": "Shell scripting would be preferable", "label": [[0, 5, "SKILL"]]}
+{"id": 1437, "data": "Performs problem determination, on Solaris/Redhat based systems and performs resolution in areas beyond the expertise of applications developers.", "label": [[35, 42, "SKILL"], [43, 49, "SKILL"]]}
+{"id": 1438, "data": "Assists the Security team in monitoring operating system security. Maintains patches, intrusion detection and hardening processes in conjunction with policies and guidelines.", "label": []}
+{"id": 1439, "data": "Controls consistency and integrity monitoring and health checks of the operating system structure.", "label": []}
+{"id": 1440, "data": "Maintains disaster recovery configurations for Solaris/Linux systems, performs annual disaster Recovery test for these platforms and maintains disaster recovery documentation and procedures in support of these systems.", "label": [[47, 54, "SKILL"], [55, 60, "SKILL"]]}
+{"id": 1441, "data": "Maintains security configuration management software, hardware system/component controls and documentation/procedures in accordance with the organization.", "label": []}
+{"id": 1442, "data": "Performs performance data collection, analysis, and tuning of the operating system and associated sub-systems. ???????", "label": []}
+{"id": 1443, "data": "Participate in the test planning and product planning processes", "label": []}
+{"id": 1444, "data": "Develop test cases and maintain a thorough understanding of the functionality of our offerings", "label": []}
+{"id": 1445, "data": "Develop automated tests using Python", "label": [[30, 36, "SKILL"]]}
+{"id": 1446, "data": "Contribute to our test automation framework", "label": []}
+{"id": 1447, "data": "Contribute to test tooling projects related to deploying test environments and infrastructure, automating test pipelines, reporting test results, etc.", "label": []}
+{"id": 1448, "data": "Integrate your tests into a continuous delivery (CD) pipeline", "label": [[49, 51, "SKILL"]]}
+{"id": 1449, "data": "Deliver clear status for testing areas in a timely manner", "label": []}
+{"id": 1450, "data": "Write clear and accurate bug reports", "label": []}
+{"id": 1451, "data": "Passion and desire for testing and examining how things work internally", "label": []}
+{"id": 1452, "data": "Experience with Linux and UNIX systems; comfortable working on a *nix-based system and familiarity with the shell prompt", "label": [[16, 21, "SKILL"], [26, 30, "SKILL"], [108, 113, "SKILL"]]}
+{"id": 1453, "data": "Demonstrably being comfortable with scripting and programming using Python", "label": [[68, 74, "SKILL"]]}
+{"id": 1454, "data": "Experience with Git or other source control technologies", "label": [[16, 19, "SKILL"]]}
+{"id": 1455, "data": "Experience developing automated system and integration tests", "label": []}
+{"id": 1456, "data": "Solid written and verbal communications skills in English", "label": []}
+{"id": 1457, "data": "Ability to work in a fast-paced project", "label": []}
+{"id": 1458, "data": "Experience using or participating in open source projects", "label": []}
+{"id": 1459, "data": "Experience with container technologies like Docker", "label": [[44, 50, "SKILL"]]}
+{"id": 1460, "data": "Experience with container management tools like Kubernetes, Red Hat OpenShift, or Docker Swarm", "label": [[48, 58, "SKILL"], [60, 77, "SKILL"], [82, 94, "SKILL"]]}
+{"id": 1461, "data": "Experience with continuous integration (CI) and CD tools like Jenkins, GitLab CI, or Travis; experience creating test pipelines", "label": []}
+{"id": 1462, "data": "Familiarity with Linux system management", "label": [[17, 22, "SKILL"]]}
+{"id": 1463, "data": "Experience performing web interface automation using Selenium", "label": [[53, 61, "SKILL"]]}
+{"id": 1464, "data": "Experience deploying, configuring, and maintaining virtualized or containerized environments", "label": []}
+{"id": 1465, "data": "Bachelor’s degree in computer science or a related engineering field, or relevant professional experience", "label": []}
+{"id": 1466, "data": "Good support experience in UNIX Shell scripting or Perl or Python.", "label": [[27, 31, "SKILL"], [32, 37, "SKILL"], [51, 55, "SKILL"], [59, 65, "SKILL"]]}
+{"id": 1467, "data": "Good hands-on experience in Unix shell scripting and Python.", "label": [[28, 32, "SKILL"], [33, 38, "SKILL"], [53, 59, "SKILL"]]}
+{"id": 1468, "data": "Experience in banking or Credit risk and support processes will be an advantage.", "label": []}
+{"id": 1469, "data": "Should have experience in handling client communication and team.", "label": []}
+{"id": 1470, "data": "TWS engineer with 3 to 5 years of TWS administration, upgrades and configuration experience.", "label": [[18, 30, "YEAR"]]}
+{"id": 1471, "data": "Should know Shell scripting, Python and PERL scripting preferred", "label": [[12, 17, "SKILL"], [29, 35, "SKILL"], [40, 44, "SKILL"]]}
+{"id": 1472, "data": "Basic OS administration knowledge and should know the way around windows and Linux. On the windows Linux side they should know the TWS install pieces and troubleshooting Administration of Tivoli Workload Scheduler V91 and above.", "label": [[99, 104, "SKILL"], [77, 82, "SKILL"]]}
+{"id": 1473, "data": "Creating and Managing Event Driven Workload Automation, Managing Websphere, Proficient in Scheduling on TWS.", "label": []}
+{"id": 1474, "data": "Hands on experience on PLSQL queries, Unix Shell Scripting, Perl and Python knowledge, Basic Java programming, Basic administration on Unix Windows, Basic knowledge of Database, Basic knowledge on Excel.", "label": [[23, 28, "SKILL"], [38, 42, "SKILL"], [43, 48, "SKILL"], [60, 64, "SKILL"], [69, 75, "SKILL"], [93, 97, "SKILL"], [135, 139, "SKILL"], [197, 202, "SKILL"], [168, 176, "SKILL"]]}
+{"id": 1475, "data": "Build Collaborative Relations with Client", "label": []}
+{"id": 1476, "data": "Effective Communication and Execution Excellence,", "label": []}
+{"id": 1477, "data": "IBM Tivoli Enterprise Manager and Tivoli Workload Scheduler knowledge.", "label": []}
+{"id": 1478, "data": "Hands on experience on PLSQL queries, Unix Shell Scripting, Perl and Python knowledge, Basic Java programming, Basic administration on Unix Windows, Basic knowledge of Database, Basic knowledge on Excel.", "label": []}
+{"id": 1479, "data": "Exposer in supporting environment hosted on AWS", "label": [[44, 47, "SKILL"]]}
+{"id": 1480, "data": "Demonstrated knowledge of database concepts, such as schema design, triggers, transaction logs, stored procedures and backups", "label": []}
+{"id": 1481, "data": "Demonstrated knowledge of UNIX operating systems", "label": [[26, 30, "SKILL"]]}
+{"id": 1482, "data": "Knowledge of scripting languages and tools, such as shell scripts", "label": [[52, 57, "SKILL"]]}
+{"id": 1483, "data": "Able to communicate effectively in English", "label": []}
+{"id": 1484, "data": "Availability to work during US office hours", "label": []}
+{"id": 1485, "data": "Availability to be on call as needed", "label": []}
+{"id": 1486, "data": "Four-year technical degree in computer science, business information systems, engineering or a related field is preferred", "label": [[0, 9, "YEAR"]]}
+{"id": 1487, "data": "Oracle, PostgreSQL DBA skills in a unix environment", "label": [[0, 6, "SKILL"], [8, 18, "SKILL"], [35, 39, "SKILL"]]}
+{"id": 1488, "data": "Good knowledge of Oracle Data Guard, Oracle Streams and PostgreSQL active-passive cluster", "label": [[18, 35, "SKILL"], [37, 51, "SKILL"], [56, 89, "SKILL"]]}
+{"id": 1489, "data": "Solid experience with the linux operating system and command set", "label": [[26, 31, "SKILL"]]}
+{"id": 1490, "data": "Use Toad or other tools to identify areas for optimization", "label": [[4, 8, "SKILL"]]}
+{"id": 1491, "data": "Ability to solve problems, make sound decisions and use good judgement", "label": []}
+{"id": 1492, "data": "Good written and communication skills", "label": []}
+{"id": 1493, "data": "Bachelor’s degree in Computer Science, Engineering, or related field", "label": []}
+{"id": 1494, "data": "5+ years of Oracle and/or postgreSQL database administration experience", "label": [[0, 8, "YEAR"], [12, 18, "SKILL"], [26, 36, "SKILL"]]}
+{"id": 1495, "data": "5+ years of automation experience with Shell Scripting/Bash", "label": [[39, 44, "SKILL"], [55, 59, "SKILL"], [0, 8, "YEAR"]]}
+{"id": 1496, "data": "Currently seeking a qualified senior-level Linux/UNIX systems administrator.", "label": [[43, 48, "SKILL"], [49, 53, "SKILL"]]}
+{"id": 1497, "data": "The senior-level UNIX administrator is responsible for all levels of administration across a large-scale complex of Linux/Solaris systems.", "label": []}
+{"id": 1498, "data": "Candidate must be accomplished in all areas of analysis, design, installation, implementation, configuration, tuning, operation, and security of mid-to-large-tier Red Hat systems.", "label": []}
+{"id": 1499, "data": "Working knowledge of VMware for Red Hat VM guest build, clone, snapshot, and general maintenance.", "label": []}
+{"id": 1500, "data": "Working knowledge of KVM and Red Hat virtualization build and configuration.", "label": [[21, 24, "SKILL"], [29, 36, "SKILL"]]}
+{"id": 1501, "data": "Working knowledge of the Oracle Solaris operating system (Solaris 11.4), LDOMs, ZFS file systems, and Zones desirable.", "label": [[25, 39, "SKILL"]]}
+{"id": 1502, "data": "Performs high-level analysis of RHEL/Solaris systems and applications software requirements, processes, and characteristics for the purpose of assuring efficient and effective software design and operation.", "label": [[32, 36, "SKILL"], [37, 44, "SKILL"]]}
+{"id": 1503, "data": "Participates in teams responsible for the development of Linux-based operating system applications.", "label": [[57, 62, "SKILL"]]}
+{"id": 1504, "data": "Evaluates new system and application requirements regarding impact to the RHEL/Solaris operating system environment.", "label": [[74, 78, "SKILL"], [79, 86, "SKILL"]]}
+{"id": 1505, "data": "Performs installation of Linux and/or client-server operating system software and hardware including OS supporting tools and interface support.", "label": [[25, 30, "SKILL"]]}
+{"id": 1506, "data": "Shell scripting would be preferable.", "label": [[0, 5, "SKILL"]]}
+{"id": 1507, "data": "Working knowledge of Red Hat Satellite desirable", "label": [[21, 28, "SKILL"]]}
+{"id": 1508, "data": "Performs problem determination, on Red Hat/Solaris-based systems and performs resolution.", "label": [[43, 50, "SKILL"], [35, 42, "SKILL"]]}
+{"id": 1509, "data": "Maintains patches, intrusion detection, and hardening processes in conjunction with policies and guidelines.", "label": []}
+{"id": 1510, "data": "Work with the Security team on vulnerability detection, protection, and correction", "label": []}
+{"id": 1511, "data": "Evaluates specifications and features of new products, performing product comparisons, feasibility and cost-benefit analysis, and performance and compatibility testing. Review customer business requirements and makes technical recommendations regarding software /hardware to meet business needs.", "label": []}
+{"id": 1512, "data": "Controls consistency and integrity monitoring and health checks of the operating system structure.", "label": []}
+{"id": 1513, "data": "Maintains disaster recovery configurations for Linux/Solaris systems, performs annual disaster recovery tests for these platforms and maintains disaster recovery documentation and procedures in support of these systems.", "label": [[47, 52, "SKILL"], [53, 60, "SKILL"]]}
+{"id": 1514, "data": "Maintains security configuration management software, hardware system/component controls, and documentation/procedures in accordance with the organization.", "label": []}
+{"id": 1515, "data": "Performs performance data collection, analysis, and tuning of the operating system.", "label": []}
+{"id": 1516, "data": "Experience in psychobiology, cognitive science, neuroscience, psychology, physics/medical, physics/biophysics, computer science, or other relevant program.", "label": []}
+{"id": 1517, "data": "Phlebotomy certification or interest in phlebotomy (preferred)", "label": []}
+{"id": 1518, "data": "Skills in computer applications & programming.", "label": []}
+{"id": 1519, "data": "Ability to work well with people. Ability to speak multiple languages is useful.", "label": []}
+{"id": 1520, "data": "Attention to accuracy and detail in all research tasks.", "label": []}
+{"id": 1521, "data": "Ability to maintain confidentiality of subject and patient information.", "label": []}
+{"id": 1522, "data": "Ability to set priorities that accurately reflect relative importance of current job responsibilities and ability to respond to changing priorities.", "label": []}
+{"id": 1523, "data": "Skill in working independently and following through on assignments with minimal direction and/or supervision.", "label": []}
+{"id": 1524, "data": "Ability to manage multiple duties and tasks efficiently and effectively.", "label": []}
+{"id": 1525, "data": "Skill in speaking clearly and distinctly, using appropriate vocabulary and grammar to obtain and convey information to individuals who are culturally diverse and from varying backgrounds.", "label": []}
+{"id": 1526, "data": "Proficiency in use of software packages/programming languages for performing statistical analyses, data entry, and word-processing (e.g., MATLAB, UNIX shell scripting, SPSS, MS Word, Excel).", "label": [[146, 150, "SKILL"], [151, 156, "SKILL"], [138, 144, "SKILL"], [168, 172, "SKILL"], [174, 181, "SKILL"], [183, 188, "SKILL"]]}
+{"id": 1527, "data": "2. Knowledge in Python", "label": [[16, 22, "SKILL"]]}
+{"id": 1528, "data": "", "label": []}
+{"id": 1529, "data": "3. knowledge in Unix/Shell Scripting", "label": [[16, 20, "SKILL"], [21, 26, "SKILL"]]}
+{"id": 1530, "data": "", "label": []}
+{"id": 1531, "data": "4. Understanding Dimensional Databases and Data Marts (includes physical and logical models)", "label": []}
+{"id": 1532, "data": "5. Writing complex SQL and stored procedures (DB2 preferred); translating specifications and rules into SQL", "label": []}
+{"id": 1533, "data": "6. Interpreting and writing source to target mappings (ETL transformation rules)", "label": []}
+{"id": 1534, "data": "", "label": []}
+{"id": 1535, "data": "7. SME knowledge on project healthcare and Datawarehouse", "label": []}
+{"id": 1536, "data": "8. Maintaining and interpreting data lineages", "label": []}
+{"id": 1537, "data": "9. Ability to speak to the various aspect of the SDLC", "label": []}
+{"id": 1538, "data": "", "label": []}
+{"id": 1539, "data": "10. working knowledge in SAFe agile", "label": []}
+{"id": 1540, "data": "11. Ability to provide time estimations for Test activities for a project based on the design", "label": []}
+{"id": 1541, "data": "12. Ability to work closely with Development, Business, system analyst and UAT teams to provide them the required support", "label": []}
+{"id": 1542, "data": "13. Ability to perform and provide a detailed impact analysis for a given a defect and provide estimates", "label": []}
+{"id": 1543, "data": "14. Able to lead testers and possibly provide feedback on multiple projects", "label": []}
+{"id": 1544, "data": "1+ years of hands-on application system design and delelopment", "label": [[0, 8, "YEAR"]]}
+{"id": 1545, "data": "Bachelor’s degree in Information Systems or an equivalent combination of course work and job experience", "label": []}
+{"id": 1546, "data": "Knowledge of Oracle Databases, Oracle Query Language - PL/SQL, ProC and/or Unix Shell scripts", "label": [[58, 61, "SKILL"], [63, 67, "SKILL"], [80, 85, "SKILL"], [13, 29, "SKILL"], [55, 57, "SKILL"], [75, 79, "SKILL"], [31, 43, "SKILL"]]}
+{"id": 1547, "data": "Experience with Oracle Retail Applications (RMS, RPM, ReIM, and ReSA) preferred, any Object Oriented Programming skills preferred and Scripting knowledge preferred", "label": [[44, 47, "SKILL"], [49, 52, "SKILL"], [134, 143, "SKILL"], [85, 112, "SKILL"], [54, 58, "SKILL"], [64, 68, "SKILL"]]}
+{"id": 1548, "data": "Experience working in an agile development environment, a plus", "label": [[25, 30, "SKILL"]]}
+{"id": 1549, "data": "Linux or Unix System Administration", "label": [[0, 5, "SKILL"], [9, 13, "SKILL"]]}
+{"id": 1550, "data": "Kubernetes", "label": [[0, 10, "SKILL"]]}
+{"id": 1551, "data": "Terraform", "label": [[0, 9, "SKILL"]]}
+{"id": 1552, "data": "Authentication frameworks", "label": []}
+{"id": 1553, "data": "Auth0", "label": []}
+{"id": 1554, "data": "OAuth", "label": []}
+{"id": 1555, "data": "SAML", "label": []}
+{"id": 1556, "data": "LDAP", "label": []}
+{"id": 1557, "data": "Container infrastructure (Docker)", "label": [[26, 32, "SKILL"]]}
+{"id": 1558, "data": "Shell Scripting", "label": [[0, 15, "SKILL"]]}
+{"id": 1559, "data": "Troubleshooting complex systems", "label": []}
+{"id": 1560, "data": "Basic networking required for web technologies", "label": []}
+{"id": 1561, "data": "Familiarity with Identity and Access Management", "label": []}
+{"id": 1562, "data": "3 - 5 years of relevant experience", "label": [[0, 11, "YEAR"]]}
+{"id": 1563, "data": "College degree or equivalent technical certification", "label": []}
+{"id": 1564, "data": "3+ years of experience in software/production support.", "label": [[0, 8, "YEAR"]]}
+{"id": 1565, "data": "Experience in SQL, Weblogic, Shell Scripting, Java/C++/Python is a must have.", "label": [[14, 17, "SKILL"], [19, 27, "SKILL"], [29, 44, "SKILL"], [46, 50, "SKILL"], [51, 54, "SKILL"], [55, 61, "SKILL"]]}
+{"id": 1566, "data": "Software Support experience Amdocs Usage Application. Strong technical, analytical, problem solving, and communication skills along with Some development experiences.", "label": []}
+{"id": 1567, "data": "Responsible for providing the Root Cause analysis, trouble shoot and identify best solution to complete the orders E2E", "label": []}
+{"id": 1568, "data": "Responsible for continuous improvement, guiding and developing team", "label": []}
+{"id": 1569, "data": "Having CM/INV/AR knowledge is added advantage", "label": []}
+{"id": 1570, "data": "Develop a thorough understanding of a customers desired end state and support/handle them with quality", "label": []}
+{"id": 1571, "data": "Responsible for all M&P Resolution documentation, Ability to manage onshore & offshore teams.", "label": []}
+{"id": 1572, "data": "Bachelor’s degree in engineering, Computer Science or equivalent experience.", "label": []}
+{"id": 1573, "data": "Experience in SQL, Unix, JAVA, WebLogic", "label": [[25, 29, "SKILL"], [14, 17, "SKILL"], [19, 23, "SKILL"], [31, 39, "SKILL"]]}
+{"id": 1574, "data": "Adhere to production SLAs/KPIs, bring efficiency by providing automation and innovation", "label": []}
+{"id": 1575, "data": "Excellent verbal, written, interpersonal, organizational and time management skills", "label": []}
+{"id": 1576, "data": "Troubleshoot service outages as they occur, including after hours and weekends", "label": []}
+{"id": 1577, "data": "Work with our developers and business analysts to create and modify our database structure", "label": []}
+{"id": 1578, "data": "Monitor the performance of the database servers", "label": []}
+{"id": 1579, "data": "Participate in on-call support on a rotation basis", "label": []}
+{"id": 1580, "data": "Perform database maintenance tasks, including backups/restores, updating statistics, rebuilding indexes, etc.", "label": []}
+{"id": 1581, "data": "Work with our data engineers to help map data in our production databases to our data warehouse", "label": []}
+{"id": 1582, "data": "Maintain system security and data integrity", "label": []}
+{"id": 1583, "data": "Work with our systems engineers to ensure optimal hardware and storage subsystems", "label": []}
+{"id": 1584, "data": "Develop, manage and maintain a strong disaster recovery and high availability plan", "label": []}
+{"id": 1585, "data": "Install, upgrade and patch the database servers", "label": []}
+{"id": 1586, "data": "Participate in code and design reviews", "label": []}
+{"id": 1587, "data": "Participate in production code pushes", "label": []}
+{"id": 1588, "data": "As a functional specialist on Markit EDM product to the Technical and BA Team as needed. This may include major initiatives and/or minor upgrades/fixes.", "label": []}
+{"id": 1589, "data": "Day to day support of EDM Product and answering EDM related queries, enabling to assist in Generating reports and running SQL Queries on the DB , User Creation and configuration settings .", "label": [[122, 125, "SKILL"]]}
+{"id": 1590, "data": "Day to day support of programs/processes written in SQL and developing / enhancing application on SQL Server. Good knowledge in writing database stored procedures / triggers and packages.", "label": [[52, 55, "SKILL"], [98, 101, "SKILL"]]}
+{"id": 1591, "data": "Knowledge of performance and tuning of a SQL Server DB.", "label": [[41, 44, "SKILL"]]}
+{"id": 1592, "data": "Good database implementation knowledge of SQL Server on Windows / Unix Platform.", "label": [[56, 63, "SKILL"], [66, 70, "SKILL"]]}
+{"id": 1593, "data": "Effective determination of any problems and be responsible for problem resolution working with the necessary teams within Citco IT.", "label": []}
+{"id": 1594, "data": "Documenting enhancements such that other team members, business analysis, etc can understand and support the product.", "label": []}
+{"id": 1595, "data": "A fast learner, self-motivated, and able to work in a fast-paced, start-up environment", "label": []}
+{"id": 1596, "data": "Committed and believes in providing quality customer service", "label": []}
+{"id": 1597, "data": "Technically experienced (academic or commercial) in Linux, Unix and ideally other Operating Systems", "label": [[52, 57, "SKILL"], [59, 63, "SKILL"]]}
+{"id": 1598, "data": "Keen on learning scripting or has some prior experience already in Bash, Shell, Python or other scripting language", "label": [[67, 71, "SKILL"], [73, 78, "SKILL"], [80, 86, "SKILL"]]}
+{"id": 1599, "data": "Curious to understand or has experience in web technologies such as XML, XSLT, DOM, HTML and other Web technologies (advantage)", "label": []}
+{"id": 1600, "data": "Excellent written and verbal communication skills", "label": []}
+{"id": 1601, "data": "The ability to clearly articulate solutions to complex technical problems in a clear and simple way", "label": []}
+{"id": 1602, "data": "Experienced working directly with external customers in a technical support environment ideally in an enterprise software or SAAS company (bonus)", "label": []}
+{"id": 1603, "data": "Bachelor of Science degree in Computer Science, Information Technology or related field", "label": []}
+{"id": 1604, "data": "Experience using CRM and/or helpdesk call tracking and issue tracking tools", "label": []}
+{"id": 1605, "data": "College Degree or equivalent job experience", "label": []}
+{"id": 1606, "data": "Must be able to multi-task in a complex production environment and quickly acquire broad knowledge of CT tools, platforms and working practices", "label": []}
+{"id": 1607, "data": "Strong communication skills both written and verbal", "label": []}
+{"id": 1608, "data": "Self-starter with confidence to drive issues through to completion in highly pressured environment", "label": []}
+{"id": 1609, "data": "Solid investigation and analysis skills in order to recommend value-add solutions in problem focus areas", "label": []}
+{"id": 1610, "data": "Multi-disciplined technology skills encompassing some or all", "label": []}
+{"id": 1611, "data": "Enterprise Monitoring and Alerting Tools, e.g. APICA, App Dynamics, Geneos etc", "label": []}
+{"id": 1612, "data": "Enterprise Job Scheduling Tools, e.g. Control-M, AutoSys, etc", "label": []}
+{"id": 1613, "data": "Advanced Linux/Unix skills (Shell Scripting) and/or Windows Scripting", "label": [[15, 19, "SKILL"], [9, 14, "SKILL"], [28, 43, "SKILL"]]}
+{"id": 1614, "data": "Proficient with toolchain and devops tools", "label": []}
+{"id": 1615, "data": "Web services, IIS, Apache", "label": []}
+{"id": 1616, "data": "Database skills, including intermediate to advance understanding of SQL and Stored ProceduresJPMorgan Chase & Co., one of the oldest financial institutions, offers innovative financial solutions to millions of consumers, small businesses and many of the world's most prominent corporate, institutional and government clients under the J.P. Morgan and Chase brands. Our history spans over 200 years and today we are a leader in investment banking, consumer and small business banking, commercial banking, financial transaction processing and asset management.", "label": []}
+{"id": 1617, "data": "Candidate must be located within commuting distance of Nashville, TN or be willing to relocate to the area.", "label": []}
+{"id": 1618, "data": "Bachelor’s degree or foreign equivalent required from an accredited institution. Will also consider three years of progressive experience in the specialty in lieu of every year of education.", "label": []}
+{"id": 1619, "data": "U.S. citizens and those authorized to work in the U.S. are encouraged to apply. we are not able to sponsor at this time", "label": []}
+{"id": 1620, "data": "At least 4 years of Information Technology experience", "label": []}
+{"id": 1621, "data": "Good hands-on technical knowledge on UNIX/LINUX, Shell Scripting, and PL/SQL", "label": [[37, 41, "SKILL"], [70, 72, "SKILL"], [73, 76, "SKILL"], [42, 47, "SKILL"], [49, 64, "SKILL"]]}
+{"id": 1622, "data": "Experience with ITIL process", "label": []}
+{"id": 1623, "data": "Knowledge on Autosys scheduler", "label": []}
+{"id": 1624, "data": "Experience in application production support", "label": []}
+{"id": 1625, "data": "Good Analytical and Communication skills", "label": []}
+{"id": 1626, "data": "Planning and Co-ordination skills", "label": []}
+{"id": 1627, "data": "Proficient Linux administration skills to build, operate and manage a complex production environment. Familiarity with RedHat based Linux versions.", "label": [[11, 16, "SKILL"], [119, 125, "SKILL"], [132, 137, "SKILL"]]}
+{"id": 1628, "data": "Thorough understanding of computer networking protocols and concepts including IP/TCP/UDP, NAT, DNS, NFS, and similar systems.", "label": []}
+{"id": 1629, "data": "Experience troubleshooting Linux and application problems, with demonstrated history to understand root causes of complex problems.", "label": [[27, 32, "SKILL"]]}
+{"id": 1630, "data": "Experience with UNIX utilities and scripting (Python, shell, etc.), experience with a version control system (e.g., Git) highly preferred.", "label": [[16, 20, "SKILL"], [54, 59, "SKILL"], [46, 52, "SKILL"], [116, 119, "SKILL"]]}
+{"id": 1631, "data": "Knowledge of automation, configuration management and monitoring with systems such as Puppet, Ansible, Chef, Salt or similar systems.", "label": [[94, 101, "SKILL"], [103, 107, "SKILL"], [109, 113, "SKILL"], [86, 92, "SKILL"]]}
+{"id": 1632, "data": "Knowledge of cloud technologies from AWS, GCP or Azure and tools related to build and operate cloud based applications. Experience in container based technologies.", "label": [[37, 40, "SKILL"], [42, 45, "SKILL"], [49, 54, "SKILL"]]}
+{"id": 1633, "data": "Thought leader in implementing best practices for improving information security and reducing cyber risk.", "label": []}
+{"id": 1634, "data": "Discipline to develop and follow a multi-year technology roadmap, leveraging technology to build and maintain a competitive advantage.", "label": []}
+{"id": 1635, "data": "Experience in financial services or low-latency environments a plus.", "label": []}
+{"id": 1636, "data": "Bachelor's degree in Science/IT/Computer Science or equivalent", "label": []}
+{"id": 1637, "data": "Strong technical, analytical, problem solving, and communication skills", "label": []}
+{"id": 1638, "data": "Required knowledge in C++, Java, SQL & Unix", "label": [[27, 31, "SKILL"], [39, 43, "SKILL"], [22, 25, "SKILL"], [33, 36, "SKILL"]]}
+{"id": 1639, "data": "Strong foundational knowledge in Unix Shell Scripting , Cassandra/Oracle Databases and Java/Python Programming languages", "label": [[38, 53, "SKILL"], [66, 72, "SKILL"], [87, 91, "SKILL"], [33, 37, "SKILL"], [56, 65, "SKILL"], [92, 98, "SKILL"]]}
+{"id": 1640, "data": "5+ years of experience working in software quality assurance with at least 4 years building automated test solutions", "label": [[75, 82, "YEAR"], [0, 8, "YEAR"]]}
+{"id": 1641, "data": "", "label": []}
+{"id": 1642, "data": "2+ years of Pipeline experience with MS Azure Devops or Jenkins", "label": [[37, 52, "SKILL"], [0, 8, "YEAR"], [56, 63, "SKILL"]]}
+{"id": 1643, "data": "", "label": []}
+{"id": 1644, "data": "Strong object-oriented programming experience in C# and Java", "label": [[49, 51, "SKILL"], [56, 60, "SKILL"], [7, 34, "SKILL"]]}
+{"id": 1645, "data": "", "label": []}
+{"id": 1646, "data": "Skilled in building robust, scalable, and reliable test automation solutions for functional regression testing", "label": []}
+{"id": 1647, "data": "", "label": []}
+{"id": 1648, "data": "Ability to meet high quality coding practices and standards", "label": []}
+{"id": 1649, "data": "", "label": []}
+{"id": 1650, "data": "Experience working in Agile software development life cycle", "label": [[22, 27, "SKILL"]]}
+{"id": 1651, "data": "", "label": []}
+{"id": 1652, "data": "Proven ability to balance multiple priorities and communicate across organizational boundaries", "label": []}
+{"id": 1653, "data": "", "label": []}
+{"id": 1654, "data": "Experience with various operating systems (Windows, Unix/Linux) is required", "label": [[57, 62, "SKILL"], [52, 56, "SKILL"]]}
+{"id": 1655, "data": "", "label": []}
+{"id": 1656, "data": "Excellent communication and collaboration skills", "label": []}
+{"id": 1657, "data": "", "label": []}
+{"id": 1658, "data": "Bachelor’s degree in Computer Science or related field", "label": []}
+{"id": 1659, "data": "Develop solutions and tools to make the lives of Braintree Product engineers better and easier. You will develop solutions from ideation and design, through development, launch, operation and iteration.", "label": []}
+{"id": 1660, "data": "Partner with our customers (product engineering teams) on their products design, development and capacity planning to ensure Braintree continues to scale and maximize availability.", "label": []}
+{"id": 1661, "data": "Brainstorm and implement ways of reducing tech debt, automate repeated manual tasks and improve team productivity.", "label": []}
+{"id": 1662, "data": "Ideate new ways of doing things, publish RFCs, get buy-in from other engineering leads and implement changes.", "label": []}
+{"id": 1663, "data": "Be an active member of the open source community by reporting new defects and issues, contributing to open source projects and providing help to the community at large.", "label": []}
+{"id": 1664, "data": "Ensure sufficient logging, monitoring and alerting strategies around availability, latency and overall system health.", "label": []}
+{"id": 1665, "data": "Scale systems sustainably through automation, and evolve systems by pushing for changes that improve reliability and velocity.", "label": []}
+{"id": 1666, "data": "Be part of incident reviews and blameless postmortems.", "label": []}
+{"id": 1667, "data": "Mentor other members of the organization through their career journey at Braintree.", "label": []}
+{"id": 1668, "data": "Software Development background with ability to analyze and improve existing codebase.", "label": []}
+{"id": 1669, "data": "Experience with building solutions on the Cloud (Ideally AWS)", "label": [[57, 60, "SKILL"]]}
+{"id": 1670, "data": "Established ability to diagnose technical problems, debug code, and automate routine tasks.", "label": []}
+{"id": 1671, "data": "Ability to support a 24/7/365 always available production grade service.", "label": []}
+{"id": 1672, "data": "Experience in one or more of the following: Java, Ruby, Golang, or shell scripting.", "label": [[44, 48, "SKILL"], [50, 54, "SKILL"], [56, 62, "SKILL"], [67, 82, "SKILL"]]}
+{"id": 1673, "data": "Experience with Unix/Linux operating systems internals and administration.", "label": [[16, 20, "SKILL"], [21, 26, "SKILL"]]}
+{"id": 1674, "data": "Patience and fortitude to debug complex issues in production system, which are akin to finding a needle in haystack sometimes", "label": []}
+{"id": 1675, "data": "Great analytical and problem-solving skills.", "label": []}
+{"id": 1676, "data": "Familiarity with orchestration tools (Ansible, Puppet, Chef, Terraform, etc.).", "label": [[38, 45, "SKILL"], [47, 53, "SKILL"], [55, 59, "SKILL"], [61, 70, "SKILL"]]}
+{"id": 1677, "data": "Established experience with monitoring/logging tools and best practices.", "label": []}
+{"id": 1678, "data": "Experience in software release lifecycle with modern distributed version control (e.g. git).", "label": []}
+{"id": 1679, "data": "Deep Postgres or RDS experience, an understanding of Postgres internals or Postgres community contributions are preferred.", "label": [[5, 13, "SKILL"], [53, 61, "SKILL"], [75, 83, "SKILL"]]}
+{"id": 1680, "data": "Proficiency in managing large-scale highly available infrastructure.", "label": []}
+{"id": 1681, "data": "Expertise in designing and troubleshooting distributed systems.", "label": []}
+{"id": 1682, "data": "Strong communicator, both written and spoken.", "label": []}
+{"id": 1683, "data": "Knowledge of software development lifecycle, testing methodologies, and testing tools.", "label": []}
+{"id": 1684, "data": "Experience in the creation and automation of software tests (e.g. unit, regression, functional, stress tests).", "label": []}
+{"id": 1685, "data": "Understanding of software QA metrics, operations, and statistical techniques.", "label": []}
+{"id": 1686, "data": "Experience in developing test plans, assessing risk, filing appropriate defects, and providing relevant data for test reporting.", "label": []}
+{"id": 1687, "data": "Experience in driving development and deployment of relevant testing tools and infrastructure.", "label": []}
+{"id": 1688, "data": "Experience with Continuous Integration systems (e.g. Jenkins).", "label": [[53, 60, "SKILL"]]}
+{"id": 1689, "data": "Experience in python/Obj-C and scripting languages.", "label": [[14, 20, "SKILL"], [21, 26, "SKILL"]]}
+{"id": 1690, "data": "Ability to triage problems, prioritize accordingly, and propose a resolution.", "label": []}
+{"id": 1691, "data": "Ability to work independently, raise issues and take corrective action.", "label": []}
+{"id": 1692, "data": "Working knowledge of Unix, Mac, shell scripting, python and tools to debug them", "label": [[21, 25, "SKILL"], [27, 30, "SKILL"], [32, 47, "SKILL"], [49, 55, "SKILL"]]}
+{"id": 1693, "data": "Experience working in fast paced environments.", "label": []}
+{"id": 1694, "data": "Strong written and oral communications skills.", "label": []}
+{"id": 1695, "data": "An MS or PhD degree in the physical sciences (physics, atmospheric sciences, image science, optics, etc.) or engineering (electrical, aerospace, mechanical, etc.).", "label": []}
+{"id": 1696, "data": "Experience should include the development of fundamental physical models, data analysis algorithms, and/or sensor concepts involving remote sensing for aerospace, industrial, or medical applications.", "label": []}
+{"id": 1697, "data": "Familiarity with and development of spectral image processing methods, including processing to reflectance, chemometrics and detection and identification algorithms.", "label": []}
+{"id": 1698, "data": "Experience programming with C/C++, Python, and/or Fortran, shell scripting, Unix command line tools.", "label": [[30, 33, "SKILL"], [28, 29, "SKILL"], [35, 41, "SKILL"], [50, 57, "SKILL"], [59, 74, "SKILL"], [76, 80, "SKILL"]]}
+{"id": 1699, "data": "US citizenship and ability to obtain a US Government Security Clearance are required.", "label": []}
+{"id": 1700, "data": "Expert Java or C++ programming skills with a thorough understanding of the language", "label": [[7, 11, "SKILL"], [15, 18, "SKILL"]]}
+{"id": 1701, "data": "Expertise with UNIX operating systems (we use FreeBSD), shell scripting, network protocols and file systems", "label": [[73, 90, "SKILL"], [15, 19, "SKILL"], [46, 53, "SKILL"], [56, 71, "SKILL"], [95, 107, "SKILL"]]}
+{"id": 1734, "data": "Utilize Infrastructure as Code best practices to support our cloud infrastructure", "label": []}
+{"id": 1702, "data": "Participate in SDLC and implement all DevOps procedures to support the CI/CD process including the automation of the source control, build, test, govern, deploy, monitoring and alerting within the pipeline.", "label": []}
+{"id": 1703, "data": "Closely partner with the security, infrastructure, and development teams to understand/recommend the solution architecture and build requirements to continue to improve the overall CI/CD pipelines.", "label": []}
+{"id": 1704, "data": "Responsibility for the build environment: set up new builds, resolve build issues, help coordinate complex software test environments and software releases.", "label": []}
+{"id": 1705, "data": "Monitoring of system/application operational processes, escalating, and facilitating failure resolution as appropriate.", "label": []}
+{"id": 1706, "data": "Assisting the developer and QA engineer on setting up integration and regression testing suite.", "label": []}
+{"id": 1707, "data": "Familiarity with the AWS Network structure including VPCs, Subnets, Route Tables, NAT Gateways, Security Groups and Permissions for users and services.", "label": [[21, 24, "SKILL"], [59, 66, "SKILL"], [68, 80, "SKILL"], [82, 94, "SKILL"], [53, 57, "SKILL"]]}
+{"id": 1708, "data": "An understanding of AWS region and availability zone structure with a focus on balancing redundancy, availability, and cost.", "label": [[20, 23, "SKILL"]]}
+{"id": 1709, "data": "2+ years of experience working in a collaborative Development environment.", "label": [[0, 8, "YEAR"]]}
+{"id": 1710, "data": "2+ years of application development scripting experience (Python, Windows batch/PowerShell, Unix Shell)", "label": [[92, 102, "SKILL"], [0, 8, "YEAR"], [58, 64, "SKILL"], [80, 90, "SKILL"]]}
+{"id": 1711, "data": "Involved in software system design in a DevOps lifecycle and developing CI/CD pipeline.", "label": []}
+{"id": 1712, "data": "A practical understanding of the software development life cycle and iterative software development processes.", "label": []}
+{"id": 1713, "data": "Proficient in DevOps CI/CD pipeline, software development, source control, build/artifact, testing/debugging, deployment, log monitoring.", "label": []}
+{"id": 1714, "data": "Familiar with Software Development tools like JIRA, Git, Jenkins etc.", "label": [[46, 50, "SKILL"], [52, 55, "SKILL"], [57, 64, "SKILL"]]}
+{"id": 1715, "data": "Obtained or is obtaining a computer science or similar system technology degree.", "label": []}
+{"id": 1716, "data": "Provide support for implementation, troubleshooting, and maintenance of Information Technology (IT) systems.", "label": []}
+{"id": 1717, "data": "Manage IT systems including day-to-day operations, monitoring and problem resolution for all of the client/server/storage/network devices, mobile devices, etc.", "label": []}
+{"id": 1718, "data": "Provide Tier 1 (Help Desk) and Tier 2 (Escalation) problem identification, diagnosis, and resolution of problem.", "label": []}
+{"id": 1719, "data": "Provide support for the escalation and communication of status to agency management and internal customers.", "label": []}
+{"id": 1720, "data": "Configure and manage UNIX and Windows operating systems", "label": [[21, 25, "SKILL"]]}
+{"id": 1721, "data": "Install/load operating system software and troubleshoot", "label": []}
+{"id": 1722, "data": "Maintain integrity and configure network components", "label": []}
+{"id": 1723, "data": "Implement operating systems enhancements to improve reliability and performance.", "label": []}
+{"id": 1724, "data": "Experience in hardware and operating system administration, system architecture and databases. Both IBM and Windows virtualization. 5 years or more experience in managing and installing computer systems. The ability to clearly communicate complex technical specifications to clients and implementation teams. Bachelor’s in Computer Science or equivalent education. Always looking for a practical and elegant solution to complex problems. Able to work as a project leader or work as a member of the team. Communicate new ideas or solutions. Strive for efficiency and accuracy in all work.", "label": []}
+{"id": 1725, "data": "IBM Power systems, AIX operating system and virtualization.", "label": []}
+{"id": 1726, "data": "Storage systems configuration and maintenance.", "label": []}
+{"id": 1727, "data": "Network and system security", "label": []}
+{"id": 1728, "data": "Preferred Qualifications for Consideration", "label": []}
+{"id": 1729, "data": "IBM AIX system administration", "label": []}
+{"id": 1730, "data": "Shell scripting (UNIX ksh)", "label": [[0, 15, "SKILL"], [17, 21, "SKILL"]]}
+{"id": 1731, "data": "Design in terms of Availability, Reliability, Scalability, Maintainability, and Security", "label": []}
+{"id": 1732, "data": "Code, scale and support the cloud infrastructure supporting Warnermedia's VOD and Live workflows in a cost effective manner.", "label": []}
+{"id": 1733, "data": "Develop tooling and services to provide insight into application and system health.", "label": []}
+{"id": 1735, "data": "Build, improve, maintain, support CI/CD Pipelines", "label": []}
+{"id": 1736, "data": "Documentation of systems and processes.", "label": []}
+{"id": 1737, "data": "Monitor/troubleshoot production applications and cloud infrastructure.", "label": []}
+{"id": 1738, "data": "Evaluate emerging technologies to assess potential for adoption", "label": []}
+{"id": 1739, "data": "Contribute to development of operational automation and self-service frameworks", "label": []}
+{"id": 1740, "data": "Participate in tiered support for application and infrastructure needs; this includes weekend and off hours support.", "label": []}
+{"id": 1741, "data": "Degree in computer science, computer information systems or equivalent experience", "label": []}
+{"id": 1742, "data": "Deep understanding of AWS, Containers and Kubernetes(EKS, RKE).", "label": [[42, 52, "SKILL"], [22, 25, "SKILL"]]}
+{"id": 1743, "data": "Solid experience in designing, implementing and supporting container based services in the cloud.", "label": []}
+{"id": 1744, "data": "3+ yrs experience in cloud technololgies with broad exposure to AWS suite of services including S3, RDS, ALB's, Route 53 etc.", "label": []}
+{"id": 1745, "data": "Expert-level knowledge of Unix or Linux system administration at scale.", "label": [[26, 30, "SKILL"], [34, 39, "SKILL"]]}
+{"id": 1746, "data": "Experience with source control, git or equivalent", "label": [[32, 35, "SKILL"]]}
+{"id": 1747, "data": "Excellent interpersonal, organizational and communication (written, verbal, and presentation) skills are a must.", "label": []}
+{"id": 1748, "data": "Self-directed, analytical, and works well in a team environment.", "label": []}
+{"id": 1749, "data": "Ability to collaborate with a cross-functional team of developers, operations staff, product managers, and project managers.", "label": []}
+{"id": 1750, "data": "Experience with programming (Python, Golang or shell scripting)", "label": [[29, 35, "SKILL"], [37, 43, "SKILL"], [47, 62, "SKILL"]]}
+{"id": 1751, "data": "Experience in Media Technology and Video monitoring is a plus", "label": []}
+{"id": 1752, "data": "Video encoding/transcoding experience a plus", "label": []}
+{"id": 1753, "data": "Experience in similar research labs or environments.", "label": []}
+{"id": 1754, "data": "Bachelor's degree (plus one to two years of related experience) or master's degree in quantitative field, such as physics, engineering, computer science, data science, bioinformatics, computational biology, computational neuroscience, applied mathematics, biostatistics, and related field.", "label": []}
+{"id": 1755, "data": "Strong computer skills (knowledge of Python, Python Libraries, Matlab, statistical analysis packages, basic shell scripting, experience in Unix/Linux platform).", "label": [[37, 43, "SKILL"], [45, 51, "SKILL"], [63, 69, "SKILL"], [108, 123, "SKILL"], [139, 143, "SKILL"], [144, 149, "SKILL"]]}
+{"id": 1756, "data": "Experience with image analysis such as MRI or PET analysis.", "label": []}
+{"id": 1757, "data": "This position is ideal for the candidate who is familiar with and/or has high-level interest in emerging ML/AI techniques and their applications in clinical neuroimaging research.", "label": [[105, 107, "SKILL"], [108, 110, "SKILL"]]}
+{"id": 1758, "data": "2+ years of experience in Python", "label": [[0, 8, "YEAR"], [26, 32, "SKILL"]]}
+{"id": 1759, "data": "2+ years of knowledge of Unix/Linux", "label": [[25, 29, "SKILL"], [0, 8, "YEAR"], [30, 35, "SKILL"]]}
+{"id": 1760, "data": "Experience with Perl or shell scripting", "label": []}
+{"id": 1761, "data": "Experience and or training with Fortran, C, C++ preferred", "label": [[41, 42, "SKILL"], [32, 39, "SKILL"], [44, 47, "SKILL"]]}
+{"id": 1762, "data": "Experience in container operations (preferably Docker) and orchestration (Kubernetes)", "label": [[47, 53, "SKILL"], [74, 84, "SKILL"]]}
+{"id": 1763, "data": "Experience with Jenkins", "label": [[16, 23, "SKILL"]]}
+{"id": 1764, "data": "Experience working in a Cloud environment", "label": []}
+{"id": 1765, "data": "Experience with CM tools such as Git and GitLab", "label": [[33, 36, "SKILL"], [41, 47, "SKILL"]]}
+{"id": 1766, "data": "Experience with Continuous Integration and Continuous Delivery", "label": []}
+{"id": 1767, "data": "Experience with NoSQL and/or SQL", "label": [[29, 32, "SKILL"], [16, 21, "SKILL"]]}
+{"id": 1768, "data": "Experience with real-time and off-line processing of satellite data, science algorithm development.", "label": []}
+{"id": 1769, "data": "Experience processing and managing large volumes of data", "label": []}
+{"id": 1770, "data": "Familiarity with scientific data formats such as HDF and netCDF", "label": []}
+{"id": 1771, "data": "Educational background or experience in satellites and remote sensing", "label": []}
+{"id": 1772, "data": "Teamwork, strong inter-personal skills", "label": []}
+{"id": 1773, "data": "BS or greater degreeMaster’s Degree or Bachelors with 2 years of experience with formal course work in physics, mathematics and computer programming", "label": []}
+{"id": 1774, "data": "Demonstrated ability to deeply understand business operations, in order to effectively ascertain data and analytics opportunities and growth areas.", "label": []}
+{"id": 1775, "data": "Proven ability to understand and formalize constraints and goals in new and unique business domains", "label": []}
+{"id": 1776, "data": "Extensive experience in leading teams and cross functional projects across data, analytics, technology and business Proven ability to manage teams overseeing machine learning, artificial intelligence, and predictive modeling development.", "label": []}
+{"id": 1777, "data": "Proven knowledge of advanced techniques, and when and where to apply them. Proven knowledge of ability to execute these statistical techniques in modern development environments", "label": []}
+{"id": 1778, "data": "Ability to provide written and oral interpretation of highly specialized terms, data, and complex strategies. Ability to present this to others with different levels of expertise.", "label": []}
+{"id": 1779, "data": "Ability to concentrate on a wide range of loosely defined complex situations, which require application of creativity and originality, where guidance and counsel may be unavailable", "label": []}
+{"id": 1780, "data": "Ability to thrive in a fast paced and dynamic remote work environment", "label": []}
+{"id": 1781, "data": "MSc in quantitative field or equivalent experience. PhD is a plus.", "label": []}
+{"id": 1782, "data": "5+ years of corporate experience as a Data Scientist.", "label": [[0, 8, "YEAR"]]}
+{"id": 1783, "data": "3+ years of experience with natural language processing, computer vision, or deep learning.", "label": []}
+{"id": 1784, "data": "5+ years of experience with SQL. Experience working data environments such as Presto , Spark, and Hive a plus.", "label": [[0, 8, "YEAR"], [28, 31, "SKILL"], [78, 84, "SKILL"], [87, 92, "SKILL"], [98, 102, "SKILL"]]}
+{"id": 1785, "data": "2+ years of experience with Python and proficiency in several machine learning frameworks and libraries.", "label": [[0, 8, "YEAR"], [28, 34, "SKILL"], [62, 78, "SKILL"]]}
+{"id": 1786, "data": "Excellent software engineering best practices, including test driven development, code review, and version control with git.", "label": []}
+{"id": 1787, "data": "Experience making informed trade-offs that balance quick wins with long - term robust solutions .", "label": []}
+{"id": 1788, "data": "Your passion for machine learning, curiosity, problem solving, and innovation empower you to stay up to date with research and to prototype new ideas quickly.", "label": [[17, 33, "SKILL"]]}
+{"id": 1789, "data": "PhD or MS with 2 years of experience in Computer Science, Data Science, Statistics, Applied Math or another highly quantitative discipline", "label": [[15, 22, "YEAR"]]}
+{"id": 1790, "data": "Strong Python coding skills for data science, including experience with standard data science packages (numpy, pandas, matplotlib, seaborn, sklearn)", "label": []}
+{"id": 1791, "data": "Experience using version control systems (preferably git) and cloud computing (preferable AWS)", "label": [[53, 56, "SKILL"], [90, 93, "SKILL"]]}
+{"id": 1792, "data": "Strong communication skills for effective interactions with business stakeholders as well as peer groups and team members", "label": []}
+{"id": 1793, "data": "Hands-on deep learning and statistical/probabilistic modeling experience", "label": []}
+{"id": 1794, "data": "Experience using probabilistic programming languages, such as Tensorflow Probability and Pyro", "label": [[89, 93, "SKILL"], [62, 72, "SKILL"]]}
+{"id": 1795, "data": "Experience with exploratory Big Data discovery through the use of technologies such as Spark (PySpark preferred)", "label": [[87, 92, "SKILL"], [94, 101, "SKILL"]]}
+{"id": 1796, "data": "Knowledge of agricultural technology especially with regard to row crops", "label": []}
+{"id": 1797, "data": "Curiosity and an open-mind towards unfamiliar data sources and unfamiliar quantitative domains", "label": []}

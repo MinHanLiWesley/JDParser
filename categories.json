@@ -1,0 +1,1081 @@
+[{
+    "id": 3,
+    "data": "Yes, it is a product",
+    "label": [
+        [13, 20, "CATEGORY"]
+    ]
+}, {
+    "id": 4,
+    "data": "Yes, it is a service",
+    "label": [
+        [13, 20, "CATEGORY"]
+    ]
+}, {
+    "id": 5,
+    "data": "Yes, it is a process",
+    "label": [
+        [13, 20, "CATEGORY"]
+    ]
+}, {
+    "id": 6,
+    "data": "Yes, sure, it is a product",
+    "label": [
+        [19, 26, "CATEGORY"]
+    ]
+}, {
+    "id": 7,
+    "data": "Yes, sure, it is a service",
+    "label": [
+        [19, 26, "CATEGORY"]
+    ]
+}, {
+    "id": 8,
+    "data": "Yes, sure, it is a process",
+    "label": [
+        [19, 26, "CATEGORY"]
+    ]
+}, {
+    "id": 9,
+    "data": "Yes, it is a service",
+    "label": [
+        [13, 20, "CATEGORY"]
+    ]
+}, {
+    "id": 10,
+    "data": "Yes, it is a product",
+    "label": [
+        [13, 20, "CATEGORY"]
+    ]
+}, {
+    "id": 11,
+    "data": "Yes, it is a process",
+    "label": [
+        [13, 20, "CATEGORY"]
+    ]
+}, {
+    "id": 12,
+    "data": "Why not, it is a process",
+    "label": [
+        [17, 24, "CATEGORY"]
+    ]
+}, {
+    "id": 13,
+    "data": "Why not, it is a service",
+    "label": [
+        [17, 24, "CATEGORY"]
+    ]
+}, {
+    "id": 14,
+    "data": "Why not, it is a product",
+    "label": [
+        [17, 24, "CATEGORY"]
+    ]
+}, {
+    "id": 15,
+    "data": "Ok, product",
+    "label": [
+        [4, 11, "CATEGORY"]
+    ]
+}, {
+    "id": 16,
+    "data": "Ok, service",
+    "label": [
+        [4, 11, "CATEGORY"]
+    ]
+}, {
+    "id": 17,
+    "data": "Ok, process",
+    "label": [
+        [4, 11, "CATEGORY"]
+    ]
+}, {
+    "id": 18,
+    "data": "Ok, it is a product",
+    "label": [
+        [12, 19, "CATEGORY"]
+    ]
+}, {
+    "id": 19,
+    "data": "Ok, it is a service",
+    "label": [
+        [12, 19, "CATEGORY"]
+    ]
+}, {
+    "id": 20,
+    "data": "Ok, it is a process",
+    "label": [
+        [12, 19, "CATEGORY"]
+    ]
+}, {
+    "id": 21,
+    "data": "Sure, it is a product",
+    "label": [
+        [14, 21, "CATEGORY"]
+    ]
+}, {
+    "id": 22,
+    "data": "Sure, it is a service",
+    "label": [
+        [14, 21, "CATEGORY"]
+    ]
+}, {
+    "id": 23,
+    "data": "Sure, it is a process",
+    "label": [
+        [14, 21, "CATEGORY"]
+    ]
+}, {
+    "id": 24,
+    "data": "All right, it is something like a product",
+    "label": [
+        [34, 41, "CATEGORY"]
+    ]
+}, {
+    "id": 25,
+    "data": "All right, it is something like a service",
+    "label": [
+        [34, 41, "CATEGORY"]
+    ]
+}, {
+    "id": 26,
+    "data": "All right, it is something like a process",
+    "label": [
+        [34, 41, "CATEGORY"]
+    ]
+}, {
+    "id": 27,
+    "data": "Ok, let’s start with a product",
+    "label": [
+        [23, 30, "CATEGORY"]
+    ]
+}, {
+    "id": 28,
+    "data": "Ok, let’s start with a process",
+    "label": [
+        [23, 30, "CATEGORY"]
+    ]
+}, {
+    "id": 29,
+    "data": "Ok, let’s start with a service",
+    "label": [
+        [23, 30, "CATEGORY"]
+    ]
+}, {
+    "id": 30,
+    "data": "Sure, I’ll put it as a service",
+    "label": [
+        [23, 30, "CATEGORY"]
+    ]
+}, {
+    "id": 31,
+    "data": "Sure, I’ll put it as a product",
+    "label": [
+        [23, 30, "CATEGORY"]
+    ]
+}, {
+    "id": 32,
+    "data": "Sure, I’ll put it as a process",
+    "label": [
+        [23, 30, "CATEGORY"]
+    ]
+}, {
+    "id": 33,
+    "data": "Fine, it’s a process",
+    "label": [
+        [13, 20, "CATEGORY"]
+    ]
+}, {
+    "id": 34,
+    "data": "Fine, it’s a service",
+    "label": [
+        [13, 20, "CATEGORY"]
+    ]
+}, {
+    "id": 35,
+    "data": "Fine, it’s a product",
+    "label": [
+        [13, 20, "CATEGORY"]
+    ]
+}, {
+    "id": 36,
+    "data": "No problem, I would say it is a product",
+    "label": [
+        [32, 39, "CATEGORY"]
+    ]
+}, {
+    "id": 37,
+    "data": "No problem, I would say it is a service",
+    "label": [
+        [32, 39, "CATEGORY"]
+    ]
+}, {
+    "id": 38,
+    "data": "No problem, I would say it is a process",
+    "label": [
+        [32, 39, "CATEGORY"]
+    ]
+}, {
+    "id": 39,
+    "data": "Let’s choose a product",
+    "label": [
+        [15, 22, "CATEGORY"]
+    ]
+}, {
+    "id": 40,
+    "data": "Let’s choose a service",
+    "label": [
+        [15, 22, "CATEGORY"]
+    ]
+}, {
+    "id": 41,
+    "data": "Let’s choose a process",
+    "label": [
+        [15, 22, "CATEGORY"]
+    ]
+}, {
+    "id": 42,
+    "data": "Let’s say it is a product",
+    "label": [
+        [18, 25, "CATEGORY"]
+    ]
+}, {
+    "id": 43,
+    "data": "Let’s say it is a process",
+    "label": [
+        [18, 25, "CATEGORY"]
+    ]
+}, {
+    "id": 44,
+    "data": "Let’s say it is a service",
+    "label": [
+        [18, 25, "CATEGORY"]
+    ]
+}, {
+    "id": 45,
+    "data": "It’s a complicated question, but let’s start with a product",
+    "label": [
+        [52, 59, "CATEGORY"]
+    ]
+}, {
+    "id": 46,
+    "data": "It’s a complicated question, but let’s start with a service",
+    "label": [
+        [52, 59, "CATEGORY"]
+    ]
+}, {
+    "id": 47,
+    "data": "It’s a complicated question, but let’s start with a process",
+    "label": [
+        [52, 59, "CATEGORY"]
+    ]
+}, {
+    "id": 48,
+    "data": "My idea is a product",
+    "label": [
+        [13, 20, "CATEGORY"]
+    ]
+}, {
+    "id": 49,
+    "data": "My idea is a service",
+    "label": [
+        [13, 20, "CATEGORY"]
+    ]
+}, {
+    "id": 50,
+    "data": "My idea is a process",
+    "label": [
+        [13, 20, "CATEGORY"]
+    ]
+}, {
+    "id": 51,
+    "data": "I can call my idea a product",
+    "label": [
+        [21, 28, "CATEGORY"]
+    ]
+}, {
+    "id": 52,
+    "data": "I can call my idea a service",
+    "label": [
+        [21, 28, "CATEGORY"]
+    ]
+}, {
+    "id": 53,
+    "data": "I can call my idea a process",
+    "label": [
+        [21, 28, "CATEGORY"]
+    ]
+}, {
+    "id": 54,
+    "data": "Ok, so this is something like a product I suppose",
+    "label": [
+        [32, 39, "CATEGORY"]
+    ]
+}, {
+    "id": 55,
+    "data": "Ok, so this is something like a service I suppose",
+    "label": [
+        [32, 39, "CATEGORY"]
+    ]
+}, {
+    "id": 56,
+    "data": "Ok, so this is something like a process I suppose",
+    "label": [
+        [32, 40, "CATEGORY"]
+    ]
+}, {
+    "id": 57,
+    "data": "I think it is definetly a service",
+    "label": [
+        [26, 33, "CATEGORY"]
+    ]
+}, {
+    "id": 58,
+    "data": "I think it is definetly a product",
+    "label": [
+        [26, 33, "CATEGORY"]
+    ]
+}, {
+    "id": 59,
+    "data": "I think it is definetly a process",
+    "label": [
+        [26, 33, "CATEGORY"]
+    ]
+}, {
+    "id": 60,
+    "data": "I would say it is rather a product",
+    "label": [
+        [27, 34, "CATEGORY"]
+    ]
+}, {
+    "id": 61,
+    "data": "I would say it is rather a service",
+    "label": [
+        [27, 34, "CATEGORY"]
+    ]
+}, {
+    "id": 62,
+    "data": "I would say it is rather a process",
+    "label": [
+        [27, 34, "CATEGORY"]
+    ]
+}, {
+    "id": 63,
+    "data": "It is quite a well-known product",
+    "label": [
+        [25, 32, "CATEGORY"]
+    ]
+}, {
+    "id": 64,
+    "data": "It is quite a well-known service",
+    "label": [
+        [25, 32, "CATEGORY"]
+    ]
+}, {
+    "id": 65,
+    "data": "It is quite a well-known process",
+    "label": [
+        [25, 32, "CATEGORY"]
+    ]
+}, {
+    "id": 66,
+    "data": "I assume it could be a product",
+    "label": [
+        [23, 30, "CATEGORY"]
+    ]
+}, { "id": 67, "data": "I assume it could be a service", "label": [] }, {
+    "id": 68,
+    "data": "I assume it could be a process",
+    "label": [
+        [23, 30, "CATEGORY"]
+    ]
+}, {
+    "id": 69,
+    "data": "I would call it a product for the beginning",
+    "label": [
+        [18, 25, "CATEGORY"]
+    ]
+}, {
+    "id": 70,
+    "data": "I would call it a service for the beginning",
+    "label": [
+        [18, 26, "CATEGORY"]
+    ]
+}, {
+    "id": 71,
+    "data": "I would call it a process for the beginning",
+    "label": [
+        [18, 25, "CATEGORY"]
+    ]
+}, {
+    "id": 72,
+    "data": "I am not really sure but let's start with a product",
+    "label": [
+        [44, 51, "CATEGORY"]
+    ]
+}, {
+    "id": 73,
+    "data": "I am not really sure but let's start with a service",
+    "label": [
+        [44, 51, "CATEGORY"]
+    ]
+}, {
+    "id": 74,
+    "data": "I am not really sure but let's start with a process",
+    "label": [
+        [44, 51, "CATEGORY"]
+    ]
+}, {
+    "id": 75,
+    "data": "I am pretty sure it might be a product",
+    "label": [
+        [31, 38, "CATEGORY"]
+    ]
+}, {
+    "id": 76,
+    "data": "I am pretty sure it might be a service",
+    "label": [
+        [31, 38, "CATEGORY"]
+    ]
+}, {
+    "id": 77,
+    "data": "I am pretty sure it might be a process",
+    "label": [
+        [31, 38, "CATEGORY"]
+    ]
+}, {
+    "id": 78,
+    "data": "It is a tough question but let's go with a product",
+    "label": [
+        [43, 50, "CATEGORY"]
+    ]
+}, { "id": 79, "data": "It is a tough question but let's go with a process", "label": [] }, {
+    "id": 80,
+    "data": "It is a tough question but let's go with a service",
+    "label": [
+        [43, 50, "CATEGORY"]
+    ]
+}, {
+    "id": 81,
+    "data": "I choose a product category",
+    "label": [
+        [11, 18, "CATEGORY"]
+    ]
+}, {
+    "id": 82,
+    "data": "I choose a service category",
+    "label": [
+        [11, 18, "CATEGORY"]
+    ]
+}, {
+    "id": 83,
+    "data": "I choose a process category",
+    "label": [
+        [11, 19, "CATEGORY"]
+    ]
+}, {
+    "id": 84,
+    "data": "I think product category fits best",
+    "label": [
+        [8, 15, "CATEGORY"]
+    ]
+}, {
+    "id": 85,
+    "data": "I think service category fits best",
+    "label": [
+        [8, 15, "CATEGORY"]
+    ]
+}, {
+    "id": 86,
+    "data": "I think process category fits best",
+    "label": [
+        [8, 15, "CATEGORY"]
+    ]
+}, {
+    "id": 87,
+    "data": "It seems the product category might work",
+    "label": [
+        [13, 20, "CATEGORY"]
+    ]
+}, {
+    "id": 88,
+    "data": "It seems the process category might work",
+    "label": [
+        [13, 21, "CATEGORY"]
+    ]
+}, {
+    "id": 89,
+    "data": "It seems the service category might work",
+    "label": [
+        [13, 21, "CATEGORY"]
+    ]
+}, {
+    "id": 90,
+    "data": "Among those categories the product one looks promising",
+    "label": [
+        [27, 35, "CATEGORY"]
+    ]
+}, { "id": 91, "data": "Among those categories the service one looks promising", "label": [] }, {
+    "id": 92,
+    "data": "Among those categories the process one looks promising",
+    "label": [
+        [27, 35, "CATEGORY"]
+    ]
+}, {
+    "id": 93,
+    "data": "I think the category is not the best word, but let's choose a product category",
+    "label": [
+        [62, 70, "CATEGORY"]
+    ]
+}, {
+    "id": 94,
+    "data": "I think the category is not the best word, but let's choose a service category",
+    "label": [
+        [62, 70, "CATEGORY"]
+    ]
+}, {
+    "id": 95,
+    "data": "I think the category is not the best word, but let's choose a process category",
+    "label": [
+        [62, 70, "CATEGORY"]
+    ]
+}, {
+    "id": 96,
+    "data": "I would label my idea as a product",
+    "label": [
+        [27, 34, "CATEGORY"]
+    ]
+}, {
+    "id": 97,
+    "data": "I would label my idea as a process",
+    "label": [
+        [27, 34, "CATEGORY"]
+    ]
+}, {
+    "id": 98,
+    "data": "I would label my idea as a service",
+    "label": [
+        [27, 34, "CATEGORY"]
+    ]
+}, {
+    "id": 99,
+    "data": "I'm not really sure where my idea belongs. I choose the product category but again, I'm not really sure about this",
+    "label": [
+        [56, 64, "CATEGORY"]
+    ]
+}, {
+    "id": 100,
+    "data": "I'm not really sure where my idea belongs. I choose the service category but again, I'm not really sure about this",
+    "label": [
+        [56, 64, "CATEGORY"]
+    ]
+}, {
+    "id": 101,
+    "data": "I'm not really sure where my idea belongs. I choose the process category but again, I'm not really sure about this",
+    "label": [
+        [56, 64, "CATEGORY"]
+    ]
+}, {
+    "id": 102,
+    "data": "I would be happy to release a product like this",
+    "label": [
+        [30, 38, "CATEGORY"]
+    ]
+}, {
+    "id": 103,
+    "data": "I know that it is more something more than a service, but let's go with that",
+    "label": [
+        [45, 52, "CATEGORY"]
+    ]
+}, {
+    "id": 104,
+    "data": "I would be happy to configure a service like this",
+    "label": [
+        [32, 40, "CATEGORY"]
+    ]
+}, {
+    "id": 105,
+    "data": "I would be happy to run a service like this",
+    "label": [
+        [26, 34, "CATEGORY"]
+    ]
+}, {
+    "id": 106,
+    "data": "Honestly, I don't know. Let's choose a product category",
+    "label": [
+        [39, 47, "CATEGORY"]
+    ]
+}, {
+    "id": 107,
+    "data": "Honestly, I don't know. Let's choose a service category",
+    "label": [
+        [39, 47, "CATEGORY"]
+    ]
+}, {
+    "id": 108,
+    "data": "Honestly, I don't know. Let's choose a process category",
+    "label": [
+        [39, 47, "CATEGORY"]
+    ]
+}, {
+    "id": 109,
+    "data": "Ok, let's think, what if we put the product label on it",
+    "label": [
+        [36, 44, "CATEGORY"]
+    ]
+}, {
+    "id": 110,
+    "data": "Ok, let's think, what if we put the service label on it",
+    "label": [
+        [36, 44, "CATEGORY"]
+    ]
+}, {
+    "id": 111,
+    "data": "Ok, let's think, what if we put the process label on it",
+    "label": [
+        [36, 44, "CATEGORY"]
+    ]
+}, {
+    "id": 112,
+    "data": "This is just a sample one, but the main idea is definetly a product",
+    "label": [
+        [60, 67, "CATEGORY"]
+    ]
+}, {
+    "id": 113,
+    "data": "This is just a sample one, but the main idea is definetly a process",
+    "label": [
+        [60, 67, "CATEGORY"]
+    ]
+}, {
+    "id": 114,
+    "data": "This is just a sample one, but the main idea is definetly a service",
+    "label": [
+        [60, 67, "CATEGORY"]
+    ]
+}, {
+    "id": 115,
+    "data": "I'm thinking about several categories. Let me start with the product one.",
+    "label": [
+        [61, 68, "CATEGORY"]
+    ]
+}, {
+    "id": 116,
+    "data": "I'm thinking about several categories. Let me start with the process one.",
+    "label": [
+        [61, 69, "CATEGORY"]
+    ]
+}, {
+    "id": 117,
+    "data": "I'm thinking about several categories. Let me start with the service one.",
+    "label": [
+        [61, 69, "CATEGORY"]
+    ]
+}, {
+    "id": 118,
+    "data": "I'm really confused now. May be it is a product, but it's hard to tell",
+    "label": [
+        [40, 47, "CATEGORY"]
+    ]
+}, {
+    "id": 119,
+    "data": "I'm really confused now. May be it is a service, but it's hard to tell",
+    "label": [
+        [40, 47, "CATEGORY"]
+    ]
+}, {
+    "id": 120,
+    "data": "I'm really confused now. May be it is a process, but it's hard to tell",
+    "label": [
+        [40, 47, "CATEGORY"]
+    ]
+}, {
+    "id": 121,
+    "data": "I'm confident that it is a product though some people may disagree",
+    "label": [
+        [27, 34, "CATEGORY"]
+    ]
+}, {
+    "id": 122,
+    "data": "I'm confident that it is a service though some people may disagree",
+    "label": [
+        [27, 34, "CATEGORY"]
+    ]
+}, {
+    "id": 123,
+    "data": "I'm confident that it is a process though some people may disagree",
+    "label": [
+        [27, 34, "CATEGORY"]
+    ]
+}, {
+    "id": 124,
+    "data": "I decided to start with a product category and see how it works out",
+    "label": [
+        [26, 33, "CATEGORY"]
+    ]
+}, {
+    "id": 125,
+    "data": "I decided to start with a service category and see how it works out",
+    "label": [
+        [26, 33, "CATEGORY"]
+    ]
+}, {
+    "id": 126,
+    "data": "I decided to start with a process category and see how it works out",
+    "label": [
+        [26, 33, "CATEGORY"]
+    ]
+}, {
+    "id": 127,
+    "data": "Do you mind if I choose a product category?",
+    "label": [
+        [26, 33, "CATEGORY"]
+    ]
+}, {
+    "id": 128,
+    "data": "Do you mind if I choose a service category?",
+    "label": [
+        [26, 33, "CATEGORY"]
+    ]
+}, {
+    "id": 129,
+    "data": "Do you mind if I choose a process category?",
+    "label": [
+        [26, 33, "CATEGORY"]
+    ]
+}, {
+    "id": 130,
+    "data": "At first I thought about a service category, but now I think more about the product one",
+    "label": [
+        [27, 34, "CATEGORY"],
+        [76, 83, "CATEGORY"]
+    ]
+}, {
+    "id": 131,
+    "data": "At first I thought about a process category, but now I think more about the product one",
+    "label": [
+        [27, 34, "CATEGORY"],
+        [76, 83, "CATEGORY"]
+    ]
+}, {
+    "id": 132,
+    "data": "At first I thought about a product category, but now I think more about the process one",
+    "label": [
+        [27, 34, "CATEGORY"],
+        [76, 83, "CATEGORY"]
+    ]
+}, {
+    "id": 133,
+    "data": "At first I thought about a service category, but now I think more about the process one",
+    "label": [
+        [27, 34, "CATEGORY"],
+        [76, 83, "CATEGORY"]
+    ]
+}, {
+    "id": 134,
+    "data": "It is very likely that we are talking about the product category",
+    "label": [
+        [48, 56, "CATEGORY"]
+    ]
+}, {
+    "id": 135,
+    "data": "It is very likely that we are talking about the service category",
+    "label": [
+        [48, 56, "CATEGORY"]
+    ]
+}, {
+    "id": 136,
+    "data": "It is very likely that we are talking about the process category",
+    "label": [
+        [48, 56, "CATEGORY"]
+    ]
+}, {
+    "id": 137,
+    "data": "It can be a product, but it is unlikely so. More a process though.",
+    "label": [
+        [51, 59, "CATEGORY"],
+        [12, 19, "CATEGORY"]
+    ]
+}, {
+    "id": 138,
+    "data": "It can be a product, but it is unlikely so. More a service though.",
+    "label": [
+        [51, 59, "CATEGORY"],
+        [12, 19, "CATEGORY"]
+    ]
+}, {
+    "id": 139,
+    "data": "It can be a process, but it is unlikely so. More a service though.",
+    "label": [
+        [12, 19, "CATEGORY"],
+        [51, 59, "CATEGORY"]
+    ]
+}, {
+    "id": 140,
+    "data": "It can be a service, but it is unlikely so. More a process though.",
+    "label": [
+        [12, 19, "CATEGORY"],
+        [51, 59, "CATEGORY"]
+    ]
+}, {
+    "id": 141,
+    "data": "Obviously it belongs to the product category",
+    "label": [
+        [28, 36, "CATEGORY"]
+    ]
+}, {
+    "id": 142,
+    "data": "Obviously it belongs to the service category",
+    "label": [
+        [28, 36, "CATEGORY"]
+    ]
+}, {
+    "id": 143,
+    "data": "Obviously it belongs to the process category",
+    "label": [
+        [28, 36, "CATEGORY"]
+    ]
+}, {
+    "id": 144,
+    "data": "I am absolutely sure my idea would be the best product ever",
+    "label": [
+        [47, 55, "CATEGORY"]
+    ]
+}, {
+    "id": 145,
+    "data": "I am absolutely sure my idea would be the best service ever",
+    "label": [
+        [47, 55, "CATEGORY"]
+    ]
+}, {
+    "id": 146,
+    "data": "I am absolutely sure my idea would be the best process ever",
+    "label": [
+        [47, 55, "CATEGORY"]
+    ]
+}, {
+    "id": 147,
+    "data": "It is more about improving the existing product",
+    "label": [
+        [40, 47, "CATEGORY"]
+    ]
+}, {
+    "id": 148,
+    "data": "It is more about improving the existing service",
+    "label": [
+        [40, 47, "CATEGORY"]
+    ]
+}, {
+    "id": 149,
+    "data": "It is more about improving the existing process",
+    "label": [
+        [40, 47, "CATEGORY"]
+    ]
+}, {
+    "id": 150,
+    "data": "Do you think it matters? OK, product then",
+    "label": [
+        [29, 36, "CATEGORY"]
+    ]
+}, {
+    "id": 151,
+    "data": "Do you think it matters? OK, service then",
+    "label": [
+        [29, 37, "CATEGORY"]
+    ]
+}, {
+    "id": 152,
+    "data": "Do you think it matters? OK, process then",
+    "label": [
+        [29, 37, "CATEGORY"]
+    ]
+}, {
+    "id": 153,
+    "data": "It is certainly the product category",
+    "label": [
+        [20, 28, "CATEGORY"]
+    ]
+}, {
+    "id": 154,
+    "data": "It is certainly the service category",
+    "label": [
+        [20, 28, "CATEGORY"]
+    ]
+}, {
+    "id": 155,
+    "data": "It is certainly the process category",
+    "label": [
+        [20, 27, "CATEGORY"]
+    ]
+}, {
+    "id": 156,
+    "data": "Do I really need to put a label on it? All right, let's go with the product",
+    "label": [
+        [68, 75, "CATEGORY"]
+    ]
+}, {
+    "id": 157,
+    "data": "Do I really need to put a label on it? All right, let's go with the service",
+    "label": [
+        [68, 75, "CATEGORY"]
+    ]
+}, {
+    "id": 158,
+    "data": "Do I really need to put a label on it? All right, let's go with the process",
+    "label": [
+        [68, 75, "CATEGORY"]
+    ]
+}, {
+    "id": 159,
+    "data": "I don't know, use product",
+    "label": [
+        [18, 25, "CATEGORY"]
+    ]
+}, { "id": 160, "data": "I don't know, use service", "label": [] }, {
+    "id": 161,
+    "data": "I don't know, use process",
+    "label": [
+        [18, 25, "CATEGORY"]
+    ]
+}, {
+    "id": 162,
+    "data": "This idea can be used in different ways, I am choosing the product category now",
+    "label": [
+        [59, 67, "CATEGORY"]
+    ]
+}, {
+    "id": 163,
+    "data": "This idea can be used in different ways, I am choosing the service category now",
+    "label": [
+        [59, 67, "CATEGORY"]
+    ]
+}, {
+    "id": 164,
+    "data": "This idea can be used in different ways, I am choosing the process category now",
+    "label": [
+        [59, 67, "CATEGORY"]
+    ]
+}, {
+    "id": 165,
+    "data": "The main point is to build a product like this",
+    "label": [
+        [29, 37, "CATEGORY"]
+    ]
+}, {
+    "id": 166,
+    "data": "The main point is to set up a process like this",
+    "label": [
+        [30, 38, "CATEGORY"]
+    ]
+}, {
+    "id": 167,
+    "data": "The main point is to configure a service like this",
+    "label": [
+        [33, 40, "CATEGORY"]
+    ]
+}, {
+    "id": 168,
+    "data": "I'm really really unsure on how it can be labeled. My first thought it is a product, but now I am thinking more of a service",
+    "label": [
+        [76, 83, "CATEGORY"],
+        [117, 124, "CATEGORY"]
+    ]
+}, {
+    "id": 169,
+    "data": "I'm really really unsure on how it can be labeled. My first thought it is a process, but now I am thinking more of a service",
+    "label": [
+        [117, 124, "CATEGORY"],
+        [76, 83, "CATEGORY"]
+    ]
+}, {
+    "id": 170,
+    "data": "I'm really really unsure on how it can be labeled. My first thought it is a service, but now I am thinking more of a product",
+    "label": [
+        [117, 124, "CATEGORY"],
+        [76, 83, "CATEGORY"]
+    ]
+}, {
+    "id": 171,
+    "data": "I'm really really unsure on how it can be labeled. My first thought it is a process, but now I am thinking more of a product",
+    "label": [
+        [117, 124, "CATEGORY"],
+        [76, 83, "CATEGORY"]
+    ]
+}, {
+    "id": 172,
+    "data": "I've been asked about this once, I think it is a product",
+    "label": [
+        [49, 56, "CATEGORY"]
+    ]
+}, {
+    "id": 173,
+    "data": "I've been asked about this once, I think it is a service",
+    "label": [
+        [49, 56, "CATEGORY"]
+    ]
+}, {
+    "id": 174,
+    "data": "I've been asked about this once, I think it is a process",
+    "label": [
+        [49, 56, "CATEGORY"]
+    ]
+}, {
+    "id": 175,
+    "data": "It is not a service, and not a process, so let's choose a product",
+    "label": [
+        [58, 65, "CATEGORY"],
+        [31, 38, "CATEGORY"],
+        [12, 19, "CATEGORY"]
+    ]
+}, {
+    "id": 176,
+    "data": "It is not a service, and not a product, so let's choose a process",
+    "label": [
+        [31, 38, "CATEGORY"],
+        [12, 19, "CATEGORY"],
+        [58, 65, "CATEGORY"]
+    ]
+}, {
+    "id": 177,
+    "data": "It is not a product, and not a process, so let's choose a service",
+    "label": [
+        [58, 65, "CATEGORY"],
+        [31, 38, "CATEGORY"],
+        [12, 19, "CATEGORY"]
+    ]
+}, {
+    "id": 178,
+    "data": "The last one is not my case, but the process is a good choice",
+    "label": [
+        [37, 44, "CATEGORY"]
+    ]
+}, {
+    "id": 179,
+    "data": "The last one is not my case, but the product is a good choice",
+    "label": [
+        [37, 44, "CATEGORY"]
+    ]
+}, {
+    "id": 180,
+    "data": "The last one is not my case, but the service is a good choice",
+    "label": [
+        [37, 44, "CATEGORY"]
+    ]
+}, {
+    "id": 181,
+    "data": "At least it can be called a product",
+    "label": [
+        [28, 34, "CATEGORY"]
+    ]
+}, {
+    "id": 182,
+    "data": "At least it can be called a service",
+    "label": [
+        [28, 35, "CATEGORY"]
+    ]
+}, {
+    "id": 183,
+    "data": "At least it can be called a process",
+    "label": [
+        [28, 35, "CATEGORY"]
+    ]
+}]
